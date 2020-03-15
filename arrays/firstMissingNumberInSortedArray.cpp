@@ -1,3 +1,4 @@
+//Problem: https://www.geeksforgeeks.org/find-the-first-missing-number/
 //M1: Method 1 (Linear Search)
 //If arr[0] is not 0, return 0. Otherwise traverse the input array starting from index 0.
 //for each pair of elements a[i] and a[i+1], find the difference between them.
