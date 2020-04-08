@@ -1,5 +1,5 @@
 //https://www.interviewbit.com/problems/different-bits-sum-pairwise/
-//Different bits pairwise
+//Different bits sum pairwise
 /*int countSetBits(int z){
         int count = 0;
         while (z>0) {
