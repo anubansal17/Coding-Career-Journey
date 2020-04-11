@@ -51,7 +51,7 @@ ListNode* Solution::reorderList(ListNode* A) {
         
         dp = dp->next;
     }
-    //To cover the case of the total number of nodes were odd
+    //To cover the case if the total number of nodes were odd
     if(sp != NULL){
         dp->next = sp;
     }
