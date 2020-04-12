@@ -8,7 +8,7 @@ vector<int> Solution::prevSmaller(vector<int> &A) {
     vector <int> v(n, -1);
     stack <int> stk;
     for (int i=n-1; i>=0; i--){
-        if(!stk.empty() and A[stk.top()]<=A[i]){
+        if(stk.empty() or A[stk.top()]<=A[i]){
             stk.push(i);
             continue;
         }
