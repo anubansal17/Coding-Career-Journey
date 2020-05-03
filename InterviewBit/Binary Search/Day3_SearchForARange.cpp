@@ -1,4 +1,4 @@
-// https://www.interviewbit.com/problems/search-for-a-range/
+// Problem: https://www.interviewbit.com/problems/search-for-a-range/
 // Code is absolutely correct but didn't get submitted beacause of some bug in IB's test case
 int searchIndex(vector <int>A, int B, bool is_first_occurence){
     int l = 0;
