@@ -10,4 +10,6 @@
     Example: 8: 1000, 7 : 0111 so 8&7 == 0 which implies 8 is a power of 2
 - To find if the nth bit is set or unset in a number N
   - Right shift number by n and then & this with 1 if it is 0 then the bit is unset and if it is 1 then it is set
+  - To find total no of bits in N, use ceil(log(N)) or we can use predefined function which is __builtin_popcount(N)   
+    it will return the number of set bits in number N.
 
