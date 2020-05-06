@@ -8,4 +8,6 @@
 - To find if number is a power of 2 or not:
   - Do 'and' of n and n-1 if it is equal to zero than it is a power of 2 otherwise not.
     Example: 8: 1000, 7 : 0111 so 8&7 == 0 which implies 8 is a power of 2
+- To find if the nth bit is set or unset in a number N
+  - Right shift number by n and then & this with 1 if it is 0 then the bit is unset and if it is 1 then it is set
 
