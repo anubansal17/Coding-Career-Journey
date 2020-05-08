@@ -26,5 +26,6 @@
   - 110 represents [1, 2]
   - 111 represents [1,2,3]
   - As we can see, all the possible subsets have been covered this way
-- 
+- Avoid using power function always, instead use other way arounds like:
+  - 1<<n equals power(2,n)
 
