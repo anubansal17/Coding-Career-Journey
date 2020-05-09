@@ -5,8 +5,8 @@ int Solution::sqrt(int A) {
     int r = A;
     int ans = 0;
     while(l<=r){
-        long int mid = l + (r-l)/2;
-        if(2l * mid*mid == A){
+        long long int mid = l + (r-l)/2;
+        if(mid*mid == A){
             ans = mid;
            
             return ans;
@@ -20,3 +20,4 @@ int Solution::sqrt(int A) {
     }
     return ans;
 }
+
