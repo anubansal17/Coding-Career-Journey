@@ -1,4 +1,4 @@
-# Good to know Concepts behind some standard ques
+# Good to know concepts behind some standard ques
 - To find max consecutive sum in an array:
   - Kadane's Algorithm - Idea behind this algo is to look for all positive segments in the array and keep track of maximum of sum of these segments
     and this maximum sum is our reqd answer
