@@ -10,4 +10,13 @@
       - }
       - return ans
 - To find max consecutive sum in a circular array containing both positive as well as negative numbers
-  - 
+  - We have 3 cases to consider:
+    - Case 1: If all elements in the array are negative
+      - Run a loop and check the largest element in the array and return it
+    - Case 2: If max sum exists in the inner part of the array alongwith one of the corner element
+      - Run the Kadane's Algo without any changes in the array
+    - Case 3: If max sum exists, including both the corner elements i.e., wrapping is there
+      - Find total sum of all the elements in the array and subtract sum of non-contributing elements from it
+      - To find the sum of non contributing elements, invert the sign of each element in the array and run kadane's Algo for 
+        this array and result from this algo would be the sum of non contributing elements(sum is with opposite sign)
+      - Reqd answer = totalSum - (- nonContriSum)
