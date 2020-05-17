@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/
+// M1 - Using Binary Search
 // We can use binary search for this, to find out target - i element.
 // If it is present in the array we can return its index otherwise return -1
 class Solution {
@@ -47,3 +48,37 @@ public:
         return ans;
     }
 };
+
+// M2 - Using maps(in-built binary search) and to consider the case if duplicates entries contributing to the reqd sum,
+// We will use vector to store indices of all the occurences of elements
+// Simple to understand and efficient
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int n = nums.size();
+        vector<int> ans;
+        map <int, vector <int>> mp;
+        map <int, vector <int>>:: iterator it;
+        for (int i=0; i<n; i++){
+           mp[nums[i]].push_back(i); 
+        }
+        for(auto i = mp.begin(); i != mp.end(); i++){
+            it = mp.find(target - (i->first));
+            if(it != mp.end()){
+                ans.push_back(i->second[0]);
+                if((it->second).size() == 2){
+                    ans.push_back(it->second[1]);
+                }else{
+                    ans.push_back(it->second[0]);
+                }
+                
+                break;
+            }
+        }
+        sort(ans.begin(), ans.end());
+        return ans;
+    }
+};
+
+
+
