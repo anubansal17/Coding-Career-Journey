@@ -20,3 +20,9 @@
       - To find the sum of non contributing elements, invert the sign of each element in the array and run kadane's Algo for 
         this array and result from this algo would be the sum of non contributing elements(sum is with opposite sign)
       - Reqd answer = totalSum - (- nonContriSum)
+## Sets
+- Also stores the elements in sorted order(Talking about ordered sets)
+- Unordered maps store the elements in unsorted order
+- Time complexity of doing operations in sets is same as that for maps
+- For accessing value at any key, the syntax is *iterator
+
