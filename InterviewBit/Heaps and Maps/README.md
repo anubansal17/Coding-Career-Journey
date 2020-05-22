@@ -1,6 +1,7 @@
 # Maps
 - Key Value Pairs</br>
 - Implemented using BSTs at the back-end</br>
+- We can also have vectors as a value in maps</br>
 - For its traversal, iterator is used</br>
 - for(it = map.begin();it!=map.end();it++)
 - If we need to find if some key is present in the map or not, we have find function
