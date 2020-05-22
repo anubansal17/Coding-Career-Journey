@@ -20,6 +20,15 @@
       - To find the sum of non contributing elements, invert the sign of each element in the array and run kadane's Algo for 
         this array and result from this algo would be the sum of non contributing elements(sum is with opposite sign)
       - Reqd answer = totalSum - (- nonContriSum)
+- memset() function in arrays
+  - To initialize an array with some value
+  - Example: memset(a, 0, sizeof(a)); - It will intialize array a with value 0
+- nextpermutation function in array or string
+  - To find the next permutation of any string s (sort s, so that the function can work according to expectations)
+  - It returns true if the function could reorder the object as a lexicographically greater permutations
+  - Example: sort(s) then next_permutation(s.begin(), s.end())
+
+Else, the function returns false to indicate that the arrangement is not greater than the previous, but the lowest possible (sorted in ascending order)
 ## Sets
 - Also stores the elements in sorted order(Talking about ordered sets)
 - Unordered maps store the elements in unsorted order
