@@ -1,2 +1,3 @@
 # DSA-Coding-Practice
-Daily practice codes posted for my own reference
+Hey ya!
+Welcome to my code repo, here I post my Daily practice codes for my own reference
