@@ -16,3 +16,14 @@
   - Case2: If A[mid] <= A[next] and A[mid] <= A[prev] then return mid
   - Case3: If A[mid] <= A[r] then make r = mid - 1
   - Case4: If A[mid] >= A[l] then make l = mid + 1
+- Discrete Binary Search:
+  - You have a function f(x) which is monotonically increasing (decreasing)
+  - Find lower bound for some number present in array
+    - Find the first element which is not less than the num
+  - Find the upper bound for some number present in array
+    - Find the index of first element which is greater than the num
+    - Major Application to find frequency of any element in the array, so the answer in that case would be upperBound - lowerBound ~ log(n) complexity
+    - STL for lowerBound and upperBound - lower_bound(v.begin(),v.end(),element) and upper_bound(v.begin(), v.end())
+    - Find the first number x such that x^3 > V
+    - Find nth root of x i.e (n√x)
+    
