@@ -26,4 +26,15 @@
     - STL for lowerBound and upperBound - lower_bound(v.begin(),v.end(),element) and upper_bound(v.begin(), v.end())
     - Find the first number x such that x^3 > V
     - Find nth root of x i.e (n√x)
+- To Find Pivot element
+- To search element in rotated sorted array
+- To do exponentiation
+- To find square root of any number
+- Optimization Problems - maximize x, keeping y as minimum
+- Practice problems -
+  - Aggresive Cow - SPOJ
+  - Book Allocation Problem
+  - Painters Partition Problem
+  - EKO Problem - SPOJ
+  
     
