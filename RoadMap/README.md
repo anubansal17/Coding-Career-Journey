@@ -1,4 +1,4 @@
-# Roadmap to follow for a medium level programmer
+# DSA Roadmap for reference
 
 Day1: (Arrays)
 
