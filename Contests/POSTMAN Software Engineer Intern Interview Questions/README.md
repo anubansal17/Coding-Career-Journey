@@ -1,4 +1,3 @@
-# Standard Concepts
 1. Databases
 2. [ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/)</br>
 3. Relational Database
@@ -47,4 +46,16 @@
 23. [What happens when you type google.com](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 24. How Ajax works: Asynchronous JavaScript and XML. AJAX is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
 25. Why postman?
-26. 
+26. How internet works?
+27. http vs https:
+  - HTTP URL in your browser's address bar is http:// and the HTTPS URL is https://.
+  - HTTP is unsecured while HTTPS is secured.
+  - HTTP sends data over port 80 while HTTPS uses port 443.
+  - HTTP operates at application layer, while HTTPS operates at transport layer.
+  - No SSL certificates are required for HTTP, with HTTPS it is required that you have an SSL certificate and it is signed by     a CA.
+  - HTTP doesn't require domain validation, where as HTTPS requires at least domain validation and certain certificates even     require legal document validation.
+  - No encryption in HTTP, with HTTPS the data is encrypted before sending
+28. [hashing vs encryption](https://www.solarwindsmsp.com/blog/hashing-vs-encryption%C2%A0)
+29. [Web Sockets and Http request](https://developerinsider.co/difference-between-http-and-http-2-0-websocket/#:~:text=WebSocket%20is%20a%20protocol%20providing,HTTP%20providing%20half%2Dduplex%20communication.&text=Means%2C%20server%20can%20push%20information,does%20not%20allow%20direct%20HTTP))
+30. Process thread
+31. 
