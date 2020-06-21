@@ -58,4 +58,5 @@
 28. [hashing vs encryption](https://www.solarwindsmsp.com/blog/hashing-vs-encryption%C2%A0)
 29. [Web Sockets and Http request](https://developerinsider.co/difference-between-http-and-http-2-0-websocket/#:~:text=WebSocket%20is%20a%20protocol%20providing,HTTP%20providing%20half%2Dduplex%20communication.&text=Means%2C%20server%20can%20push%20information,does%20not%20allow%20direct%20HTTP))
 30. Process thread
-31. 
+31. Difference between encryption and hashing. What is used in real-life projects for saving passwords etc?
+  - Hashing
