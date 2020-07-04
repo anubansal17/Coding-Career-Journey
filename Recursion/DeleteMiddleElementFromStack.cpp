@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1
 void solve(stack <int> &s, int middle) {
     
     // Base Condition: If we reaches the middle position, i.e. middle becomes 1
