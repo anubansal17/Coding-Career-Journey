@@ -19,3 +19,25 @@
   - O(1) time
 - For multi maps: </br>
   - We can store duplicate entries
+  
+  # Queues
+  - FIFO
+  - Declaration syntax: queue<data_type>q
+  - Operations: q.front(), q.pop(), q.push(), q.empty(), q.clear()
+  
+  # Stacks
+  - LIFO
+  - Declaration syntax: stack<data_type>s
+  - Operations: s.top(), s.push(), s.pop(), s.empty(), s.clear()
+  
+  # Priority Queues
+  - priority_queue<DT, vector<DT> > pq_name;(Max heap)
+  - priority_queue<DT, vector<DT>, greater<DT> > pq_name;(Min heap)
+  - Min heap will give the minimum element present in O(logn) time and same in the case of max heap
+  - Elements in min heap and max heap are not stored in sorted order but root of in the heap contains the minimum and maximum element respectively
+  - Complexity for finding the top element in priority_queue - O(logn)
+  - Operations - pq.push(x), pq.top(), pq.empty(), pq.pop()
+  
+  # Pair
+  
+  
