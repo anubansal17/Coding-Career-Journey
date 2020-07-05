@@ -39,5 +39,19 @@
   - Operations - pq.push(x), pq.top(), pq.empty(), pq.pop()
   
   # Pair
+  - pair<DT, DT> P;
+  - pair <int, int> p;
+  - make_pair(x,y)
+  - [Codechef problem to practice pair](https://www.codechef.com/problems/CSS2)
   
+  # Sort Comparator
+  - sort(a,a+n,function_name)
+  - conditions in fxn
+  - [Codechef Problem to practice sort comparator](https://www.codechef.com/problems/POINTS)
   
+  # Standard STL functions
+  - memset(a,0,size(a)) -> initialise all elements to 0/1
+  - __gcd(x,y) -> find gcd of two numbers
+  - next_permutation() -> print next permutation
+  - lower_bound()
+  - upper_bound()
