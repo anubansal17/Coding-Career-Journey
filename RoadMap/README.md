@@ -10,12 +10,12 @@ Day1: (Arrays)
 6. [Merge Overlapping Subintervals]()</br> 
 
 Day2: (Arrays)
-Set Matrix Zeros 
-Pascal Triangle 
-Next Permutation 
-Inversion of Array (Using Merge Sort) 
-Stock Buy and Sell 
-Rotate Matrix  
+Set Matrix Zeros </br>
+Pascal Triangle </br>
+Next Permutation </br>
+Inversion of Array (Using Merge Sort)</br> 
+Stock Buy and Sell </br>
+Rotate Matrix  </br>
 
 Day3: (Math)
 Excel Column Number 
