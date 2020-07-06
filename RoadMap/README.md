@@ -166,25 +166,25 @@ Find LCA of two nodes in BST </br>
 Find the inorder predecessor/successor of a given Key in BST. </br>
 
 Day21: (BinarySearchTree) 
-Floor and Ceil in a BST 
-Find K-th smallest and K-th largest element in BST (2 different Questions) 
-Find a pair with a given sum in BST 
-BST iterator 
-Size of the largest BST in a Binary Tree 
-Serialize and deserialize Binary Tree
+Floor and Ceil in a BST </br>
+Find K-th smallest and K-th largest element in BST (2 different Questions) </br>
+Find a pair with a given sum in BST </br>
+BST iterator </br>
+Size of the largest BST in a Binary Tree </br>
+Serialize and deserialize Binary Tree</br>
 
 Day22: (Mixed Questions) 
-Binary Tree to Double Linked List 
-Find median in a stream of running integers. 
-K-th largest element in a stream. 
-Distinct numbers in Window. 
-K-th largest element in an unsorted array. 
-Flood-fill Algorithm 
+Binary Tree to Double Linked List </br>
+Find median in a stream of running integers. </br>
+K-th largest element in a stream. </br>
+Distinct numbers in Window. </br>
+K-th largest element in an unsorted array.</br> 
+Flood-fill Algorithm </br>
 
 Day23: (Graph) 
-Clone a graph (Not that easy as it looks) 
-DFS
-BFS
+Clone a graph (Not that easy as it looks) </br>
+DFS</br>
+BFS</br>
 Detect A cycle in Undirected Graph/Directed Graph 
 Topo Sort 
 Number of islands (Do in Grid and Graph both) 
