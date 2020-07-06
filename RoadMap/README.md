@@ -185,53 +185,53 @@ Day23: (Graph)
 Clone a graph (Not that easy as it looks) </br>
 DFS</br>
 BFS</br>
-Detect A cycle in Undirected Graph/Directed Graph 
-Topo Sort 
-Number of islands (Do in Grid and Graph both) 
-Bipartite Check 
+Detect A cycle in Undirected Graph/Directed Graph </br>
+Topo Sort </br>
+Number of islands (Do in Grid and Graph both) </br>
+Bipartite Check </br>
 
 Day24: (Graph)
-SCC(using KosaRaju’s algo) 
-Djisktra’s Algorithm 
-Bellman Ford Algo 
-Floyd Warshall Algorithm  
-MST using Prim’s Algo 
-MST using Kruskal’s Algo  
+SCC(using KosaRaju’s algo) </br>
+Djisktra’s Algorithm </br>
+Bellman Ford Algo </br>
+Floyd Warshall Algorithm </br>  
+MST using Prim’s Algo </br>
+MST using Kruskal’s Algo  </br>
 
 Day25: (Dynamic Programming) 
-Max Product Subarray 
-Longest Increasing Subsequence
-Longest Common Subsequence 
-0-1 Knapsack 
-Edit Distance
-Maximum sum increasing subsequence  
-Matrix Chain Multiplication 
+Max Product Subarray </br>
+Longest Increasing Subsequence</br>
+Longest Common Subsequence </br>
+0-1 Knapsack </br>
+Edit Distance</br>
+Maximum sum increasing subsequence</br>  
+Matrix Chain Multiplication </br>
 
 Day26: (DP) 
-Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) 
-Coin change 
-Subset Sum 
-Rod Cutting 
-Egg Dropping 
-Word Break 
-Palindrome Partitioning (MCM Variation) 
+Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
+Coin change </br>
+Subset Sum </br>
+Rod Cutting </br>
+Egg Dropping </br>
+Word Break </br>
+Palindrome Partitioning (MCM Variation) </br>
 
 
 Day27: 
-Revise OS notes that you would have made during your sem 
-If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. 
+Revise OS notes that you would have made during your sem </br>
+If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. </br>
 
 Day28: 
-Revise DBMS notes that you would have made during your semesters. 
-If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. 
+Revise DBMS notes that you would have made during your semesters. </br>
+If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. </br>
 
 Day29: 
-Revise CN notes, that you would have made during your sem. 
-If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. 
+Revise CN notes, that you would have made during your sem. </br>
+If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. </br>
 
 
 Day30: 
-Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project. 
+Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project. </br>
 
 
 
