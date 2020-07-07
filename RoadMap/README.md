@@ -232,8 +232,4 @@ If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. </br>
 
 Day30: 
 Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project. </br>
-
-
-
-
 Hurrah!! You are ready for your placement after a month of hard-work without a cheat day. 
