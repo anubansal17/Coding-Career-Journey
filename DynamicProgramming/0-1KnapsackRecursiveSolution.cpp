@@ -14,7 +14,7 @@ int knapsack(vector<int> wt, vector<int> val, int w, int n){
     } else {
         // Max of two cases
         // First case: if we include the item then profit value
-        // Second case: if we doesn't include the item then profit value
+        // Second case: if we don't include the item then profit value
        
        return max(val[n-1]+knapsack(wt, val, w-wt[n-1], n-1), knapsack(wt, val, w, n-1)); 
     }
