@@ -1,6 +1,6 @@
 # Basic Standard Concepts
 - Subsets of array
-  - Always draw recursion tree for recursion problems
+  - Always draw recursion tree for recursion problems wherever choice is present
 - 
 ## Problems
 1. [Height of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/)
