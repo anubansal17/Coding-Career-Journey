@@ -5,6 +5,9 @@
 5. [Rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0/)
 6. [Coin change I - Max number of ways](https://leetcode.com/problems/coin-change-2/)
 7. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/submissions/)
-8. [Longest Common Subsequence]
-9. [Longest Common Substring]
-10. 
+8. [Longest Common Subsequence Length](https://leetcode.com/problems/longest-common-subsequence/submissions/)
+9. [Longest Common Substring Length](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+10.[Print Longest Common subsequence]()
+11.[Longest Increasing subsequence length](https://leetcode.com/problems/longest-increasing-subsequence/)
+12.[]()
+
