@@ -7,7 +7,9 @@
 7. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/submissions/)
 8. [Longest Common Subsequence Length](https://leetcode.com/problems/longest-common-subsequence/submissions/)
 9. [Longest Common Substring Length](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
-10.[Print Longest Common subsequence]()
-11.[Longest Increasing subsequence length](https://leetcode.com/problems/longest-increasing-subsequence/)
-12.[]()
+10. Print Longest Common subsequence - Code implemented for practice
+11. [Print Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+11. [Longest Increasing subsequence length](https://leetcode.com/problems/longest-increasing-subsequence/)
+12. Shortest Common Supersequence Length - Approach: Len(str1)+Len(str2)-Len(LCS)
+13. [Minimum Number of deletions and insertions]()
 
