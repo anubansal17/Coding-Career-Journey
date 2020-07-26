@@ -32,3 +32,33 @@ public:
         return ans;
     }
 };
+
+// Tabulation method - Bottom-up approach
+class Solution {
+    int knapsack(vector<int> wt, int n, int sum) {
+        int dp[n+1][sum+1];
+        for (int i=0; i<=n; i++) {
+            for (int j=0; j<=sum; j++) {
+                if(i == 0 and j != 0) {
+                    dp[i][j] = 0;
+                } else if (j == 0) {
+                    dp[i][j] = 1;
+                } else if(wt[i-1] > j) {
+                    dp[i][j] = dp[i-1][j];
+                } else {
+                    dp[i][j] = dp[i][j-wt[i-1]] + dp[i-1][j];
+                }
+            }
+        }
+        return dp[n][sum];
+    }
+public:
+    // Output - nunber of possible combinations making a sum as S
+    // More of a count number of subsets problem
+    int change(int amount, vector<int>& coins) {
+        int ans;
+        int n = coins.size();
+        ans = knapsack(coins, n, amount);
+        return ans;
+    }
+};
