@@ -17,6 +17,6 @@
 16. *[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 17. *[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
 18. *[Palindromic subsequences](https://leetcode.com/problems/palindromic-substrings/)
-19. [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
-20. [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)
+19. [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0) - Done
+20. [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/) - Done
 
