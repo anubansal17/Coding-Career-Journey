@@ -1,3 +1,4 @@
+// Time complexity - O(n^2)
 class Solution {
     int LIS(vector<int> nums, int n) {
         int tp[n];
