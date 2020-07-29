@@ -23,5 +23,6 @@
 22. [Longest Increasing Subsequence Length](https://leetcode.com/problems/longest-increasing-subsequence/submissions/) - Done
 23. *[Print Longest Increasing Subsequence]()
 24. *[Count Longest Increasing Subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/solution/)
-25. []
+25. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
 
