@@ -6,3 +6,7 @@
 4. Find GCD in Log N </br>
 5. Grid Unique Paths </br>
 6. Go through Puzzles from GFG (Search on own) </br>
+
+## Dayx - (Union Find Algo)
+1. Implement Disjoint Set (data structure for union-find)
+2. 
