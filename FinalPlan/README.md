@@ -8,5 +8,5 @@
 6. Go through Puzzles from GFG (Search on own) </br>
 
 ## Dayx - (Union Find Algo)
-1. Implement Disjoint Set (data structure for union-find)
-2. 
+7. [Implement Disjoint Set (data structure for union-find), without any optimization](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1)
+8. []
