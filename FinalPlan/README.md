@@ -8,4 +8,5 @@
 1. [Implement Disjoint Set (data structure for union-find), without any optimization](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1)
 2. Implementation for storing graph in adjacency list
 3. BFS Implementation
-4. 
+#### Day2
+1. DFS Implementation
