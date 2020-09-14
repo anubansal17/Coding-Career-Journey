@@ -8,3 +8,5 @@
 3. BFS Implementation
 #### Day2
 1. DFS Implementation
+2. DSU Implementation - Ranks + Path Compression
+3. 
