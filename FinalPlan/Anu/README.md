@@ -11,8 +11,17 @@
 #### 13 Sept
 1. DFS Implementation
 2. DSU Implementation - Ranks + Path Compression
+3. BFS, DFS Practice questions: Pending
+  (https://www.spoj.com/problems/CAM5/)</br>
+  (https://www.spoj.com/problems/PT07Y/)</br>
+  (https://www.spoj.com/problems/PT07Z/)</br>
+  (https://www.spoj.com/problems/PPATH/)</br>
+  (https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/</br>
 
 #### 16 Sept
 1. DSU Applications - Connected Components, Detect a cycle, Minimum spanning tree
 2. [DSU Practice Questions](https://www.hackerearth.com/challenges/competitive/code-monk-disjoint-set-union/problems/) - Pending
-3. 
+3. Minimum Spanning Tree: Kruskal, Prims
+  Algo:
+  a) Sort all the edges according to asc order of weights</br>
+  b) Apply DSU algo and calculate total weight</br>
