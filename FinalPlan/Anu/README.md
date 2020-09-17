@@ -13,4 +13,6 @@
 2. DSU Implementation - Ranks + Path Compression
 
 #### 16 Sept
-1. DSU Applications -
+1. DSU Applications - Connected Components, Detect a cycle, Minimum spanning tree
+2. [DSU Practice Questions](https://www.hackerearth.com/challenges/competitive/code-monk-disjoint-set-union/problems/) - Pending
+3. 
