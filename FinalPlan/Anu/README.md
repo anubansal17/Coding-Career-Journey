@@ -11,7 +11,7 @@
 #### 13 Sept
 1. DFS Implementation
 2. DSU Implementation - Ranks + Path Compression
-3. BFS, DFS Practice questions: Pending
+3. BFS, DFS Practice questions: Pending</br>
   (https://www.spoj.com/problems/CAM5/)</br>
   (https://www.spoj.com/problems/PT07Y/)</br>
   (https://www.spoj.com/problems/PT07Z/)</br>
