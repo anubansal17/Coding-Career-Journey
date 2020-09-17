@@ -10,9 +10,9 @@
 1. Union Find Algorithm Implementation
 
 #### 16/09/2020, 17/09/2020
-1. Backtracking Theory and implementation.
-   a. Rat Maze problem
-   b. Subsets/permuatations problem
-   c. chessboard problem
-   d. n queens problem
-   e. sudoku problem
+1. Backtracking Theory and implementation.</br>
+   a. Rat Maze problem</br>
+   b. Subsets/permuatations problem</br>
+   c. chessboard problem</br>
+   d. n queens problem</br>
+   e. sudoku problem</br>
