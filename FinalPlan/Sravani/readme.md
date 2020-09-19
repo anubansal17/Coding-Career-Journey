@@ -16,3 +16,6 @@
    c. chessboard problem</br>
    d. n queens problem</br>
    e. sudoku problem</br>
+   
+### 19/09/2020
+1. Backtracking graph coloring problem
