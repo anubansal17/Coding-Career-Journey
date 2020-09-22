@@ -25,3 +25,9 @@
   Algo:
   a) Sort all the edges according to asc order of weights</br>
   b) Apply DSU algo and calculate total weight</br>
+ 
+### 20 Sept
+1. Djikstra Algo Implementation
+2. [The Turtle´s Shortest Path](https://www.spoj.com/problems/TSHPATH/)
+3. [https://www.spoj.com/problems/CCHESS/](https://www.spoj.com/problems/CCHESS/)
+4. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
