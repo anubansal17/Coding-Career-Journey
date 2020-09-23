@@ -44,11 +44,11 @@ Practice questions: Pending</br>
       - Call DFS(G,u) with u as the start vertex
       - Use a stack S to keep track of path between the start vertex and the current vertex
       - As soon as the destination vertex v is encountered, return the path as the contents of the stack
-    5. Check if the graph is bipartite or not: Graph whose vertices can be divided into two independent sets, i.e. there is no edge that connects vertices of same set
+  - 5. Check if the graph is bipartite or not: Graph whose vertices can be divided into two independent sets, i.e. there is no edge that connects vertices of same set
       - Use a two coloring scheme, start with a vertex and give it a color
       - Run depth-first search from this vertex
       - For each new vertex, color it opposite it's parents
       - Check for edges that it doesn't link two vertices of the same color
-    6. Puzzles problem: maze related problems, obstacles in a matrix
+  - 6. Puzzles problem: maze related problems, obstacles in a matrix
 2. BFS Applications
   - 1. Shortest Path in a graph: 
