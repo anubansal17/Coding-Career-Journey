@@ -1,7 +1,7 @@
 /*
 1st Approach: Use hash maps(O(n) - T.C and S.C)
 2nd Approach: Do negation of the elements present at values of each index
-3rd Approach: Hare and Tortoise (Slow and Fast Pointer)
+3rd Approach: Hare and Tortoise (Slow and Fast Pointer) Best Approach (O(n) - T.C and O(1) - S.C)
 - Initialize fast and slow pointer with first element in the array
 - Till the point of collision of fast and slow pointer
 - If the slow pointer would have moved a distance a and fast pointer would have moved a distance of 2a
