@@ -35,20 +35,20 @@ Practice questions: Pending</br>
 
 ### 22 Sept
 1. DFS Applications
-  - 1. Detecting a cycle: For every visited vertex 'v', if there is an adjacent 'u' such that u is already visited and u is nit a parent of v, then there is a cycle in graph
-  - 2. Topological Sort: For a DAG G = (V, E) is a linear ordering of all its vertices such that if G contains an edge (u,v) the u appears before v in ordering(Practical application- Job scheduling). Use DFS traversal using a temporary stack
-  - 3. Strongly connected component: A directed graph is strongly connected if there is a path between all pair of vertices.
+  1. Detecting a cycle: For every visited vertex 'v', if there is an adjacent 'u' such that u is already visited and u is nit a parent of v, then there is a cycle in graph
+  2. Topological Sort: For a DAG G = (V, E) is a linear ordering of all its vertices such that if G contains an edge (u,v) the u appears before v in ordering(Practical application- Job scheduling). Use DFS traversal using a temporary stack
+  3. Strongly connected component: A directed graph is strongly connected if there is a path between all pair of vertices.
       - Kosaraju's Algo - uses two passes of depth first search
       - Tarjan's Algo - uses a single pass of depth first search
-  - 4. Path finding: To find a path between two given vertices
+  4. Path finding: To find a path between two given vertices
       - Call DFS(G,u) with u as the start vertex
       - Use a stack S to keep track of path between the start vertex and the current vertex
       - As soon as the destination vertex v is encountered, return the path as the contents of the stack
-  - 5. Check if the graph is bipartite or not: Graph whose vertices can be divided into two independent sets, i.e. there is no edge that connects vertices of same set
+  5. Check if the graph is bipartite or not: Graph whose vertices can be divided into two independent sets, i.e. there is no edge that connects vertices of same set
       - Use a two coloring scheme, start with a vertex and give it a color
       - Run depth-first search from this vertex
       - For each new vertex, color it opposite it's parents
       - Check for edges that it doesn't link two vertices of the same color
-  - 6. Puzzles problem: maze related problems, obstacles in a matrix
+  6. Puzzles problem: maze related problems, obstacles in a matrix
 2. BFS Applications
   - 1. Shortest Path in a graph: 
