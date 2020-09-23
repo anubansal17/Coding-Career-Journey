@@ -1,5 +1,5 @@
 # Goal - Making it to Prod Based
-## Week 1 (Graphs+Recursion+Backtracking+DSU)
+## Week 1 (Graphs+Recursion+Backtracking+DSU) && Week 2 (Binary Search and Greedy Algo)
 12 Sept - 20 Sept
 ### Anu Learnings
 
