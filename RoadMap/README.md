@@ -4,13 +4,13 @@ Day1: (Arrays)
 
 1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)</br> 
 2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)</br>
-3. [Repeat and Missing Number]()</br>
-4. [Merge two sorted Arrays without extra space]()</br>
-5. [Kadane’s Algorithm]()</br>
-6. [Merge Overlapping Subintervals]()</br> 
+3. [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)</br>
+4. [Merge two sorted Arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)</br>
+5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)</br>
+6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
 
 Day2: (Arrays)
-Set Matrix Zeros </br>
+[Set Matrix Zeros]() </br>
 Pascal Triangle </br>
 Next Permutation </br>
 Inversion of Array (Using Merge Sort)</br> 
