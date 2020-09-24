@@ -8,6 +8,10 @@ actualSum
 exSum - missing + dup = actualSum
 miss + dup = actualSum - exSum
 
+Approach 2: Use fast and slow ptr approach to find duplicate element - Overall T.C- O(n) and S.C - O(1)
+Approach 3: expectedSum - ActualSum = missing - dupl
+(1^2+2^2+---+n^2) - Sum(Actual Squares) = missing^2 - dupl^2
+=> (expectedSum-ActualSum)(missing + dupl)
 */
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
    int n = A.size();
