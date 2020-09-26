@@ -13,208 +13,207 @@
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) </br>
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)</br>
-Inversion of Array (Using Merge Sort)</br> 
-Stock Buy and Sell </br>
-Rotate Matrix  </br>
+10. [Inversion of Array (Using Merge Sort)]</br> 
+11. [Stock Buy and Sell] </br>
+12. Rotate Matrix  </br>
 
 Day3: (Math)
-Excel Column Number </br>
-Find n^x in log N </br>
-Count trailing zeros in factorial of a number</br> 
-Find GCD in Log N </br>
-Grid Unique Paths </br>
-Go through Puzzles from GFG (Search on own) </br>
+13. Excel Column Number </br>
+14. Find n^x in log N </br>
+15. Count trailing zeros in factorial of a number</br> 
+16. Find GCD in Log N </br>
+17. Grid Unique Paths </br>
+18. Go through Puzzles from GFG (Search on own) </br>
 
 Day4: (Hashing)
-2 Sum problem </br>
-4 Sum problem </br>
-Longest Consecutive Sequence </br>
-Longest Subarray with 0 sum </br>
-Count number of subarrays with given XOR(this clears a lot of problems)</br> 
-Longest substring without repeat </br>
+19. 2 Sum problem </br>
+20. 4 Sum problem </br>
+21. Longest Consecutive Sequence </br>
+22. Longest Subarray with 0 sum </br>
+23. Count number of subarrays with given XOR(this clears a lot of problems)</br> 
+24. Longest substring without repeat </br>
 
 Day5: (LinkedList) 
-Reverse a LinkedList </br>
-Find middle of LinkedList </br>
-Merge two sorted Linked List </br>
-Remove N-th node from back of LinkedList </br>
-Delete a given Node when a node is given. (0(1) solution) </br>
-Add two numbers as LinkedList  </br>
+25. Reverse a LinkedList </br>
+26. Find middle of LinkedList </br>
+27. Merge two sorted Linked List </br>
+28. Remove N-th node from back of LinkedList </br>
+29. Delete a given Node when a node is given. (0(1) solution) </br>
+30. Add two numbers as LinkedList  </br>
 
 Day6: 
-Find intersection point of Y LinkedList </br>
-Check if a LinkedList is palindrome or not. </br>
-Reverse a LinkedList in groups. </br>
-Detect a cycle and removing loop(two different questions and same concept) </br>
-Flattening of a LinkedList </br>
-Rotate a LinkedList </br>
-Clone a Linked List with random and next pointer. </br>
-. 
+31. Find intersection point of Y LinkedList </br>
+32. Check if a LinkedList is palindrome or not. </br>
+33. Reverse a LinkedList in groups. </br>
+34. Detect a cycle and removing loop(two different questions and same concept) </br>
+35. Flattening of a LinkedList </br>
+36. Rotate a LinkedList </br>
+37. Clone a Linked List with random and next pointer </br>
 
 Day7: (2-pointer) 
-Merge two sorted LinkedLists </br>
-Find the starting point of the loop. </br>
-3 sum </br>
-Trapping rainwater </br>
-Remove Duplicate from Sorted array </br>
-Max continuous number of 1’s  </br>
+38. Merge two sorted LinkedLists </br>
+39. Find the starting point of the loop. </br>
+40. 3 sum </br>
+41. Trapping rainwater </br>
+42. Remove Duplicate from Sorted array </br>
+43. Max continuous number of 1’s  </br>
 
 Day8: (Greedy)
-N meeting in one room </br>
-Activity Selection  </br>
-Greedy algorithm to find minimum number of coins </br>
-Fractional Knapsack Problem </br>
-Minimum number of platforms required for a railway </br>
-Job sequencing Problem </br>
+44. N meeting in one room </br>
+45. Activity Selection  </br>
+46. Greedy algorithm to find minimum number of coins </br>
+47. Fractional Knapsack Problem </br>
+48. Minimum number of platforms required for a railway </br>
+49. Job sequencing Problem </br>
 
 Day9: (Backtracking) 
-N queens Problem </br>
-Sudoko </br>
-M coloring Problem</br> 
-Rat in a Maze </br>
-Print all Permutations of a string/array</br> 
-Word Break (print all ways)  </br>
+50. N queens Problem </br>
+51. Sudoko </br>
+52. M coloring Problem</br> 
+53. Rat in a Maze </br>
+54. Print all Permutations of a string/array</br> 
+55. Word Break (print all ways)  </br>
 
 Day10: 
-Combination sum-1 </br>
-Combination sum-2 </br>
-Palindrome Partioning </br>
-Subset Sum-1 </br>
-Subset Sum-2 </br>
-K-th permutation Sequence </br>
+56. Combination sum-1 </br>
+57. Combination sum-2 </br>
+58. Palindrome Partioning </br>
+59. Subset Sum-1 </br>
+60. Subset Sum-2 </br>
+61. K-th permutation Sequence </br>
 
 Day11: (Divide and Conquer) 
-1/N-th root of an integer (use binary search) (square root, cube root, ..)</br>
-Matrix Median</br>
-Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
-Search element in a sorted and rotated array. </br>
-K-th element of two sorted arrays </br>
-Media of an array </br>
+62. 1/N-th root of an integer (use binary search) (square root, cube root, ..)</br>
+63. Matrix Median</br>
+64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
+65. Search element in a sorted and rotated array. </br>
+66. K-th element of two sorted arrays </br>
+67. Media of an array </br>
 
 Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
-Check if a number if a power of 2 or not in O(1) </br>
-Count total set bits </br>
-Divide Integers without / operator</br> 
-Power Set (this is very important) </br>
-Find MSB in o(1) </br>
-Find square of a number without using multiplication or division operators. </br> 
+68. Check if a number if a power of 2 or not in O(1) </br>
+69. Count total set bits </br>
+70. Divide Integers without / operator</br> 
+71. Power Set (this is very important) </br>
+72. Find MSB in o(1) </br>
+73. Find square of a number without using multiplication or division operators. </br> 
 
 
 Day13: (Stack and Queue) 
-Implement Stack / Implement Queue</br>
-BFS </br>
-Implement Stack using Queue</br>
-Implement Queue using Stack </br>
-Check for balanced parentheses </br>
-Next Greater Element </br>
+74. Implement Stack / Implement Queue</br>
+75. BFS </br>
+76. Implement Stack using Queue</br>
+77. Implement Queue using Stack </br>
+78. Check for balanced parentheses </br>
+79. Next Greater Element </br>
 
 Day14: 
-Next Smaller Element </br>
-LRU cache (vvvv. imp) </br>
-Largest rectangle in histogram </br> 
-Sliding Window maximum </br>
-Implement Min Stack  </br>
-Rotten Orange (Using BFS) </br> 
+80. Next Smaller Element </br>
+81. LRU cache (vvvv. imp) </br>
+82. Largest rectangle in histogram </br> 
+83. Sliding Window maximum </br>
+84. Implement Min Stack  </br>
+85. Rotten Orange (Using BFS) </br> 
 
 Day15: (String) 
-Reverse Words in a String </br>
-Longest Palindrome in a string </br>
-Roman Number to Integer and vice versa</br>
-Implement ATOI/STRSTR </br>
-Longest Common Prefix </br>
-Rabin Karp </br>
+86. Reverse Words in a String </br>
+87. Longest Palindrome in a string </br>
+88. Roman Number to Integer and vice versa</br>
+89. Implement ATOI/STRSTR </br>
+90. Longest Common Prefix </br>
+91. Rabin Karp </br>
 
 
 Day16: (String) 
-Prefix Function/Z-Function</br>
-KMP algo </br>
-Minimum characters needed to be inserted in the beginning to make it palindromic.</br> 
-Check for Anagrams </br>
-Count and Say </br>
-Compare version numbers</br> 
+92. Prefix Function/Z-Function</br>
+93. KMP algo </br>
+94. Minimum characters needed to be inserted in the beginning to make it palindromic.</br> 
+95. Check for Anagrams </br>
+96. Count and Say </br>
+97. Compare version numbers</br> 
 
 Day17: (Binary Tree) 
-Inorder Traversal (with recursion and without recursion) </br>
-Preorder Traversal (with recursion and without recursion) </br>
-Postorder Traversal (with recursion and without recursion)  </br>
-LeftView Of Binary Tree</br>
-Bottom View of Binary Tree</br>
-Top View of Binary Tree </br>
+98. Inorder Traversal (with recursion and without recursion) </br>
+99. Preorder Traversal (with recursion and without recursion) </br>
+100. Postorder Traversal (with recursion and without recursion)  </br>
+101. LeftView Of Binary Tree</br>
+102. Bottom View of Binary Tree</br>
+103. Top View of Binary Tree </br>
 
 Day18: (Binary Tree) 
-Level order Traversal / Level order traversal in spiral form </br> 
-Height of a Binary Tree </br>
-Diameter of Binary Tree </br>
-Check if Binary tree is height balanced or not</br> 
-LCA in Binary Tree </br>
-Check if two trees are identical or not </br>
+104. Level order Traversal / Level order traversal in spiral form </br> 
+105. Height of a Binary Tree </br>
+106. Diameter of Binary Tree </br>
+107. Check if Binary tree is height balanced or not</br> 
+108. LCA in Binary Tree </br>
+109. Check if two trees are identical or not </br>
 
 Day 19: (Binary Tree) 
-Maximum path sum </br>
-Construct Binary Tree from inorder and preorder </br>
-Construct Binary Tree from Inorder and Postorder </br>
-Symmetric Binary Tree </br>
-Flatten Binary Tree to LinkedList</br> 
-Check if Binary Tree is mirror of itself or not</br>   
+110. Maximum path sum </br>
+111. Construct Binary Tree from inorder and preorder </br>
+112. Construct Binary Tree from Inorder and Postorder </br>
+113. Symmetric Binary Tree </br>
+114. Flatten Binary Tree to LinkedList</br> 
+115. Check if Binary Tree is mirror of itself or not</br>   
 
 Day 20: (Binary Search Tree) 
-Populate Next Right pointers of Tree </br>
-Search given Key in BST </br>
-Construct BST from given keys.</br> 
-Check is a BT is BST or not  </br>
-Find LCA of two nodes in BST </br>
-Find the inorder predecessor/successor of a given Key in BST. </br>
+116. Populate Next Right pointers of Tree </br>
+117. Search given Key in BST </br>
+118. Construct BST from given keys.</br> 
+119. Check is a BT is BST or not  </br>
+120. Find LCA of two nodes in BST </br>
+121. Find the inorder predecessor/successor of a given Key in BST. </br>
 
 Day21: (BinarySearchTree) 
-Floor and Ceil in a BST </br>
-Find K-th smallest and K-th largest element in BST (2 different Questions) </br>
-Find a pair with a given sum in BST </br>
-BST iterator </br>
-Size of the largest BST in a Binary Tree </br>
-Serialize and deserialize Binary Tree</br>
+122. Floor and Ceil in a BST </br>
+123. Find K-th smallest and K-th largest element in BST (2 different Questions) </br>
+124. Find a pair with a given sum in BST </br>
+125. BST iterator </br>
+126. Size of the largest BST in a Binary Tree </br>
+127. Serialize and deserialize Binary Tree</br>
 
 Day22: (Mixed Questions) 
-Binary Tree to Double Linked List </br>
-Find median in a stream of running integers. </br>
-K-th largest element in a stream. </br>
-Distinct numbers in Window. </br>
-K-th largest element in an unsorted array.</br> 
-Flood-fill Algorithm </br>
+128. Binary Tree to Double Linked List </br>
+129. Find median in a stream of running integers. </br>
+130. K-th largest element in a stream. </br>
+131. Distinct numbers in Window. </br>
+132. K-th largest element in an unsorted array.</br> 
+133. Flood-fill Algorithm </br>
 
 Day23: (Graph) 
-Clone a graph (Not that easy as it looks) </br>
-DFS</br>
-BFS</br>
-Detect A cycle in Undirected Graph/Directed Graph </br>
-Topo Sort </br>
-Number of islands (Do in Grid and Graph both) </br>
-Bipartite Check </br>
+134. Clone a graph (Not that easy as it looks) </br>
+135. DFS</br>
+136. BFS</br>
+137. Detect A cycle in Undirected Graph/Directed Graph </br>
+138. Topo Sort </br>
+139. Number of islands (Do in Grid and Graph both) </br>
+140. Bipartite Check </br>
 
 Day24: (Graph)
-SCC(using KosaRaju’s algo) </br>
-Djisktra’s Algorithm </br>
-Bellman Ford Algo </br>
-Floyd Warshall Algorithm </br>  
-MST using Prim’s Algo </br>
-MST using Kruskal’s Algo  </br>
+141. SCC(using KosaRaju’s algo) </br>
+142. Djisktra’s Algorithm </br>
+143. Bellman Ford Algo </br>
+144. Floyd Warshall Algorithm </br>  
+145. MST using Prim’s Algo </br>
+146. MST using Kruskal’s Algo  </br>
 
 Day25: (Dynamic Programming) 
-Max Product Subarray </br>
-Longest Increasing Subsequence</br>
-Longest Common Subsequence </br>
-0-1 Knapsack </br>
-Edit Distance</br>
-Maximum sum increasing subsequence</br>  
-Matrix Chain Multiplication </br>
+147. Max Product Subarray </br>
+148. Longest Increasing Subsequence</br>
+149. Longest Common Subsequence </br>
+150. 0-1 Knapsack </br>
+151. Edit Distance</br>
+152. Maximum sum increasing subsequence</br>  
+153. Matrix Chain Multiplication </br>
 
 Day26: (DP) 
-Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
-Coin change </br>
-Subset Sum </br>
-Rod Cutting </br>
-Egg Dropping </br>
-Word Break </br>
-Palindrome Partitioning (MCM Variation) </br>
+154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
+155. Coin change </br>
+156. Subset Sum </br>
+157. Rod Cutting </br>
+158. Egg Dropping </br>
+159. Word Break </br>
+160. Palindrome Partitioning (MCM Variation) </br>
 
 
 Day27: 
