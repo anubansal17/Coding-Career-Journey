@@ -10,9 +10,9 @@
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
 
 ## Day2: (Arrays)
-[Set Matrix Zeros]() </br>
-Pascal Triangle </br>
-Next Permutation </br>
+7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) </br>
+8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
+9. [Next Permutation](https://leetcode.com/problems/next-permutation/)</br>
 Inversion of Array (Using Merge Sort)</br> 
 Stock Buy and Sell </br>
 Rotate Matrix  </br>
