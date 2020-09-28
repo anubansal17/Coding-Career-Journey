@@ -13,9 +13,9 @@
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) </br>
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
 9. *[Next Permutation](https://leetcode.com/problems/next-permutation/)</br>
-10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)</br> 
-11. [Stock Buy and Sell] </br>
-12. Rotate Matrix  </br>
+10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)- Need practice</br> 
+11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)</br>
+12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)  </br>
 
 Day3: (Math)
 13. Excel Column Number </br>
