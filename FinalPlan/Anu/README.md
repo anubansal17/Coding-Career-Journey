@@ -52,3 +52,19 @@ Practice questions: Pending</br>
   6. Puzzles problem: maze related problems, obstacles in a matrix
 2. BFS Applications
   - 1. Shortest Path in a graph: 
+
+## Trees
+### 28 Sept
+1. [Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+  - Inorder, Preorder, Postorder
+  1. InOrder applications: In BST, it gives nodes in non-decreasing order
+  2. PreOrder applications: To create a copy of tree, To get prefix expression of an expression tree(Polish notation)
+  3. PostOrder applications: To delete a tree, to get the postfix expression of an expression(Reverse Polish notation)
+2. [Calculate Size of a tree](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-size-of-a-tree/)
+3. [Check if two trees are identical or not](https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/)
+4. [Find Height of a tree](https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/)
+5. [Delete a tree](https://www.geeksforgeeks.org/write-a-c-program-to-delete-a-tree/)
+6. [Convert a binary tree into its mirror tree](https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/)
+7. [Given two traversal sequences, construct binary tree](https://www.geeksforgeeks.org/if-you-are-given-two-traversal-sequences-can-you-construct-the-binary-tree/)
+8. 
+ 
