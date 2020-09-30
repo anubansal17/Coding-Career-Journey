@@ -17,13 +17,17 @@
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)</br>
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)  </br>
 
-Day3: (Math)
-13. Excel Column Number </br>
-14. Find n^x in log N </br>
-15. Count trailing zeros in factorial of a number</br> 
-16. Find GCD in Log N </br>
-17. Grid Unique Paths </br>
-18. Go through Puzzles from GFG (Search on own) </br>
+## Day3: (Math)
+13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+14. [Pow(x,n)](https://leetcode.com/problems/powx-n/) </br>
+15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
+16. [Majority Element(>N/3)](https://leetcode.com/problems/majority-element-ii/)
+17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
+17. [Excel Column Number]() </br>
+18. Count trailing zeros in factorial of a number</br> 
+19. Find GCD in Log N </br>
+20. Grid Unique Paths </br>
+21. Go through Puzzles from GFG (Search on own) </br>
 
 Day4: (Hashing)
 19. 2 Sum problem </br>
