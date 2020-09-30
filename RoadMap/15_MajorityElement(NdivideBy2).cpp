@@ -1,6 +1,6 @@
 /*
 - Approach 1: Brute force: O(n^2)
-- Approach 2: Naive approach: Use hash maps and track the frequency T.C- O(n) and S.C- O(n)
+- Approach 2: Naive approach: Use hash maps and track the frequency T.C- O(nlogn)(incase of ordered maps), O(n)(incase of frequency array), (O(n^2) in worst case and O(n) in average case in unoredered maps) and S.C- O(n)
 - Approach 3: Moore's Voting Algo T.C- O(n) and S.C - O(1)
 - If number is a majority element its occuerences would be more than n/2
 - It will cancel out the occurences for all the other non-majority eloements
