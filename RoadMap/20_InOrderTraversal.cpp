@@ -24,6 +24,30 @@ Approach 2: Iterative solution, T.C - O(n)
 - pop from stack and print this element and push this popped element->right into stack and again move to step 1
 - If cur == null and stack is empty then return
 */
+// Approach 1 Implementation
+void inOrder(TreeNode* root, vector <int> &traversal) {
+    if(root == NULL) {
+        return;
+    }
+    // Traversing the left subtree
+    inOrder(root->left, traversal);
+    
+    // Inserting the root into array
+    traversal.push_back(root->val);
+    
+    // traversing the right subtree
+    inOrder(root->right, traversal);
+}
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector <int> traversal;
+        inOrder(root, traversal);
+        return traversal;
+    }
+    
+    
+// Approach 2 Implementation
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
