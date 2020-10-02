@@ -27,8 +27,90 @@
 17. [Excel Column Number]() </br>
 18. Count trailing zeros in factorial of a number</br> 
 19. Find GCD in Log N </br>
-20. Grid Unique Paths </br>
-21. Go through Puzzles from GFG (Search on own) </br>
+
+## Day4: (Binary Tree) 
+20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)</br>
+21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) </br>
+22. [Postorder Traversal (with recursion and without recursion)]()</br>
+23. LeftView Of Binary Tree</br>
+24. Bottom View of Binary Tree</br>
+25. Top View of Binary Tree </br>
+
+## Day5: (Binary Tree) 
+104. [Level order Traversal]</br>
+105. [Level order traversal in spiral form]</br> 
+105. Height of a Binary Tree </br>
+106. Diameter of Binary Tree </br>
+107. Check if Binary tree is height balanced or not</br> 
+108. LCA in Binary Tree </br>
+109. Check if two trees are identical or not </br>
+
+## Day 6: (Binary Tree) 
+110. Maximum path sum </br>
+111. Construct Binary Tree from inorder and preorder </br>
+112. Construct Binary Tree from Inorder and Postorder </br>
+113. Symmetric Binary Tree </br>
+114. Flatten Binary Tree to LinkedList</br> 
+115. Check if Binary Tree is mirror of itself or not</br>   
+
+## Day 7: (Binary Search Tree) 
+116. Populate Next Right pointers of Tree </br>
+117. Search given Key in BST </br>
+118. Construct BST from given keys.</br> 
+119. Check is a BT is BST or not  </br>
+120. Find LCA of two nodes in BST </br>
+121. Find the inorder predecessor/successor of a given Key in BST. </br>
+
+## Day8: (BinarySearchTree) 
+122. Floor and Ceil in a BST </br>
+123. Find K-th smallest and K-th largest element in BST (2 different Questions) </br>
+124. Find a pair with a given sum in BST </br>
+125. BST iterator </br>
+126. Size of the largest BST in a Binary Tree </br>
+127. Serialize and deserialize Binary Tree</br>
+
+## Day9: (Mixed Questions) 
+128. Binary Tree to Double Linked List </br>
+129. Find median in a stream of running integers. </br>
+130. K-th largest element in a stream. </br>
+131. Distinct numbers in Window. </br>
+132. K-th largest element in an unsorted array.</br> 
+133. Flood-fill Algorithm </br>
+
+## Day10: (Graph) 
+134. Clone a graph (Not that easy as it looks) </br>
+135. DFS</br>
+136. BFS</br>
+137. Detect A cycle in Undirected Graph/Directed Graph </br>
+138. Topo Sort </br>
+139. Number of islands (Do in Grid and Graph both) </br>
+140. Bipartite Check </br>
+
+## Day11: (Graph)
+141. SCC(using KosaRaju’s algo) </br>
+142. Djisktra’s Algorithm </br>
+143. Bellman Ford Algo </br>
+144. Floyd Warshall Algorithm </br>  
+145. MST using Prim’s Algo </br>
+146. MST using Kruskal’s Algo  </br>
+
+## Day12: (Dynamic Programming) 
+147. Max Product Subarray </br>
+148. Longest Increasing Subsequence</br>
+149. Longest Common Subsequence </br>
+150. 0-1 Knapsack </br>
+151. Edit Distance</br>
+152. Maximum sum increasing subsequence</br>  
+153. Matrix Chain Multiplication </br>
+
+## Day13: (Dynamic Programming)
+154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
+155. Coin change </br>
+156. Subset Sum </br>
+157. Rod Cutting </br>
+158. Egg Dropping </br>
+159. Word Break </br>
+160. Palindrome Partitioning (MCM Variation) </br>
 
 Day4: (Hashing)
 19. 2 Sum problem </br>
@@ -137,88 +219,6 @@ Day16: (String)
 96. Count and Say </br>
 97. Compare version numbers</br> 
 
-Day17: (Binary Tree) 
-98. Inorder Traversal (with recursion and without recursion) </br>
-99. Preorder Traversal (with recursion and without recursion) </br>
-100. Postorder Traversal (with recursion and without recursion)  </br>
-101. LeftView Of Binary Tree</br>
-102. Bottom View of Binary Tree</br>
-103. Top View of Binary Tree </br>
-
-Day18: (Binary Tree) 
-104. Level order Traversal / Level order traversal in spiral form </br> 
-105. Height of a Binary Tree </br>
-106. Diameter of Binary Tree </br>
-107. Check if Binary tree is height balanced or not</br> 
-108. LCA in Binary Tree </br>
-109. Check if two trees are identical or not </br>
-
-Day 19: (Binary Tree) 
-110. Maximum path sum </br>
-111. Construct Binary Tree from inorder and preorder </br>
-112. Construct Binary Tree from Inorder and Postorder </br>
-113. Symmetric Binary Tree </br>
-114. Flatten Binary Tree to LinkedList</br> 
-115. Check if Binary Tree is mirror of itself or not</br>   
-
-Day 20: (Binary Search Tree) 
-116. Populate Next Right pointers of Tree </br>
-117. Search given Key in BST </br>
-118. Construct BST from given keys.</br> 
-119. Check is a BT is BST or not  </br>
-120. Find LCA of two nodes in BST </br>
-121. Find the inorder predecessor/successor of a given Key in BST. </br>
-
-Day21: (BinarySearchTree) 
-122. Floor and Ceil in a BST </br>
-123. Find K-th smallest and K-th largest element in BST (2 different Questions) </br>
-124. Find a pair with a given sum in BST </br>
-125. BST iterator </br>
-126. Size of the largest BST in a Binary Tree </br>
-127. Serialize and deserialize Binary Tree</br>
-
-Day22: (Mixed Questions) 
-128. Binary Tree to Double Linked List </br>
-129. Find median in a stream of running integers. </br>
-130. K-th largest element in a stream. </br>
-131. Distinct numbers in Window. </br>
-132. K-th largest element in an unsorted array.</br> 
-133. Flood-fill Algorithm </br>
-
-Day23: (Graph) 
-134. Clone a graph (Not that easy as it looks) </br>
-135. DFS</br>
-136. BFS</br>
-137. Detect A cycle in Undirected Graph/Directed Graph </br>
-138. Topo Sort </br>
-139. Number of islands (Do in Grid and Graph both) </br>
-140. Bipartite Check </br>
-
-Day24: (Graph)
-141. SCC(using KosaRaju’s algo) </br>
-142. Djisktra’s Algorithm </br>
-143. Bellman Ford Algo </br>
-144. Floyd Warshall Algorithm </br>  
-145. MST using Prim’s Algo </br>
-146. MST using Kruskal’s Algo  </br>
-
-Day25: (Dynamic Programming) 
-147. Max Product Subarray </br>
-148. Longest Increasing Subsequence</br>
-149. Longest Common Subsequence </br>
-150. 0-1 Knapsack </br>
-151. Edit Distance</br>
-152. Maximum sum increasing subsequence</br>  
-153. Matrix Chain Multiplication </br>
-
-Day26: (DP) 
-154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
-155. Coin change </br>
-156. Subset Sum </br>
-157. Rod Cutting </br>
-158. Egg Dropping </br>
-159. Word Break </br>
-160. Palindrome Partitioning (MCM Variation) </br>
 
 
 Day27: 
