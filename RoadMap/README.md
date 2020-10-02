@@ -23,6 +23,7 @@
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
 16. [Majority Element(>N/3)](https://leetcode.com/problems/majority-element-ii/)
 17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
+18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 17. [Excel Column Number]() </br>
 18. Count trailing zeros in factorial of a number</br> 
 19. Find GCD in Log N </br>
