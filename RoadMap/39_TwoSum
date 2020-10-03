@@ -1,0 +1,22 @@
+/*
+Approach1: Optimized One, T.C- O(n), S.C- O(n)
+- For each element check if key (target-element) present in the map or not
+*/
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector <int> ans;
+        unordered_map<int, int> indexMap;
+        int i = 0;
+        for (auto num : nums) {
+            if(indexMap.find(target-num) != indexMap.end()) {
+                ans.push_back(i);
+                ans.push_back(indexMap[target-num]);
+                return ans;
+            }
+            indexMap.insert({num, i});
+            i++;
+        }
+        return ans;
+    }
+};
