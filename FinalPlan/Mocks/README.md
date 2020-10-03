@@ -4,4 +4,7 @@
 Anu - Solved </br>
 Sravani - Solved </br>
 
-## Mock 2 - 18 Sept 2020
+## Mock 2 - 21 Sept 2020
+[21 Sept 2020] (https://docs.google.com/document/d/1LRjRHghsiTx4u1Es44dWPgZHoR6JOb6xfiy5DDUfOSc/edit)</br>
+Anu - Not Attempted </br>
+Sravani - Partially Solved </br>
