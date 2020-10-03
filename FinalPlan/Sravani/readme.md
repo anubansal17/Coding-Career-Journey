@@ -19,3 +19,25 @@
    
 ### 19/09/2020
 1. Backtracking graph coloring problem
+
+
+## Week 2 (Greedy and Binary Search)
+21 Sept - 27 Sept
+### week summary:
+1. Implemented Greedy Approaches :
+   a. Activity Selection
+   b. Huffman Encoding and decoding
+   c. Job Sequencing
+   d. Fractional Knapsack
+   
+   
+## Week 3 (Buffer)
+28 Sept - 4 Oct
+### week summary:
+1. Revised all graph concepts and implemented Below algorithms
+   a. DFS, BFS for both directed and undirected
+   b. Detecting a cycle both DFS, BFS and both directd and undirected
+   c. Prims and Krushkals algo
+   d. Dijkstras and Belman Ford
+   e. Kosaraju and Tarjans Algo (Strongly connected components)
+   f. Topological sorting of graphs
