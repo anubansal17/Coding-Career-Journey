@@ -66,14 +66,14 @@
 49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
 
 ## Day8: (Dynamic Programming) 
-147. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) </br>
-148. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)</br>
-149. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) </br>
-150. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)</br>
-151. [Edit Distance](https://leetcode.com/problems/edit-distance/)</br>
-152. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)</br>
-155. [Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)<br>
-153. [Matrix Chain Multiplication]()</br>
+50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) </br>
+51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)</br>
+52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) </br>
+53. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)</br>
+54. [Edit Distance](https://leetcode.com/problems/edit-distance/)</br>
+55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)</br>
+56. [Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)<br>
+57. [Matrix Chain Multiplication]()</br>
 
 ## Day9: (Dynamic Programming)
 154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
