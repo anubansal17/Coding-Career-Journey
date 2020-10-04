@@ -37,21 +37,52 @@
 25. Top View of Binary Tree </br>
 
 ## Day5: (Binary Tree) 
-104. [Level order Traversal]</br>
-105. [Level order traversal in spiral form]</br> 
-105. Height of a Binary Tree </br>
-106. Diameter of Binary Tree </br>
-107. Check if Binary tree is height balanced or not</br> 
-108. LCA in Binary Tree </br>
-109. Check if two trees are identical or not </br>
+26. [Level order Traversal]</br>
+27. [Level order traversal in spiral form]</br> 
+28. Height of a Binary Tree </br>
+29. Diameter of Binary Tree </br>
+30. Check if Binary tree is height balanced or not</br> 
+31. LCA in Binary Tree </br>
+32. Check if two trees are identical or not </br>
 
 ## Day 6: (Binary Tree) 
-110. Maximum path sum </br>
-111. Construct Binary Tree from inorder and preorder </br>
-112. Construct Binary Tree from Inorder and Postorder </br>
-113. Symmetric Binary Tree </br>
-114. Flatten Binary Tree to LinkedList</br> 
-115. Check if Binary Tree is mirror of itself or not</br>   
+33. Maximum path sum </br>
+34. Construct Binary Tree from inorder and preorder </br>
+35. Construct Binary Tree from Inorder and Postorder </br>
+36. Symmetric Binary Tree </br>
+37. Flatten Binary Tree to LinkedList</br> 
+38. Check if Binary Tree is mirror of itself or not</br>   
+
+## Day7: (Hashing)
+39. [2 Sum problem](https://leetcode.com/problems/two-sum/) </br>
+40. [4 Sum problem](https://leetcode.com/problems/4sum/) </br>
+41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)</br>
+42. [Longest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)</br>
+43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one</br> 
+45. [Clone LinkedList with random pointer](https://www.interviewbit.com/problems/copy-list/)
+46. [Anagrams](https://www.interviewbit.com/problems/anagrams/)
+47. [Longest substring without repeat]() - Pending</br>
+48. [fraction](https://www.interviewbit.com/problems/fraction/)
+49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
+
+## Day8: (Dynamic Programming) 
+147. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) </br>
+148. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)</br>
+149. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) </br>
+150. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)</br>
+151. [Edit Distance](https://leetcode.com/problems/edit-distance/)</br>
+152. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)</br>
+155. [Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)<br>
+153. [Matrix Chain Multiplication]()</br>
+
+## Day9: (Dynamic Programming)
+154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
+155. Coin change </br>
+156. Subset Sum </br>
+157. Rod Cutting </br>
+158. Egg Dropping </br>
+159. Word Break </br>
+160. Palindrome Partitioning (MCM Variation) </br>
 
 ## Day 7: (Binary Search Tree) 
 116. Populate Next Right pointers of Tree </br>
@@ -94,31 +125,7 @@
 145. MST using Prim’s Algo </br>
 146. MST using Kruskal’s Algo  </br>
 
-## Day12: (Dynamic Programming) 
-147. Max Product Subarray </br>
-148. Longest Increasing Subsequence</br>
-149. Longest Common Subsequence </br>
-150. 0-1 Knapsack </br>
-151. Edit Distance</br>
-152. Maximum sum increasing subsequence</br>  
-153. Matrix Chain Multiplication </br>
 
-## Day13: (Dynamic Programming)
-154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
-155. Coin change </br>
-156. Subset Sum </br>
-157. Rod Cutting </br>
-158. Egg Dropping </br>
-159. Word Break </br>
-160. Palindrome Partitioning (MCM Variation) </br>
-
-Day4: (Hashing)
-19. 2 Sum problem </br>
-20. 4 Sum problem </br>
-21. Longest Consecutive Sequence </br>
-22. Longest Subarray with 0 sum </br>
-23. Count number of subarrays with given XOR(this clears a lot of problems)</br> 
-24. Longest substring without repeat </br>
 
 Day5: (LinkedList) 
 25. Reverse a LinkedList </br>
