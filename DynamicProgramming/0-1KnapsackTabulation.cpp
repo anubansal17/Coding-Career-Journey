@@ -4,7 +4,7 @@
 using namespace std;
 int static tp[1001][1001];
 
-// Memorization solution to 0/1 knapsack
+// Tabulation solution to 0/1 knapsack
 int knapsack(vector<int> wt, vector<int> val, int w, int n){
     // Iterative approach - top down
     for(int i=0; i<n+1; i++) {
