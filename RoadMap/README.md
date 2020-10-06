@@ -30,28 +30,28 @@
 
 ## Day4: (Binary Tree) 
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)</br>
-21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) </br>
-22. [Postorder Traversal (with recursion and without recursion)]()</br>
-23. LeftView Of Binary Tree</br>
-24. Bottom View of Binary Tree</br>
-25. Top View of Binary Tree </br>
+21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/) </br>
+22. [Postorder Traversal (with recursion and without recursion)](https://www.interviewbit.com/search/?q=Amazon#toggle-problem-link-229)</br>
+23. [LeftView Of Binary Tree/Right View](https://leetcode.com/problems/binary-tree-right-side-view/)</br>
+24. [Bottom View of Binary Tree]()</br>
+25. [Top View of Binary Tree]()</br>
 
 ## Day5: (Binary Tree) 
-26. [Level order Traversal]</br>
-27. [Level order traversal in spiral form]</br> 
-28. Height of a Binary Tree </br>
-29. Diameter of Binary Tree </br>
-30. Check if Binary tree is height balanced or not</br> 
-31. LCA in Binary Tree </br>
-32. Check if two trees are identical or not </br>
+26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
+27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
+28. [Height of a Binary Tree]()</br>
+29. [Diameter of Binary Tree]</br>
+30. [Check if Binary tree is height balanced or not]</br> 
+31. [LCA in Binary Tree](https://www.interviewbit.com/problems/least-common-ancestor/)</br>
+32. [Check if two trees are identical or not]</br>
 
 ## Day 6: (Binary Tree) 
-33. Maximum path sum </br>
-34. Construct Binary Tree from inorder and preorder </br>
-35. Construct Binary Tree from Inorder and Postorder </br>
-36. Symmetric Binary Tree </br>
-37. Flatten Binary Tree to LinkedList</br> 
-38. Check if Binary Tree is mirror of itself or not</br>   
+33. [Maximum path sum]()</br>
+34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
+35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
+36. [Symmetric Binary Tree]</br>
+37. [Flatten Binary Tree to LinkedList]</br> 
+38. [Check if Binary Tree is mirror of itself or not]</br>   
 
 ## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/) </br>
