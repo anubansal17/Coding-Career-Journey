@@ -33,17 +33,17 @@
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/) </br>
 22. [Postorder Traversal (with recursion and without recursion)](https://www.interviewbit.com/search/?q=Amazon#toggle-problem-link-229)</br>
 23. [LeftView Of Binary Tree/Right View](https://leetcode.com/problems/binary-tree-right-side-view/)</br>
-24. [Bottom View of Binary Tree]()</br>
-25. [Top View of Binary Tree]()</br>
+24. [Bottom View of Binary Tree](https://www.geeksforgeeks.org/bottom-view-binary-tree/)- pending</br>
+25. [Top View of Binary Tree]</br>
 
 ## Day5: (Binary Tree) 
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
 27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
-28. [Height of a Binary Tree]()</br>
+28. [Height of a Binary Tree]</br>
 29. [Diameter of Binary Tree]</br>
 30. [Check if Binary tree is height balanced or not]</br> 
 31. [LCA in Binary Tree](https://www.interviewbit.com/problems/least-common-ancestor/)</br>
-32. [Check if two trees are identical or not]</br>
+32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)</br>
 
 ## Day 6: (Binary Tree) 
 33. [Maximum path sum]()</br>
