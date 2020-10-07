@@ -95,10 +95,10 @@
 ## Day11: 
 68. [Combination sum-1](https://www.interviewbit.com/problems/combination-sum/)</br>
 69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)</br>
-70. Palindrome Partioning </br>
+70. [Palindrome Partioning] - Do it with DP</br>
 71. [Subset-1](https://www.interviewbit.com/problems/subset/)</br>
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)</br>
-73. K-th permutation Sequence </br>
+73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard</br>
 
 ## Day 12: (Binary Search Tree) 
 116. Populate Next Right pointers of Tree </br>
