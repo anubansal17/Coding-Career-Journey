@@ -76,15 +76,31 @@
 57. [Matrix Chain Multiplication]()</br>
 
 ## Day9: (Dynamic Programming)
-154. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
-155. Coin change </br>
-156. Subset Sum </br>
-157. Rod Cutting </br>
-158. Egg Dropping </br>
-159. Word Break </br>
-160. Palindrome Partitioning (MCM Variation) </br>
+58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
+59. Coin change </br>
+57. Subset Sum </br>
+58. Rod Cutting </br>
+59. Egg Dropping </br>
+60. Word Break </br>
+61. Palindrome Partitioning (MCM Variation) </br>
 
-## Day 7: (Binary Search Tree) 
+## Day10: (Backtracking) 
+62. N queens Problem </br>
+63. Sudoko </br>
+64. M coloring Problem</br> 
+65. Rat in a Maze </br>
+66. Print all Permutations of a string/array</br> 
+67. Word Break (print all ways)  </br>
+
+## Day11: 
+68. Combination sum-1 </br>
+69. Combination sum-2 </br>
+70. Palindrome Partioning </br>
+71. Subset Sum-1 </br>
+72. Subset Sum-2 </br>
+73. K-th permutation Sequence </br>
+
+## Day 12: (Binary Search Tree) 
 116. Populate Next Right pointers of Tree </br>
 117. Search given Key in BST </br>
 118. Construct BST from given keys.</br> 
@@ -107,7 +123,6 @@
 131. Distinct numbers in Window. </br>
 132. K-th largest element in an unsorted array.</br> 
 133. Flood-fill Algorithm </br>
-
 ## Day10: (Graph) 
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
@@ -159,22 +174,6 @@ Day8: (Greedy)
 47. Fractional Knapsack Problem </br>
 48. Minimum number of platforms required for a railway </br>
 49. Job sequencing Problem </br>
-
-Day9: (Backtracking) 
-50. N queens Problem </br>
-51. Sudoko </br>
-52. M coloring Problem</br> 
-53. Rat in a Maze </br>
-54. Print all Permutations of a string/array</br> 
-55. Word Break (print all ways)  </br>
-
-Day10: 
-56. Combination sum-1 </br>
-57. Combination sum-2 </br>
-58. Palindrome Partioning </br>
-59. Subset Sum-1 </br>
-60. Subset Sum-2 </br>
-61. K-th permutation Sequence </br>
 
 Day11: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..)</br>
