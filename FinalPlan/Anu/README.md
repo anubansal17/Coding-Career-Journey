@@ -57,5 +57,5 @@ Practice questions: Pending</br>
 ### 6th Oct (Trees)
 - Have gone through trees concepts, implemented ques from SDE sheet and InterviewBit(Amazon tagged)
 ### 7th Oct (Recursion + Backtracking)
-- 
+- Backtracking Problems - Rat in Maze, N-Queen Problem, Graph Coloring Problem, Knight Tour, Sudoku, Hamiltonian Cycle and Subset sum problem
  
