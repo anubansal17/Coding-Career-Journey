@@ -96,8 +96,8 @@
 68. [Combination sum-1](https://www.interviewbit.com/problems/combination-sum/)</br>
 69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)</br>
 70. Palindrome Partioning </br>
-71. Subset Sum-1 </br>
-72. Subset Sum-2 </br>
+71. [Subset-1](https://www.interviewbit.com/problems/subset/)</br>
+72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)</br>
 73. K-th permutation Sequence </br>
 
 ## Day 12: (Binary Search Tree) 
