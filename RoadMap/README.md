@@ -49,9 +49,9 @@
 33. [Maximum path sum]()</br>
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
-36. [Symmetric Binary Tree]</br>
+36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)</br>
 37. [Flatten Binary Tree to LinkedList]</br> 
-38. [Check if Binary Tree is mirror of itself or not]</br>   
+38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree</br>   
 
 ## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/) </br>
@@ -101,28 +101,29 @@
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard</br>
 
 ## Day 12: (Binary Search Tree) 
-116. Populate Next Right pointers of Tree </br>
-117. Search given Key in BST </br>
-118. Construct BST from given keys.</br> 
-119. Check is a BT is BST or not  </br>
-120. Find LCA of two nodes in BST </br>
-121. Find the inorder predecessor/successor of a given Key in BST. </br>
+74. Populate Next Right pointers of Tree </br>
+75. Search given Key in BST </br>
+76. Construct BST from given keys.</br> 
+77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)</br>
+78. Find LCA of two nodes in BST </br>
+79. Find the inorder predecessor/successor of a given Key in BST. </br>
 
 ## Day8: (BinarySearchTree) 
-122. Floor and Ceil in a BST </br>
-123. Find K-th smallest and K-th largest element in BST (2 different Questions) </br>
-124. Find a pair with a given sum in BST </br>
-125. BST iterator </br>
-126. Size of the largest BST in a Binary Tree </br>
-127. Serialize and deserialize Binary Tree</br>
+80. Floor and Ceil in a BST </br>
+81. Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
+82. Find a pair with a given sum in BST </br>
+83. BST iterator </br>
+84. Size of the largest BST in a Binary Tree </br>
+85. Serialize and deserialize Binary Tree</br>
 
 ## Day9: (Mixed Questions) 
-128. Binary Tree to Double Linked List </br>
-129. Find median in a stream of running integers. </br>
-130. K-th largest element in a stream. </br>
-131. Distinct numbers in Window. </br>
-132. K-th largest element in an unsorted array.</br> 
-133. Flood-fill Algorithm </br>
+86. Binary Tree to Double Linked List </br>
+87. Find median in a stream of running integers. </br>
+88. K-th largest element in a stream. </br>
+89. Distinct numbers in Window. </br>
+90. K-th largest element in an unsorted array.</br> 
+91. Flood-fill Algorithm </br>
+
 ## Day10: (Graph) 
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
