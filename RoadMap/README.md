@@ -124,6 +124,12 @@
 90. K-th largest element in an unsorted array.</br> 
 91. Flood-fill Algorithm </br>
 
+## Day10: Heaps and Maps
+92. [Kth largest element in unsorted array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+93. [Kth Largest element in stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+94. [K largest elements in unsorted array](https://www.interviewbit.com/problems/k-largest-elements/)
+95. [Sort a nearly sorted array]
+96. [Merge k sorted lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) - v.v good ques
 ## Day10: (Graph) 
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
@@ -140,7 +146,6 @@
 144. Floyd Warshall Algorithm </br>  
 145. MST using Prim’s Algo </br>
 146. MST using Kruskal’s Algo  </br>
-
 
 
 Day5: (LinkedList) 
