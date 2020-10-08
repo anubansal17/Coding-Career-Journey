@@ -130,6 +130,7 @@
 94. [K largest elements in unsorted array](https://www.interviewbit.com/problems/k-largest-elements/)
 95. [Sort a nearly sorted array]
 96. [Merge k sorted lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) - v.v good ques
+97. [LRU Cache](https://leetcode.com/problems/lru-cache)
 ## Day10: (Graph) 
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
