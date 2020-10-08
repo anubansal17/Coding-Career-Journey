@@ -41,3 +41,8 @@
    d. Dijkstras and Belman Ford
    e. Kosaraju and Tarjans Algo (Strongly connected components)
    f. Topological sorting of graphs
+   
+## Week 4 (Segment and Binary Indexed trees)
+5 oct - 11 oct
+### week summary:
+1. Studied Theory about Segment Trees, when to use them
