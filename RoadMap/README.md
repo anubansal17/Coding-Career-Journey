@@ -138,7 +138,7 @@
 101. BFS </br>
 101. Implement Stack using Queue</br>
 102. Implement Queue using Stack </br>
-103. Check for balanced parentheses </br>
+103. [Check for balanced parentheses](https://www.interviewbit.com/problems/balanced-parantheses/)</br>
 104. Next Greater Element</br>
 
 ## Day14: 
@@ -147,12 +147,12 @@
 107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
 108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good one
 109. [Implement Min Stack with O(n) space complexity and with O(1) Space complexity](https://www.interviewbit.com/problems/min-stack/)</br>
-110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
-111. [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)
-112. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
-113. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/)
+110. [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)
+111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
+112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/)
 
 ## Day10: (Graph) 
+110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
 136. BFS</br>
@@ -169,6 +169,13 @@
 145. MST using Prim’s Algo </br>
 146. MST using Kruskal’s Algo  </br>
 
+## Day12: (Greedy)
+147. N meeting in one room </br>
+148. Activity Selection  </br>
+149. Greedy algorithm to find minimum number of coins </br>
+150. Fractional Knapsack Problem </br>
+151. Minimum number of platforms required for a railway </br>
+152. Job sequencing Problem </br>
 
 Day5: (LinkedList) 
 25. Reverse a LinkedList </br>
@@ -195,13 +202,7 @@ Day7: (2-pointer)
 42. Remove Duplicate from Sorted array </br>
 43. Max continuous number of 1’s  </br>
 
-Day8: (Greedy)
-44. N meeting in one room </br>
-45. Activity Selection  </br>
-46. Greedy algorithm to find minimum number of coins </br>
-47. Fractional Knapsack Problem </br>
-48. Minimum number of platforms required for a railway </br>
-49. Job sequencing Problem </br>
+
 
 Day11: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..)</br>
