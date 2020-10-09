@@ -146,7 +146,7 @@
 106. LRU cache (vvvv. imp) </br>
 107. Largest rectangle in histogram </br> 
 108. Sliding Window maximum </br>
-109. Implement Min Stack  </br>
+109. Implement Min Stack with O(n) space complexity and with O(1) Space complexity</br>
 110. Rotten Orange (Using BFS) </br>
 
 ## Day10: (Graph) 
