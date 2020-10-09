@@ -131,6 +131,24 @@
 95. [Sort a nearly sorted array]
 96. [Merge k sorted lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) - v.v good ques
 97. [LRU Cache](https://leetcode.com/problems/lru-cache)
+
+
+## Day13: (Stack and Queue) 
+100. Implement Stack / Implement Queue</br>
+101. BFS </br>
+101. Implement Stack using Queue</br>
+102. Implement Queue using Stack </br>
+103. Check for balanced parentheses </br>
+104. Next Greater Element </br>
+
+## Day14: 
+105. Next Smaller Element </br>
+106. LRU cache (vvvv. imp) </br>
+107. Largest rectangle in histogram </br> 
+108. Sliding Window maximum </br>
+109. Implement Min Stack  </br>
+110. Rotten Orange (Using BFS) </br>
+
 ## Day10: (Graph) 
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
@@ -196,24 +214,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 70. Divide Integers without / operator</br> 
 71. Power Set (this is very important) </br>
 72. Find MSB in o(1) </br>
-73. Find square of a number without using multiplication or division operators. </br> 
-
-
-Day13: (Stack and Queue) 
-74. Implement Stack / Implement Queue</br>
-75. BFS </br>
-76. Implement Stack using Queue</br>
-77. Implement Queue using Stack </br>
-78. Check for balanced parentheses </br>
-79. Next Greater Element </br>
-
-Day14: 
-80. Next Smaller Element </br>
-81. LRU cache (vvvv. imp) </br>
-82. Largest rectangle in histogram </br> 
-83. Sliding Window maximum </br>
-84. Implement Min Stack  </br>
-85. Rotten Orange (Using BFS) </br> 
+73. Find square of a number without using multiplication or division operators. </br>  
 
 Day15: (String) 
 86. Reverse Words in a String </br>
