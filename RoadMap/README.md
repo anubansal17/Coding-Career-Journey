@@ -143,13 +143,14 @@
 
 ## Day14: 
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
-106. LRU cache (vvvv. imp) </br>
+106. LRU cache - Done in heaps(vvvv. imp) </br>
 107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
 108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good one
 109. [Implement Min Stack with O(n) space complexity and with O(1) Space complexity](https://www.interviewbit.com/problems/min-stack/)</br>
-110. [Rotten Orange (Using BFS)] </br>
+110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
 111. [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)
 112. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
+113. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/)
 
 ## Day10: (Graph) 
 134. Clone a graph (Not that easy as it looks) </br>
