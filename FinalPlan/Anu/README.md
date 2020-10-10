@@ -69,7 +69,7 @@ Practice questions: Pending</br>
  
  ## 10th Oct (Greedy Algos)
  - Discussed about Mock interview ques
- - Studied arrays
- To-do: </br>
+ - Studied arrays</br>
+ To-do:
  - Revise trees
  - Study graphs
