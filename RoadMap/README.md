@@ -10,9 +10,9 @@
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
 
 ## Day2: (Arrays)
-7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) </br>
+7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) - Pending
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
-9. *[Next Permutation](https://leetcode.com/problems/next-permutation/)</br>
+9. *[Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
 10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)- Need practice</br> 
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)</br>
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)  </br>
@@ -227,6 +227,8 @@ Day15: (String)
 89. Implement ATOI/STRSTR </br>
 90. Longest Common Prefix </br>
 91. Rabin Karp </br>
+92. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based)
+93. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
 
 
 Day16: (String) 
