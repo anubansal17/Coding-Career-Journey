@@ -151,6 +151,25 @@
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/)
 
+## Day15: (String) 
+113. Reverse Words in a String </br>
+114. Longest Palindrome in a string </br>
+115. Roman Number to Integer and vice versa</br>
+116. Implement ATOI/STRSTR </br>
+117. Longest Common Prefix </br>
+118. Rabin Karp </br>
+119. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based)
+120. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
+
+
+## Day16: (String) 
+121. Prefix Function/Z-Function</br>
+122. KMP algo </br>
+123. Minimum characters needed to be inserted in the beginning to make it palindromic.</br> 
+124. Check for Anagrams </br>
+125. Count and Say </br>
+126. Compare version numbers</br> 
+
 ## Day10: (Graph) 
 110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
 134. Clone a graph (Not that easy as it looks) </br>
@@ -220,24 +239,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 72. Find MSB in o(1) </br>
 73. Find square of a number without using multiplication or division operators. </br>  
 
-Day15: (String) 
-86. Reverse Words in a String </br>
-87. Longest Palindrome in a string </br>
-88. Roman Number to Integer and vice versa</br>
-89. Implement ATOI/STRSTR </br>
-90. Longest Common Prefix </br>
-91. Rabin Karp </br>
-92. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based)
-93. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
 
-
-Day16: (String) 
-92. Prefix Function/Z-Function</br>
-93. KMP algo </br>
-94. Minimum characters needed to be inserted in the beginning to make it palindromic.</br> 
-95. Check for Anagrams </br>
-96. Count and Say </br>
-97. Compare version numbers</br> 
 
 
 
