@@ -63,3 +63,11 @@ Practice questions: Pending</br>
  ## 8th Oct (Heaps)
  - Read Concepts
  - Min-Max heap problems
+ 
+ ## 9th Oct (Stacks and Queues)
+ - Read Stacks and queues concepts and implemented problems given in SDE sheet
+ 
+ ## 10th Oct (Greedy Algos)
+ - Discussed about Mock interview ques
+ - Revised arrays, trees
+ - Studied graphs
