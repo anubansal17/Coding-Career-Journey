@@ -76,7 +76,7 @@
 57. [Matrix Chain Multiplication]()</br>
 
 ## Day9: (Dynamic Programming)
-58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path) </br>
+58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)</br>
 59. Coin change </br>
 57. Subset Sum </br>
 58. Rod Cutting </br>
@@ -149,14 +149,14 @@
 109. [Implement Min Stack with O(n) space complexity and with O(1) Space complexity](https://www.interviewbit.com/problems/min-stack/)</br>
 110. [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
-112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/)
+112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
 ## Day15: (String) 
 113. Reverse Words in a String </br>
 114. Longest Palindrome in a string </br>
 115. Roman Number to Integer and vice versa</br>
-116. Implement ATOI/STRSTR </br>
-117. Longest Common Prefix </br>
+116. [Implement STRSTR](https://leetcode.com/problems/implement-strstr/submissions/) - Done
+117. [Longest Common Prefix]()</br>
 118. Rabin Karp </br>
 119. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based)
 120. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
@@ -169,6 +169,7 @@
 124. Check for Anagrams </br>
 125. Count and Say </br>
 126. Compare version numbers</br> 
+127. Implement atoi
 
 ## Day10: (Graph) 
 110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
