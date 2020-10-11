@@ -67,9 +67,11 @@ Practice questions: Pending</br>
  ## 9th Oct (Stacks and Queues)
  - Read Stacks and queues concepts and implemented problems given in SDE sheet
  
- ## 10th Oct (Greedy Algos)
+ ## 10th Oct (Arrays)
  - Discussed about Mock interview ques
  - Studied arrays</br>
- To-do:
- - Revise trees
- - Study graphs
+ - Studied Strings
+ 
+ ## 11th Oct (Strings and Pattern matching algos)
+ - Standard problems in strings
+ - Studied KMP, Rabin Karp Pattern Searching Algo
