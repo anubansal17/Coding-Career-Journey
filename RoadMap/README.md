@@ -81,7 +81,7 @@
 57. Subset Sum </br>
 58. Rod Cutting </br>
 59. [Egg Dropping] - Studied
-60. Word Break </br>
+60. [Word Break](https://leetcode.com/problems/word-break/submissions/)</br>
 61. Palindrome Partitioning (MCM Variation) </br>
 
 ## Day10: (Backtracking) 
