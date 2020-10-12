@@ -80,7 +80,7 @@
 59. Coin change </br>
 57. Subset Sum </br>
 58. Rod Cutting </br>
-59. Egg Dropping </br>
+59. [Egg Dropping] - Studied
 60. Word Break </br>
 61. Palindrome Partitioning (MCM Variation) </br>
 
@@ -101,16 +101,16 @@
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard</br>
 
 ## Day 12: (Binary Search Tree) 
-74. Populate Next Right pointers of Tree </br>
+74. [Populate Next Right pointers of Tree]()</br>
 75. Search given Key in BST </br>
 76. Construct BST from given keys.</br> 
 77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)</br>
 78. Find LCA of two nodes in BST </br>
-79. Find the inorder predecessor/successor of a given Key in BST. </br>
+79. Find the inorder predecessor/successor of a given Key in BST </br>
 
 ## Day8: (BinarySearchTree) 
 80. Floor and Ceil in a BST </br>
-81. Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
+81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
 82. [Find a pair with a given sum in BST]</br>
 83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)</br>
 84. Size of the largest BST in a Binary Tree </br>
@@ -121,7 +121,7 @@
 87. Find median in a stream of running integers. </br>
 88. K-th largest element in a stream. </br>
 89. Distinct numbers in Window. </br>
-90. K-th largest element in an unsorted array.</br> 
+90. [K-th largest element in an unsorted array] - Done using heaps</br> 
 91. Flood-fill Algorithm </br>
 
 ## Day10: Heaps and Maps
@@ -152,24 +152,24 @@
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
 ## Day15: (String) 
-113. Reverse Words in a String </br>
-114. Longest Palindrome in a string </br>
-115. Roman Number to Integer and vice versa</br>
+113. [Reverse Words in a String] - studied</br>
+114. [Longest Palindrome in a string] - Done using LCS</br>
+115. [Roman Number to Integer and vice versa] - studied</br>
 116. [Implement STRSTR](https://leetcode.com/problems/implement-strstr/submissions/) - Done
 117. [Longest Common Prefix]()</br>
-118. Rabin Karp </br>
+118. [Rabin Karp]- Studied</br>
 119. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based)
 120. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
 
 
 ## Day16: (String) 
-121. Prefix Function/Z-Function</br>
-122. KMP algo </br>
-123. Minimum characters needed to be inserted in the beginning to make it palindromic.</br> 
-124. Check for Anagrams </br>
-125. Count and Say </br>
-126. Compare version numbers</br> 
-127. Implement atoi
+121. [Prefix Function/Z-Function] - Studied</br>
+122. [KMP algo] - Studied and implemented in strstr </br>
+123. []</br> 
+124. [Check for Anagrams] - Studied</br>
+125. [Count and Say]- Studied </br>
+126. [Compare version numbers] - Studied</br> 
+127. [Implement atoi] - Studied
 
 ## Day10: (Graph) 
 110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
