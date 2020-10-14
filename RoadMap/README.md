@@ -40,7 +40,7 @@
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
 27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)</br>
-29. [Diameter of Binary Tree]</br>
+29. [Diameter of Binary Tree]- Studied</br>
 30. [Check if Binary tree is height balanced or not](https://www.interviewbit.com/problems/balanced-binary-tree/)</br> 
 31. [LCA in Binary Tree](https://www.interviewbit.com/problems/least-common-ancestor/)</br>
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)</br>
@@ -73,7 +73,7 @@
 54. [Edit Distance](https://leetcode.com/problems/edit-distance/)</br>
 55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)</br>
 56. []
-57. [Matrix Chain Multiplication]()</br>
+57. [Matrix Chain Multiplication]</br>
 
 ## Day9: (Dynamic Programming)
 58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)</br>
@@ -171,7 +171,7 @@
 126. [Compare version numbers] - Studied</br> 
 127. [Implement atoi] - Studied
 
-## Day19: (LinkedList) 
+## Day19: (LinkedList) - Done
 128. Reverse a LinkedList </br>
 129. Find middle of LinkedList </br>
 130. Merge two sorted Linked List </br>
