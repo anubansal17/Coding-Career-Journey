@@ -30,7 +30,8 @@ public:
             }
             int mergeIndex = i;
             for (int j=i+1; j<n; j++) {
-            // If end of any interval is greater than or equal to start of next                      interval, it can be merged
+            // If end of any interval is greater than or equal to start of next interval, it can be merged
+            // We will change the second value of interval only if the new interval that is to be merged has greater value than current one
             if(intervals[mergeIndex][1] >= intervals[j][0] and intervals[mergeIndex][1] < intervals[j][1]) {
                 mergeIndex = j;
                 }
