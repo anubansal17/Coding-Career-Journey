@@ -108,7 +108,7 @@
 78. Find LCA of two nodes in BST </br>
 79. Find the inorder predecessor/successor of a given Key in BST </br>
 
-## Day8: (BinarySearchTree) 
+## Day13: (BinarySearchTree) 
 80. Floor and Ceil in a BST </br>
 81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
 82. [Find a pair with a given sum in BST]</br>
@@ -116,7 +116,7 @@
 84. Size of the largest BST in a Binary Tree </br>
 85. Serialize and deserialize Binary Tree</br>
 
-## Day9: (Mixed Questions) 
+## Day14: (Mixed Questions) 
 86. Binary Tree to Double Linked List </br>
 87. Find median in a stream of running integers. </br>
 88. K-th largest element in a stream. </br>
@@ -124,7 +124,7 @@
 90. [K-th largest element in an unsorted array] - Done using heaps</br> 
 91. Flood-fill Algorithm </br>
 
-## Day10: Heaps and Maps
+## Day15: Heaps and Maps
 92. [Kth largest element in unsorted array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 93. [Kth Largest element in stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 94. [K largest elements in unsorted array](https://www.interviewbit.com/problems/k-largest-elements/)
@@ -133,7 +133,7 @@
 97. [LRU Cache](https://leetcode.com/problems/lru-cache)
 
 
-## Day13: (Stack and Queue) 
+## Day16: (Stack and Queue) 
 100. Implement Stack / Implement Queue</br>
 101. BFS </br>
 101. Implement Stack using Queue</br>
@@ -151,7 +151,7 @@
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
-## Day15: (String) 
+## Day17: (String) 
 113. [Reverse Words in a String] - studied</br>
 114. [Longest Palindrome in a string] - Done using LCS</br>
 115. [Roman Number to Integer and vice versa] - studied</br>
@@ -162,7 +162,7 @@
 120. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
 
 
-## Day16: (String) 
+## Day18: (String) 
 121. [Prefix Function/Z-Function] - Studied</br>
 122. [KMP algo] - Studied and implemented in strstr </br>
 123. []</br> 
@@ -171,7 +171,32 @@
 126. [Compare version numbers] - Studied</br> 
 127. [Implement atoi] - Studied
 
-## Day10: (Graph) 
+## Day19: (LinkedList) 
+128. Reverse a LinkedList </br>
+129. Find middle of LinkedList </br>
+130. Merge two sorted Linked List </br>
+131. Remove N-th node from back of LinkedList </br>
+132. Delete a given Node when a node is given. (0(1) solution) </br>
+133. Add two numbers as LinkedList  </br>
+
+## Day20: 
+31. Find intersection point of 2 LinkedLists </br>
+32. Check if a LinkedList is palindrome or not. </br>
+33. Reverse a LinkedList in groups. </br>
+34. Detect a cycle and removing loop(two different questions and same concept) </br>
+35. Flattening of a LinkedList </br>
+36. Rotate a LinkedList </br>
+37. Clone a Linked List with random and next pointer </br>
+
+## Day21: (2-pointer) 
+38. Merge two sorted LinkedLists </br>
+39. Find the starting point of the loop. </br>
+40. 3 sum </br>
+41. Trapping rainwater </br>
+42. Remove Duplicate from Sorted array </br>
+43. Max continuous number of 1’s  </br>
+
+## Day22: (Graph) 
 110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
 134. Clone a graph (Not that easy as it looks) </br>
 135. DFS</br>
@@ -181,7 +206,7 @@
 139. Number of islands (Do in Grid and Graph both) </br>
 140. Bipartite Check </br>
 
-## Day11: (Graph)
+## Day22: (Graph)
 141. SCC(using KosaRaju’s algo) </br>
 142. Djisktra’s Algorithm </br>
 143. Bellman Ford Algo </br>
@@ -189,7 +214,7 @@
 145. MST using Prim’s Algo </br>
 146. MST using Kruskal’s Algo  </br>
 
-## Day12: (Greedy)
+## Day23: (Greedy)
 147. N meeting in one room </br>
 148. Activity Selection  </br>
 149. Greedy algorithm to find minimum number of coins </br>
@@ -197,34 +222,7 @@
 151. Minimum number of platforms required for a railway </br>
 152. Job sequencing Problem </br>
 
-Day5: (LinkedList) 
-25. Reverse a LinkedList </br>
-26. Find middle of LinkedList </br>
-27. Merge two sorted Linked List </br>
-28. Remove N-th node from back of LinkedList </br>
-29. Delete a given Node when a node is given. (0(1) solution) </br>
-30. Add two numbers as LinkedList  </br>
-
-Day6: 
-31. Find intersection point of Y LinkedList </br>
-32. Check if a LinkedList is palindrome or not. </br>
-33. Reverse a LinkedList in groups. </br>
-34. Detect a cycle and removing loop(two different questions and same concept) </br>
-35. Flattening of a LinkedList </br>
-36. Rotate a LinkedList </br>
-37. Clone a Linked List with random and next pointer </br>
-
-Day7: (2-pointer) 
-38. Merge two sorted LinkedLists </br>
-39. Find the starting point of the loop. </br>
-40. 3 sum </br>
-41. Trapping rainwater </br>
-42. Remove Duplicate from Sorted array </br>
-43. Max continuous number of 1’s  </br>
-
-
-
-Day11: (Divide and Conquer) 
+# Day24: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..)</br>
 63. Matrix Median</br>
 64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
