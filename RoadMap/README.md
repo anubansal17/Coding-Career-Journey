@@ -72,7 +72,7 @@
 53. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)</br>
 54. [Edit Distance](https://leetcode.com/problems/edit-distance/)</br>
 55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)</br>
-56. [Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)<br>
+56. []
 57. [Matrix Chain Multiplication]()</br>
 
 ## Day9: (Dynamic Programming)
