@@ -1,6 +1,6 @@
 # DSA Roadmap for reference
 
-## Day1: (Arrays)
+## Day1: (Arrays) - Done
 
 1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)</br> 
 2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)</br>
@@ -9,7 +9,7 @@
 5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)</br>
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
 
-## Day2: (Arrays)
+## Day2: (Arrays) 
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) - Pending
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
 9. *[Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
