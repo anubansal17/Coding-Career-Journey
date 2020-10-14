@@ -16,6 +16,7 @@ Approach 3: Instead of taking 2 explicit dummy arrays, use first row and first c
 - As matrix[0][0] can be set by two different rows and column, we will handle this case separately
 */
 // Approach 3 implementation
+// Code is giving WA- have to be corrected
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
