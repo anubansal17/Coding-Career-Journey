@@ -180,33 +180,34 @@
 133. Add two numbers as LinkedList  </br>
 
 ## Day20: 
-31. Find intersection point of 2 LinkedLists </br>
-32. Check if a LinkedList is palindrome or not. </br>
-33. Reverse a LinkedList in groups. </br>
-34. Detect a cycle and removing loop(two different questions and same concept) </br>
-35. Flattening of a LinkedList </br>
-36. Rotate a LinkedList </br>
-37. Clone a Linked List with random and next pointer </br>
+134. Find intersection point of 2 LinkedLists </br>
+135. Check if a LinkedList is palindrome or not. </br>
+136. Reverse a LinkedList in groups. </br>
+137. Detect a cycle and removing loop(two different questions and same concept) </br>
+138. Flattening of a LinkedList </br>
+139. Rotate a LinkedList </br>
+140. Clone a Linked List with random and next pointer </br>
 
 ## Day21: (2-pointer) 
-38. Merge two sorted LinkedLists </br>
-39. Find the starting point of the loop. </br>
-40. 3 sum </br>
-41. Trapping rainwater </br>
-42. Remove Duplicate from Sorted array </br>
-43. Max continuous number of 1’s  </br>
+141. Merge two sorted LinkedLists </br>
+142. Find the starting point of the loop. </br>
+143. 3 sum </br>
+144. Trapping rainwater </br>
+145. Remove Duplicate from Sorted array </br>
+146. Max continuous number of 1’s  </br>
 
-## Day22: (Graph) 
-110. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
-134. Clone a graph (Not that easy as it looks) </br>
-135. DFS</br>
-136. BFS</br>
-137. Detect A cycle in Undirected Graph/Directed Graph </br>
+## Day22: (Graphs) 
+150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
+151. Clone a graph (Not that easy as it looks) </br>
+152. DFS</br>
+153. BFS</br>
+154. Detect A cycle in Undirected Graph/Directed Graph </br>
 138. Topo Sort </br>
 139. Number of islands (Do in Grid and Graph both) </br>
 140. Bipartite Check </br>
+[Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
 
-## Day22: (Graph)
+## Day22
 141. SCC(using KosaRaju’s algo) </br>
 142. Djisktra’s Algorithm </br>
 143. Bellman Ford Algo </br>
