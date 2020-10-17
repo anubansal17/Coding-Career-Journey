@@ -199,8 +199,8 @@
 ## Day22: (Graphs) 
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. Clone a graph (Not that easy as it looks) </br>
-152. DFS</br>
-153. BFS</br>
+152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
+153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp)
 154. Detect A cycle in Undirected Graph/Directed Graph </br>
 138. Topo Sort </br>
 139. Number of islands (Do in Grid and Graph both) </br>
