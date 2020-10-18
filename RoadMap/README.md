@@ -196,7 +196,7 @@
 145. Remove Duplicate from Sorted array </br>
 146. Max continuous number of 1’s  </br>
 
-## Day22: (Graphs) 
+## Day22: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
@@ -204,7 +204,7 @@
 154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/)
 155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp)
 156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/)
-157. Bipartite Check
+157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/)
 158. [Clone a graph](https://www.interviewbit.com/problems/clone-graph/)
 159. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)
 160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)
@@ -242,10 +242,6 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 71. Power Set (this is very important) </br>
 72. Find MSB in o(1) </br>
 73. Find square of a number without using multiplication or division operators. </br>  
-
-
-
-
 
 Day27: 
 Revise OS notes that you would have made during your sem </br>
