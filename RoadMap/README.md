@@ -198,18 +198,22 @@
 
 ## Day22: (Graphs) 
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
-151. Clone a graph (Not that easy as it looks) </br>
+151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
 153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp)
-154. Detect A cycle in Undirected Graph/Directed Graph </br>
-138. Topo Sort </br>
-139. Number of islands (Do in Grid and Graph both) </br>
-140. Bipartite Check </br>
-[Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)</br>
+154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/)
+155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp)
+156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/)
+157. Bipartite Check
+158. [Clone a graph](https://www.interviewbit.com/problems/clone-graph/)
+159. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)
+160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)
+161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem
+162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good problem
 
 ## Day22
 141. SCC(using KosaRaju’s algo) </br>
-142. Djisktra’s Algorithm </br>
+142. [Djisktra’s Algorithm]()</br>
 143. Bellman Ford Algo </br>
 144. Floyd Warshall Algorithm </br>  
 145. MST using Prim’s Algo </br>
