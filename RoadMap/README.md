@@ -12,7 +12,7 @@
 ## Day2: (Arrays) 
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) - Pending
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
-9. *[Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
+9. [Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
 10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)- Need practice</br> 
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)</br>
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)  </br>
@@ -196,6 +196,14 @@
 145. Remove Duplicate from Sorted array </br>
 146. Max continuous number of 1’s  </br>
 
+Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
+68. Check if a number if a power of 2 or not in O(1) </br>
+69. Count total set bits </br>
+70. Divide Integers without / operator</br> 
+71. Power Set (this is very important) </br>
+72. Find MSB in o(1) </br>
+73. Find square of a number without using multiplication or division operators. </br> 
+
 ## Day22: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
@@ -212,8 +220,9 @@
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good problem
 
 ## Day22
-141. SCC(using KosaRaju’s algo) </br>
-142. [Djisktra’s Algorithm]()</br>
+163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
+164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
+141. Strongly Connected Components(using KosaRaju’s algo) </br>
 143. Bellman Ford Algo </br>
 144. Floyd Warshall Algorithm </br>  
 145. MST using Prim’s Algo </br>
@@ -234,14 +243,7 @@
 65. Search element in a sorted and rotated array. </br>
 66. K-th element of two sorted arrays </br>
 67. Media of an array </br>
-
-Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
-68. Check if a number if a power of 2 or not in O(1) </br>
-69. Count total set bits </br>
-70. Divide Integers without / operator</br> 
-71. Power Set (this is very important) </br>
-72. Find MSB in o(1) </br>
-73. Find square of a number without using multiplication or division operators. </br>  
+ 
 
 Day27: 
 Revise OS notes that you would have made during your sem </br>
