@@ -34,23 +34,23 @@
 22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
 23. [LeftView Of Binary Tree/Right View](https://leetcode.com/problems/binary-tree-right-side-view/)
 24. [Bottom View of Binary Tree](https://www.geeksforgeeks.org/bottom-view-binary-tree/)
-25. Top View of Binary Tree
+25. [Top View of Binary Tree]
 
-## Day5: (Binary Tree)
+## Day5: (Binary Tree) - Done
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
 27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)</br>
-29. [Diameter of Binary Tree]- Studied</br>
+29. [Diameter of Binary Tree]</br>
 30. [Check if Binary tree is height balanced or not](https://www.interviewbit.com/problems/balanced-binary-tree/)</br> 
 31. [LCA in Binary Tree](https://www.interviewbit.com/problems/least-common-ancestor/)</br>
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)</br>
 
-## Day 6: (Binary Tree) 
-33. [Maximum path sum]()</br>
+## Day 6: (Binary Tree) - Done
+33. [Maximum path sum](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)</br>
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
 36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)</br>
-37. [Flatten Binary Tree to LinkedList]</br> 
+37. [Flatten Binary Tree to LinkedList](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
 
 ## Day7: (Hashing)
@@ -100,21 +100,21 @@
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)</br>
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard</br>
 
-## Day 12: (Binary Search Tree) 
+## Day 12: (Binary Search Tree) - Done
 74. [Populate Next Right pointers of Tree]()</br>
-75. Search given Key in BST </br>
-76. Construct BST from given keys.</br> 
+75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) </br>
+76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder</br> 
 77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)</br>
-78. Find LCA of two nodes in BST </br>
-79. Find the inorder predecessor/successor of a given Key in BST </br>
+78. [Find LCA of two nodes in BST](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
+79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 ## Day13: (BinarySearchTree) 
-80. Floor and Ceil in a BST </br>
+80. [Floor and Ceil in a BST]</br>
 81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
-82. [Find a pair with a given sum in BST]</br>
+82. [Find a pair with a given sum in BST]
 83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)</br>
-84. Size of the largest BST in a Binary Tree </br>
-85. Serialize and deserialize Binary Tree</br>
+84. Size of the largest BST in a Binary Tree
+85. Serialize and deserialize Binary Tree
 
 ## Day14: (Mixed Questions) 
 86. Binary Tree to Double Linked List </br>
@@ -122,7 +122,7 @@
 88. K-th largest element in a stream. </br>
 89. Distinct numbers in Window. </br>
 90. [K-th largest element in an unsorted array] - Done using heaps</br> 
-91. Flood-fill Algorithm </br>
+91. 
 
 ## Day15: Heaps and Maps
 92. [Kth largest element in unsorted array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
@@ -234,6 +234,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 144. Floyd Warshall Algorithm </br>  
 145. MST using Prim’s Algo </br>
 146. MST using Kruskal’s Algo  </br>
+Flood-fill Algorithm </br>
 
 ## Day23: (Greedy)
 147. N meeting in one room </br>
