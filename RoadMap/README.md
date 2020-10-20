@@ -11,7 +11,7 @@
 
 ## Day2: (Arrays) 
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) - Pending
-8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) </br>
+8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
 10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)- Need practice</br> 
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)</br>
@@ -28,15 +28,15 @@
 18. Count trailing zeros in factorial of a number</br> 
 19. Find GCD in Log N </br>
 
-## Day4: (Binary Tree) 
-20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)</br>
-21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/) </br>
-22. [Postorder Traversal (with recursion and without recursion)](https://www.interviewbit.com/search/?q=Amazon#toggle-problem-link-229)</br>
-23. [LeftView Of Binary Tree/Right View](https://leetcode.com/problems/binary-tree-right-side-view/)</br>
-24. [Bottom View of Binary Tree](https://www.geeksforgeeks.org/bottom-view-binary-tree/)- pending</br>
-25. [Top View of Binary Tree]</br>
+## Day4: (Binary Tree) - Done
+20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
+23. [LeftView Of Binary Tree/Right View](https://leetcode.com/problems/binary-tree-right-side-view/)
+24. [Bottom View of Binary Tree](https://www.geeksforgeeks.org/bottom-view-binary-tree/)
+25. Top View of Binary Tree
 
-## Day5: (Binary Tree) 
+## Day5: (Binary Tree)
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
 27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)</br>
@@ -51,7 +51,7 @@
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
 36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)</br>
 37. [Flatten Binary Tree to LinkedList]</br> 
-38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree</br>   
+38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
 
 ## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/) </br>
@@ -179,7 +179,7 @@
 132. Delete a given Node when a node is given. (0(1) solution) </br>
 133. Add two numbers as LinkedList  </br>
 
-## Day20: 
+## Day20: - Done
 134. Find intersection point of 2 LinkedLists </br>
 135. Check if a LinkedList is palindrome or not. </br>
 136. Reverse a LinkedList in groups. </br>
@@ -188,8 +188,15 @@
 139. Rotate a LinkedList </br>
 140. Clone a Linked List with random and next pointer </br>
 
+
+## Day21:
+141. [Sort binary linked list](https://www.interviewbit.com/problems/sort-binary-linked-list/)
+142. Merge k sorted LinkedLists </br>
+143. Reverse alternate k nodes
+144. Even Reverse
+145. Reverse Linked list 2
+
 ## Day21: (2-pointer) 
-141. Merge two sorted LinkedLists </br>
 142. Find the starting point of the loop. </br>
 143. 3 sum </br>
 144. Trapping rainwater </br>
