@@ -10,7 +10,7 @@
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
 
 ## Day2: (Arrays) 
-7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) - Pending
+7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
 10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)- Need practice</br> 
@@ -117,7 +117,7 @@
 85. Serialize and deserialize Binary Tree
 
 ## Day14: (Mixed Questions) 
-86. Binary Tree to Double Linked List </br>
+86. Binary Tree to Doubly Linked List </br>
 87. Find median in a stream of running integers. </br>
 88. K-th largest element in a stream. </br>
 89. Distinct numbers in Window. </br>
@@ -163,7 +163,7 @@
 
 
 ## Day18: (String) 
-121. [Prefix Function/Z-Function] - Studied</br>
+121. [Prefix Function/Z-Function]</br>
 122. [KMP algo] - Studied and implemented in strstr </br>
 123. []</br> 
 124. [Check for Anagrams] - Studied</br>
@@ -250,7 +250,7 @@ Flood-fill Algorithm </br>
 64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
 65. Search element in a sorted and rotated array. </br>
 66. K-th element of two sorted arrays </br>
-67. Media of an array </br>
+67. Median of an array </br>
  
 
 Day27: 
