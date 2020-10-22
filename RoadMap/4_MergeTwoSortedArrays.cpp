@@ -1,5 +1,5 @@
 /*
-Approach 1: Use an extra array and merge both the arrays in that array after comparing each element, T.C- O(nLogn), S.C- O(n)
+Approach 1: Use an extra array and merge both the arrays in that array after comparing each element, T.C- O(n+m), S.C- O(n)
 
 Approach 2: Insertion sort: Use the fact that both the arrays are already sorted
 - Compare the elements of both the arrays starting from begining - arr1(n1) and arr2(n2)(n1>n2)
