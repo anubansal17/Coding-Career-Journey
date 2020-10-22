@@ -16,41 +16,44 @@ Approach 3: Instead of taking 2 explicit dummy arrays, use first row and first c
 - As matrix[0][0] can be set by two different rows and column, we will handle this case separately
 */
 // Approach 3 implementation
-// Code is giving WA- have to be corrected
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        int col = 1;
-        for (int i = 0; i < rows; i++) {
-                // If any of the element in zeroth column is 0
-                if(matrix[i][0] == 0) {
-                    col = 0;
-                }
-                for (int j=1; j<cols; j++) {
-                // If value is zero at any index
-                    if(matrix[i][j] == 0) {
-                    // Make corresponding value in first row and first column as 0
-                        matrix[i][0] = matrix[0][j] = 0;
+        // using 1st row and 1st column as dummy arrays
+        int n = matrix.size();
+        int m = matrix[0].size();
+        bool firstColumn = 0;
+        // Checking for first column
+        for (int i=0; i<n; i++) {
+            if(matrix[i][0] == 0) {
+                firstColumn = 1;
+            }
+        }
+        for (int i=0; i<n; i++) {
+            for (int j=1; j<m; j++) {
+                if(matrix[i][j] == 0) {
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
-        // In the final iteration, we will start from last to reserve our dummy array
-        //cout<<matrix[0][0]<<matrix[1][0];
-        // So, we will be updating this dummy array in last
-        for (int i = rows-1; i >= 0; i--) {
-            for (int j=cols-1; j>=1; j--) {
-                if(i == 1 && j == 2){
-                   // cout<<matrix[i][0]<<matrix[0][j];
-                }
+        // Starting from (1,1) to avoid tampering our prepared dummy row and column
+        for (int i=1; i<n; i++) {
+            for(int j=1; j<m; j++) {
                 if(matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    cout<<i<<j<<endl;
-                    matrix[i][j] == 0;
+                    matrix[i][j] = 0;
                 }
             }
-            // Handling the first column separately
-            if(col == 0) {
+        }
+        // check if first row to be set as 0
+        if(matrix[0][0] == 0) {
+          for (int j=0; j<m; j++) {
+                matrix[0][j] = 0;
+            } 
+        }
+        // tampering the first col
+        if(firstColumn == 1) {
+            for (int i=0; i<n; i++) {
                 matrix[i][0] = 0;
             }
         }
