@@ -12,10 +12,27 @@ GFG Problem: https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-so
 - Consider the matrix as imaginary array and for the index mapping, do i/m - row_index and i%m - column_index where m is no of columns
 - Apply the binary search for 0 to n*m-1
 - For index mapping, use above formula
+-- 3rd and 4th approach works incase given matrix is row and column wise sorted
 */
+// 3rd Approach Implementation
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        
+         int n = matrix.size();
+        if(n == 0) {
+            return false;
+        }
+        int m = matrix[0].size();
+        int i = 0, j = m-1;
+        while(i < n && j >= 0) {
+            if(matrix[i][j] == target) {
+                return true;
+            } else if(matrix[i][j] < target) {
+                i++;
+            } else {
+                j--;
+            }
+        }
+        return false;
     }
 };
