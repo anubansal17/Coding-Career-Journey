@@ -12,10 +12,10 @@
 ## Day2: (Arrays) 
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
-9. [Next Permutation](https://leetcode.com/problems/next-permutation/) - Pending
-10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)- Need practice</br> 
-11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)</br>
-12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)  </br>
+9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
+10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) - tricky implementation
+11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
 ## Day3: (Math)
 13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
