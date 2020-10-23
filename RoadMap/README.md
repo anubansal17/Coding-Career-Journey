@@ -9,11 +9,11 @@
 5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)</br>
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
 
-## Day2: (Arrays) 
+## Day2: (Arrays) - Done
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
-10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) - tricky implementation
+10. *[Inversion of Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) - tricky implementation - Pending
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
