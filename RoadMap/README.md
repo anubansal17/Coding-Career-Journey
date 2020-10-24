@@ -41,7 +41,7 @@
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
 27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)</br>
-29. [Diameter of Binary Tree]</br>
+29. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 30. [Check if Binary tree is height balanced or not](https://www.interviewbit.com/problems/balanced-binary-tree/)</br> 
 31. [LCA in Binary Tree](https://www.interviewbit.com/problems/least-common-ancestor/)</br>
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)</br>
