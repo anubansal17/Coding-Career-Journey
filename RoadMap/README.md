@@ -47,10 +47,10 @@
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)
 
 ## Day 6: (Binary Tree) 
-33. [Maximum path sum](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)</br>
+33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
-36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)</br>
+36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)
 37. [Flatten Binary Tree to LinkedList](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
 
