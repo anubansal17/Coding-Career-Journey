@@ -101,9 +101,9 @@
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)</br>
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard</br>
 
-## Day 12: (Binary Search Tree) - Done
+## Day 12: (Binary Search Tree) 
 74. [Populate Next Right pointers of Tree]()</br>
-75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) </br>
+75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder</br> 
 77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)</br>
 78. [Find LCA of two nodes in BST](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
@@ -172,7 +172,7 @@
 126. [Compare version numbers] - Studied</br> 
 127. [Implement atoi] - Studied
 
-## Day19: (LinkedList) - Done
+## Day19: (LinkedList)
 128. Reverse a LinkedList </br>
 129. Find middle of LinkedList </br>
 130. Merge two sorted Linked List </br>
@@ -180,7 +180,7 @@
 132. Delete a given Node when a node is given. (0(1) solution) </br>
 133. Add two numbers as LinkedList  </br>
 
-## Day20: - Done
+## Day20: 
 134. Find intersection point of 2 LinkedLists </br>
 135. Check if a LinkedList is palindrome or not. </br>
 136. Reverse a LinkedList in groups. </br>
@@ -212,7 +212,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 72. Find MSB in o(1) </br>
 73. Find square of a number without using multiplication or division operators. </br> 
 
-## Day22: (Graphs) - Done
+## Day22: (Graphs)
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
