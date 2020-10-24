@@ -26,8 +26,8 @@
 18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Leetcode hard - Pending
 19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 . [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)</br>
-. Find GCD in Log N</br>
-. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/)</br>
+. [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
+. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que
 
 ## Day4: (Binary Tree) - Done
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
