@@ -17,7 +17,7 @@
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
-## Day3: (Math)
+## Day3: (Math) - Done
 13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 14. [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
