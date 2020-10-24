@@ -22,11 +22,12 @@
 14. [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
 16. [Majority Element(>N/3)](https://leetcode.com/problems/majority-element-ii/)
-17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)
-18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
-17. [Excel Column Number]()
-18. Count trailing zeros in factorial of a number</br> 
-19. Find GCD in Log N </br>
+17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/) - Good que
+18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Leetcode hard - Pending
+19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+. [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)
+. Find GCD in Log N
+. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/)
 
 ## Day4: (Binary Tree) - Done
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
