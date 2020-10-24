@@ -17,7 +17,7 @@
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
-## Day3: (Math) - Done
+## Day3: (Maths) - Done
 13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 14. [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
@@ -38,15 +38,15 @@
 25. [Top View of Binary Tree](https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/)
 
 ## Day5: (Binary Tree) - Done
-26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)</br>
-27. [Level order traversal in spiral form](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)</br> 
-28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)</br>
+26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+27. [Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) 
+28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 29. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-30. [Check if Binary tree is height balanced or not](https://www.interviewbit.com/problems/balanced-binary-tree/)</br> 
-31. [LCA in Binary Tree](https://www.interviewbit.com/problems/least-common-ancestor/)</br>
-32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)</br>
+30. [Check if Binary tree is height balanced or not](https://leetcode.com/problems/balanced-binary-tree/)
+31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)
 
-## Day 6: (Binary Tree) - Done
+## Day 6: (Binary Tree) 
 33. [Maximum path sum](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)</br>
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
