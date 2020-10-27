@@ -46,16 +46,16 @@
 31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)
 
-## Day 6: (Binary Tree) 
+## Day 6: (Binary Tree) - Done
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
 36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)
-37. [Flatten Binary Tree to LinkedList](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)
+37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
 
 ## Day7: (Hashing)
-39. [2 Sum problem](https://leetcode.com/problems/two-sum/) </br>
+39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/) </br>
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)</br>
 42. [Longest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)</br>
@@ -123,7 +123,7 @@
 88. K-th largest element in a stream. </br>
 89. Distinct numbers in Window. </br>
 90. [K-th largest element in an unsorted array] - Done using heaps</br> 
-91. 
+91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 ## Day15: Heaps and Maps
 92. [Kth largest element in unsorted array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
