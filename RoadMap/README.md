@@ -56,10 +56,10 @@
 
 ## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
-40. [4 Sum problem](https://leetcode.com/problems/4sum/) </br>
-41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)</br>
+40. [4 Sum problem](https://leetcode.com/problems/4sum/)
+41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
 42. [Longest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)</br>
-43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one</br> 
+43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one = Start from here
 45. [Clone LinkedList with random pointer](https://www.interviewbit.com/problems/copy-list/)
 46. [Anagrams](https://www.interviewbit.com/problems/anagrams/)
 47. [Longest substring without repeat]() - Pending</br>
