@@ -7,24 +7,62 @@
  *     RandomListNode(int x) : label(x), next(NULL), random(NULL) {}
  * };
  */
-RandomListNode* Solution::copyRandomList(RandomListNode* A) {
-    unordered_map<RandomListNode*, RandomListNode*> pointerMap;
-    RandomListNode* originalNode = A;
-    // Putting nodes into hashmap
-    while(originalNode != NULL) {
-        RandomListNode* copyNode = new RandomListNode(originalNode->label);
-        pointerMap[originalNode] = copyNode;
-        originalNode = originalNode->next;
+class Solution {
+public:
+    Node* copyRandomList(Node* head) {
+        unordered_map <Node*, Node*> listMap;
+        Node* cur = head;
+        while(cur != NULL) {
+            Node* newNode = new Node(cur->val);
+            listMap.insert({cur, newNode});
+            cur = cur->next;
+        }
+        cur = head;
+        while(cur != NULL) {
+            listMap[cur]->next = listMap[cur->next];
+            listMap[cur]->random = listMap[cur->random];
+            cur = cur->next;
+        }
+        return listMap[head];
     }
-    // Resetting the starting pointer of original LinkedList
-    originalNode = A;
-    RandomListNode* curCopyNode = NULL;
-    // traversing the orginal linkedList to set pointers in copy linkedList
-    while(originalNode != NULL) {
-        curCopyNode = pointerMap[originalNode];
-        curCopyNode->next = pointerMap[originalNode->next];
-        curCopyNode->random = pointerMap[originalNode->random];
-        originalNode = originalNode->next;
+};
+
+// Approach 2 : Insering a copy of node between two nodes
+// T.C - O(n) and S.C - O(1)
+class Solution {
+public:
+    Node* copyRandomList(Node* head) {
+        Node* cur = head;
+        while(cur != NULL) {
+            // Make a copy node
+            Node* copyNode = new Node(cur->val);
+            // Storing cur->next as backup
+            Node* next = cur->next;
+            // Making copyNode as cur->next
+            cur->next = copyNode;
+            // Making copyNode->next point to backup
+            copyNode->next = next;
+            // Incrementing the pointer to next original node
+            cur = cur->next->next;
+        }
+        cur = head;
+        // Traversing the list again, to put random pointers
+        while(cur != NULL) {
+            if(cur->next) 
+                cur->next->random = cur->random ?  
+                                 cur->random->next : cur->random;
+            cur = cur->next ? cur->next->next: cur->next;
+        }
+        // Separating the two linkedlists out
+        Node* head1 = head;
+        Node* head2 = head ? head->next : head;
+        Node* temp = head2;
+        while(head1 != NULL && temp != NULL) {
+            head1->next = head1->next ? head1->next->next : head1->next;
+            temp->next = temp->next ? temp->next->next : temp->next;
+            temp = temp->next;
+            head1 = head1->next;
+        }
+        return head2;
     }
-    return pointerMap[A];
-}
+};
