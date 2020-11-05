@@ -8,7 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-// T.C- O(max(len(l1), len(l2)))
+// T.C- O(max(len(l1), len(l2))), S.C- O(n1+n2)
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
