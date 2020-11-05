@@ -58,11 +58,11 @@
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
-42. [Longest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)</br>
+42. [Longest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one - Implementation Pending
 45. [Clone LinkedList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 46. [Anagrams](https://leetcode.com/problems/group-anagrams/)
-47. [Longest substring without repeat]() - Pending</br>
+47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 48. [fraction](https://www.interviewbit.com/problems/fraction/)
 49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
 
@@ -172,13 +172,13 @@
 126. [Compare version numbers] - Studied</br> 
 127. [Implement atoi] - Studied
 
-## Day19: (LinkedList)
-128. Reverse a LinkedList </br>
-129. Find middle of LinkedList </br>
-130. Merge two sorted Linked List </br>
-131. Remove N-th node from back of LinkedList </br>
-132. Delete a given Node when a node is given. (0(1) solution) </br>
-133. Add two numbers as LinkedList  </br>
+## Day19: (LinkedList) - Done
+128. [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+129. [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+130. [Find middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
+130. [Merge two sorted Linked List - Do it inplace](https://leetcode.com/problems/merge-two-sorted-lists/)
+132. [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
+133. [Delete a given Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
 
 ## Day20: 
 134. Find intersection point of 2 LinkedLists </br>
