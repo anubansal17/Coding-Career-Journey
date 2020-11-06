@@ -46,3 +46,15 @@
 5 oct - 11 oct
 ### week summary:
 1. Studied Theory about Segment Trees, when to use them
+
+## Week 5-7 (worked on chatbot) till Oct 30
+Chat is on github
+
+## Bitmanipulation [CTCI]
+1. Finding powers of 2 using bits
+2. greater and lower digits with same set bits
+3. Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double, print the binary representation. If the number cannot be represented accurately in binary with at most 32 characters, print "ERROR."
+4. You are given two 32-bit numbers, N and M, and two bit positions, i and j. Write a method to insert M into N such that M starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011, you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not fully fit between bit 3 and bit 2. e.g. input: N = 10000000000, M=10011, i=2, j=6 output: N = 10001001100
+5. Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so on)
+6. Write a function to determine the number of bits required to convert integer A to integer B. e.g. input: 31, 14 output: 2
+
