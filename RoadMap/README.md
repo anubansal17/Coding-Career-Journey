@@ -236,6 +236,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 146. MST using Kruskal’s Algo  </br>
 Flood-fill Algorithm </br>
 Disjoint Set Union </br>
+[DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
 ## Day23: (Greedy)
 147. N meeting in one room </br>
