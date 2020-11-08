@@ -67,12 +67,12 @@
 49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
 
 ## Day8: (Dynamic Programming) 
-50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) </br>
-51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)</br>
-52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) </br>
-53. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)</br>
-54. [Edit Distance](https://leetcode.com/problems/edit-distance/)</br>
-55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)</br>
+50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+53. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
+54. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)
 56. []
 57. [Matrix Chain Multiplication]</br>
 
@@ -181,12 +181,12 @@
 133. [Delete a given Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
 
 ## Day20: 
-134. Find intersection point of 2 LinkedLists </br>
-135. Check if a LinkedList is palindrome or not. </br>
-136. Reverse a LinkedList in groups. </br>
-137. Detect a cycle and removing loop(two different questions and same concept) </br>
-138. Flattening of a LinkedList </br>
-139. Rotate a LinkedList </br>
+134. [Find intersection point of 2 LinkedLists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+135. [Check if a LinkedList is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/)
+136. [Reverse a LinkedList in groups](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Leetcode Hard
+137. [Detect a cycle and removing loop(two different questions and same concept)](https://leetcode.com/problems/linked-list-cycle-ii/)
+138. [Flattening of k sorted LinkedLists - Similar to merge k sorted linked lists](https://leetcode.com/problems/merge-k-sorted-lists/) - Start from here
+139. [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
 140. []
 
 ## Day21:
