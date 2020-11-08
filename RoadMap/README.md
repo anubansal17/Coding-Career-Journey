@@ -235,6 +235,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 145. MST using Prim’s Algo </br>
 146. MST using Kruskal’s Algo  </br>
 Flood-fill Algorithm </br>
+Disjoint Set Union </br>
 
 ## Day23: (Greedy)
 147. N meeting in one room </br>
