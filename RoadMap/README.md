@@ -216,7 +216,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
 153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp)
-154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/)
+154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) - Done using DFS
 155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp)
 156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/)
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/)
@@ -229,14 +229,15 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 ## Day22
 163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
 164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
-141. Strongly Connected Components(using KosaRaju’s algo) </br>
-143. Bellman Ford Algo </br>
-144. Floyd Warshall Algorithm </br>  
-145. MST using Prim’s Algo </br>
-146. MST using Kruskal’s Algo  </br>
-Flood-fill Algorithm </br>
-Disjoint Set Union </br>
-[DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+165. Strongly Connected Components(using KosaRaju’s algo) </br>
+166. Bellman Ford Algo </br>
+167. Floyd Warshall Algorithm </br>  
+168. MST using Prim’s Algo </br>
+169. MST using Kruskal’s Algo  </br>
+170. Flood-fill Algorithm </br>
+171. Disjoint Set Union </br>
+172. [DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
 
 ## Day23: (Greedy)
 147. N meeting in one room </br>
