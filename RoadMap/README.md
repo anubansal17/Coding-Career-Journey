@@ -238,7 +238,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 171. [Disjoint Set Union Optimized Implementation](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/171_DSUOptimizedImpl.cpp)
 172. [DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
-174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/)
+174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/)</br>
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
 
 ## Day23: (Greedy)
