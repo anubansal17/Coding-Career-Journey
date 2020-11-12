@@ -96,21 +96,21 @@
 ## Day11: 
 68. [Combination sum-1](https://www.interviewbit.com/problems/combination-sum/)</br>
 69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)</br>
-70. [Palindrome Partioning] - Do it with DP</br>
-71. [Subset-1](https://www.interviewbit.com/problems/subset/)</br>
-72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)</br>
-73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard</br>
+70. [Palindrome Partioning] - Do it with DP </br>
+71. [Subset-1](https://www.interviewbit.com/problems/subset/) </br>
+72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/) </br>
+73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard </br>
 
 ## Day 12: (Binary Search Tree) 
-74. [Populate Next Right pointers of Tree]()</br>
+74. [Populate Next Right pointers of Tree]() </br>
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
-76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder</br> 
-77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)</br>
-78. [Find LCA of two nodes in BST](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
+76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder </br> 
+77. [Check is a BT is BST or not] (https://www.interviewbit.com/problems/valid-binary-search-tree/)
+78. [Find LCA of two nodes in BST] (https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 ## Day13: (BinarySearchTree) 
-80. [Floor and Ceil in a BST]</br>
+80. Floor and Ceil in a BST</br>
 81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
 82. [Find a pair with a given sum in BST]
 83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)</br>
@@ -132,19 +132,20 @@
 95. [Sort a nearly sorted array] - studied
 96. [Merge k sorted lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) - v.v good ques
 97. [LRU Cache](https://leetcode.com/problems/lru-cache)
+98.
+99
 
 
-## Day16: (Stack and Queue) 
+## Day16: (Stack and Queue) - Studied
 100. Implement Stack / Implement Queue</br>
-101. BFS </br>
-101. Implement Stack using Queue</br>
-102. Implement Queue using Stack </br>
-103. [Check for balanced parentheses](https://www.interviewbit.com/problems/balanced-parantheses/)</br>
-104. Next Greater Element</br>
+101. [Implement Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/) - By making pop operation costly
+102. [Implement Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/) - By making deque costly
+103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
+104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-## Day14: 
+## Day14: - Studied
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
-106. LRU cache - Done in heaps(vvvv. imp) </br>
+106. [Stock span problem]
 107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
 108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good one
 109. [Implement Min Stack with O(n) space complexity and with O(1) Space complexity](https://www.interviewbit.com/problems/min-stack/)</br>
@@ -153,9 +154,9 @@
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
 ## Day17: (String) 
-113. [Reverse Words in a String] - studied</br>
+113. [Reverse Words in a String](http://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
 114. [Longest Palindrome in a string] - Done using LCS</br>
-115. [Roman Number to Integer and vice versa] - studied</br>
+115. [Roman Number to Integer and vice versa]
 116. [Implement STRSTR](https://leetcode.com/problems/implement-strstr/submissions/) - Done
 117. [Longest Common Prefix]()</br>
 118. [Rabin Karp]- Studied</br>
@@ -242,8 +243,8 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 152. Job sequencing Problem </br>
 
 # Day24: (Divide and Conquer) 
-62. 1/N-th root of an integer (use binary search) (square root, cube root, ..)</br>
-63. Matrix Median</br>
+62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
+63. Matrix Median </br>
 64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
 65. Search element in a sorted and rotated array. </br>
 66. K-th element of two sorted arrays </br>
@@ -252,7 +253,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 # Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
 68. Check if a number if a power of 2 or not in O(1) </br>
 69. Count total set bits </br>
-70. Divide Integers without / operator</br> 
+70. Divide Integers without / operator </br> 
 71. Power Set (this is very important) </br>
 72. Find MSB in o(1) </br>
 73. Find square of a number without using multiplication or division operators. </br> 
