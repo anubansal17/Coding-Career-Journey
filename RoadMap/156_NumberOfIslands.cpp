@@ -1,56 +1,45 @@
-bool isValid(int i, int j, int m, int n) {
-    if(i < 0 || i >= m || j < 0 || j >= n) {
+bool isValid(int i, int j, int n, int m) {
+    if(i < 0 || i >= n || j < 0 || j >= m) {
         return false;
     }
     return true;
 }
-void BFS(int m, int n, vector<vector<int>>&visited, vector<vector<char>> adjMatrix, int i, int j) {
+void BFS(vector<vector<char>> adjMat, vector<vector<bool>> &visited, int i, int j, int n , int m) {
     queue <pair<int, int>> que;
-    que.push({i,j});
+    que.push({i, j});
     visited[i][j] = 1;
-    pair<int, int> current;
+    int x[4] = {1, -1, 0, 0};
+    int y[4] = {0, 0, -1, 1};
     while(!que.empty()) {
-        // We can have adjacent nodes in 4 directions
-        current = que.front();
-        int curX = current.first;
-        int curY = current.second;
+        int curX = que.front().first;
+        int curY = que.front().second;
         que.pop();
-        // check for left element - if it is valid and its value is 1 or 0
-        if(isValid(curX-1, curY, m, n) && adjMatrix[curX-1][curY] == '1' && visited[curX-1][curY] == 0) {
-            que.push({curX-1, curY});
-            visited[curX-1][curY] = 1;
-        }
-        if (isValid(curX+1, curY, m, n) && adjMatrix[curX+1][curY] == '1' && visited[curX+1][curY] == 0) {
-            que.push({curX+1, curY});
-            visited[curX+1][curY] = 1;
-        }
-        if  (isValid(curX, curY-1, m, n) && adjMatrix[curX][curY-1] == '1' && visited[curX][curY-1] == 0) {
-            que.push({curX, curY-1});
-            visited[curX][curY-1] = 1;
-        }
-        if (isValid(curX, curY+1, m, n) && adjMatrix[curX][curY+1] == '1' && visited[curX][curY+1] == 0) {
-            que.push({curX, curY + 1});
-            visited[curX][curY+1] = 1;
-        }
+    // exploring its children
+    for (int k=0; k<4; k++) {
+        if(isValid(curX+x[k], curY+y[k], n, m) && adjMat[curX+x[k]][curY+y[k]] == '1' && visited[curX+x[k]][curY+y[k]] == 0) {
+            que.push({curX+x[k], curY+y[k]});
+            visited[curX+x[k]][curY+y[k]] = 1;
+            }
+        }   
     }
 }
 class Solution {
 public:
-    // We need to find connected components in grid
     int numIslands(vector<vector<char>>& grid) {
-      int m = grid.size();
-        int n = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
         int count = 0;
-        // Here, adjacency matrix is given
-        vector<vector<int>> visited(m, vector<int>(n, 0));
-        for (int i=0; i<m; i++) {
-            for (int j=0; j<n; j++) {
-                if((visited[i][j] == 0) && grid[i][j] == '1') {
-                    BFS(m, n, visited, grid, i, j);
+        // Adj matrix is given
+        vector <vector <bool>> visited(n, vector<bool>(m, 0));
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<m; j++) {
+                if(visited[i][j] == 0 && grid[i][j] == '1')
+                {
+                    BFS(grid, visited, i, j, n, m);
                     count++;
                 }
             }
         }
-        return count;
+            return count;
     }
 };
