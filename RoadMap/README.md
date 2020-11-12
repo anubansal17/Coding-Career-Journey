@@ -211,7 +211,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 72. Find MSB in o(1) </br>
 73. Find square of a number without using multiplication or division operators. </br> 
 
-## Day22: (Graphs)
+## Day22: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
@@ -220,11 +220,11 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp)
 156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/)
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/)
-158. [Clone a graph](https://www.interviewbit.com/problems/clone-graph/)
-159. [Rotten Orange (Using BFS)](https://leetcode.com/problems/rotting-oranges/)
+158. [Clone a graph](https://leetcode.com/problems/clone-graph/)
+159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/)
 160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem
-162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good problem
+162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good que
 
 ## Day22
 163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
@@ -238,6 +238,8 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 171. Disjoint Set Union </br>
 172. [DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
+174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/)
+Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
 
 ## Day23: (Greedy)
 147. N meeting in one room </br>
