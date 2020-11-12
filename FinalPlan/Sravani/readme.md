@@ -58,3 +58,10 @@ Chat is on github
 5. Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so on)
 6. Write a function to determine the number of bits required to convert integer A to integer B. e.g. input: 31, 14 output: 2
 
+## Nov 9 - Nov 12
+1. Daily Challenge 
+   Maximum Difference between node and ansestor, Binary tree tilt, flip the image(bit manipulation) etc
+2. Maths and puzzle : water jug problem, 
+   https://github.com/LucasIME/CTCI-Solutions/tree/master/Chapter6%20-%20Math%20and%20Logic%20Puzzles
+   
+
