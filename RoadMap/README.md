@@ -24,9 +24,9 @@
 16. [Majority Element(>N/3)](https://leetcode.com/problems/majority-element-ii/)
 17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/) - Good que
 18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Leetcode hard - Pending
-19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)</br>
 . [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)</br>
-. [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
+. [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que
 
 ## Day4: (Binary Tree) - Done
@@ -191,7 +191,7 @@
 
 ## Day21:
 141. [Sort binary linked list](https://www.interviewbit.com/problems/sort-binary-linked-list/)
-142. Merge k sorted LinkedLists </br>
+142. [Merge k sorted LinkedLists](https://leetcode.com/problems/merge-k-sorted-lists/)
 143. Reverse alternate k nodes
 144. Even Reverse
 145. Reverse Linked list 2
@@ -203,14 +203,6 @@
 145. Remove Duplicate from Sorted array </br>
 146. Max continuous number of 1’s  </br>
 
-Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
-68. Check if a number if a power of 2 or not in O(1) </br>
-69. Count total set bits </br>
-70. Divide Integers without / operator</br> 
-71. Power Set (this is very important) </br>
-72. Find MSB in o(1) </br>
-73. Find square of a number without using multiplication or division operators. </br> 
-
 ## Day22: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
@@ -221,7 +213,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/)
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/)
 158. [Clone a graph](https://leetcode.com/problems/clone-graph/)
-159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/)
+159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - Solved again till this pt
 160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good que
@@ -257,3 +249,11 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 66. K-th element of two sorted arrays </br>
 67. Median of an array </br>
  
+# Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
+68. Check if a number if a power of 2 or not in O(1) </br>
+69. Count total set bits </br>
+70. Divide Integers without / operator</br> 
+71. Power Set (this is very important) </br>
+72. Find MSB in o(1) </br>
+73. Find square of a number without using multiplication or division operators. </br> 
+
