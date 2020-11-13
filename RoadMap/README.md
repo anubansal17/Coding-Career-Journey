@@ -66,20 +66,19 @@
 48. [fraction](https://www.interviewbit.com/problems/fraction/)
 49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
 
-## Day8: (Dynamic Programming) 
+## Day8: (Dynamic Programming) - Studied
 50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 53. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
 54. [Edit Distance](https://leetcode.com/problems/edit-distance/)
 55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)
-56. []
-57. [Matrix Chain Multiplication]</br>
 
 ## Day9: (Dynamic Programming)
 58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)</br>
 59. Coin change </br>
 57. Subset Sum </br>
+57. Matrix Chain Multiplication]</br>
 58. Rod Cutting </br>
 59. [Egg Dropping] - Studied
 60. [Word Break](https://leetcode.com/problems/word-break/submissions/)</br>
@@ -109,7 +108,7 @@
 78. [Find LCA of two nodes in BST] (https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
-## Day13: (BinarySearchTree) 
+## Day13: (Binary Search Tree) 
 80. Floor and Ceil in a BST</br>
 81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
 82. [Find a pair with a given sum in BST]
@@ -153,25 +152,25 @@
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
-## Day17: (String) 
+## Day17: (String) - Studied
 113. [Reverse Words in a String](http://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
 114. [Longest Palindrome in a string] - Done using LCS</br>
-115. [Roman Number to Integer and vice versa]
-116. [Implement STRSTR](https://leetcode.com/problems/implement-strstr/submissions/) - Done
-117. [Longest Common Prefix]()</br>
+115. [Roman Number to Integer and vice versa](https://www.geeksforgeeks.org/converting-roman-numerals-decimal-lying-1-3999/)
+116. [Implement STRSTR](https://leetcode.com/problems/implement-strstr/submissions/) - Done (KMP based)
+117. Longest Common Prefix - pending</br>
 118. [Rabin Karp]- Studied</br>
-119. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based)
+119. [Minimum chars required to be inserted in the begining to make string palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) - New concept (Not LCS based) - pending
 120. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
 
 
-## Day18: (String) 
+## Day18: (String) - Studied
 121. [Prefix Function/Z-Function]</br>
 122. [KMP algo] - Studied and implemented in strstr </br>
 123. []</br> 
-124. [Check for Anagrams] - Studied</br>
-125. [Count and Say]- Studied </br>
-126. [Compare version numbers] - Studied</br> 
-127. [Implement atoi] - Studied
+124. [Check for Anagrams](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) - Studied
+125. [Count and Say](https://www.geeksforgeeks.org/look-and-say-sequence/)- Studied
+126. [Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/) - Studied</br> 
+127. [Implement atoi](https://www.geeksforgeeks.org/write-your-own-atoi/) - Studied
 
 ## Day19: (LinkedList) - Done
 128. [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
