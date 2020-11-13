@@ -29,7 +29,7 @@
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que
 
-## Day4: (Binary Tree) - Done
+## Day4: (Binary Tree) - Done - Revised
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
@@ -37,16 +37,16 @@
 24. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 25. [Top View of Binary Tree](https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/)
 
-## Day5: (Binary Tree) - Done
+## Day5: (Binary Tree) - Done - Revised
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 27. [Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 29. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 30. [Check if Binary tree is height balanced or not](https://leetcode.com/problems/balanced-binary-tree/)
-31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/),lp
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)
 
-## Day 6: (Binary Tree) - Done
+## Day 6: (Binary Tree) - Done - Revised
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
@@ -62,9 +62,9 @@
 43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one - Implementation Pending
 45. [Clone LinkedList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 46. [Anagrams](https://leetcode.com/problems/group-anagrams/)
-47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - pending
 48. [fraction](https://www.interviewbit.com/problems/fraction/)
-49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
+49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)- pending
 
 ## Day8: (Dynamic Programming) - Studied
 50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
@@ -100,7 +100,7 @@
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/) </br>
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard </br>
 
-## Day 12: (Binary Search Tree) 
+## Day 12: (Binary Search Tree) - Revised
 74. [Populate Next Right pointers of Tree]() </br>
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder </br> 
