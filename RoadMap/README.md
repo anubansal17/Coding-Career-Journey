@@ -101,7 +101,7 @@
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard </br>
 
 ## Day 12: (Binary Search Tree) - Revised
-74. [Populate Next Right pointers of Tree]() </br>
+74. Populate Next Right pointers of Tree
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder </br> 
 77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)
@@ -111,7 +111,7 @@
 ## Day13: (Binary Search Tree) 
 80. Floor and Ceil in a BST</br>
 81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
-82. [Find a pair with a given sum in BST]
+82. Find a pair with a given sum in BST
 83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)</br>
 84. Size of the largest BST in a Binary Tree
 85. Serialize and deserialize Binary Tree
