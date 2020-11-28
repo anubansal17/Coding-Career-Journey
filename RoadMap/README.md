@@ -234,12 +234,12 @@
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
 
 ## Day23: (Greedy)
-147. N meeting in one room </br>
-148. Activity Selection  </br>
-149. Greedy algorithm to find minimum number of coins </br>
-150. Fractional Knapsack Problem </br>
-151. Minimum number of platforms required for a railway </br>
-152. Job sequencing Problem </br>
+175. N meeting in one room </br>
+176. Activity Selection  </br>
+177. Greedy algorithm to find minimum number of coins </br>
+178. Fractional Knapsack Problem </br>
+179. Minimum number of platforms required for a railway </br>
+180. Job sequencing Problem </br>
 
 # Day24: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
