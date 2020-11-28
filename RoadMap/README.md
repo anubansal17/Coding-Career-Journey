@@ -103,7 +103,7 @@
 ## Day 12: (Binary Search Tree) - Revised
 74. Populate Next Right pointers of Tree
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
-76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder </br> 
+76. [Construct BST from given keys and BST from preorder traversal - 2 different ques]</br> 
 77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)
 78. [Find LCA of two nodes in BST](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
@@ -166,7 +166,7 @@
 ## Day18: (String) - Studied
 121. [Prefix Function/Z-Function]</br>
 122. [KMP algo] - Studied and implemented in strstr </br>
-123. []</br> 
+123. 
 124. [Check for Anagrams](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) - Studied
 125. [Count and Say](https://www.geeksforgeeks.org/look-and-say-sequence/)- Studied
 126. [Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/) - Studied</br> 
