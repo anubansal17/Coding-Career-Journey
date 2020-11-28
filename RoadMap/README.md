@@ -104,8 +104,8 @@
 74. [Populate Next Right pointers of Tree]() </br>
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys] - Similar as constructing a BT from preorder and inorder </br> 
-77. [Check is a BT is BST or not] (https://www.interviewbit.com/problems/valid-binary-search-tree/)
-78. [Find LCA of two nodes in BST] (https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
+77. [Check is a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)
+78. [Find LCA of two nodes in BST](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 ## Day13: (Binary Search Tree) 
@@ -218,7 +218,7 @@
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good que
 
-## Day22
+## Day22 - Partially done
 163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
 164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
 165. Strongly Connected Components(using KosaRaju’s algo) </br>
