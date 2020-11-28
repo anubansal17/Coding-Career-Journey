@@ -233,7 +233,7 @@
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/)</br>
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
 
-## Day23: (Greedy) 
+## Day23: (Greedy) - Studied
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
 176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/)
 177. Greedy algorithm to find minimum number of coins - Coin Change 2 </br>
@@ -241,6 +241,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 179. [Minimum number of platforms required for a railway](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
 180. [Job sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
 [Solve this on leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+181. [Gas Station](https://leetcode.com/problems/gas-station/)
 
 # Day24: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
