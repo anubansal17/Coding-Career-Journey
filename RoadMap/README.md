@@ -29,7 +29,7 @@
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que
 
-## Day4: (Binary Tree) - Done - Revised
+## Day4: (Binary Tree) - Done 
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
@@ -37,7 +37,7 @@
 24. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 25. [Top View of Binary Tree](https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/)
 
-## Day5: (Binary Tree) - Done - Revised
+## Day5: (Binary Tree) - Done
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 27. [Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -46,7 +46,7 @@
 31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)
 
-## Day 6: (Binary Tree) - Done - Revised
+## Day 6: (Binary Tree) - Done 
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
@@ -100,7 +100,7 @@
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/) </br>
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard </br>
 
-## Day 12: (Binary Search Tree) - Revised
+## Day 12: (Binary Search Tree)
 74. Populate Next Right pointers of Tree
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys and BST from preorder traversal - 2 different ques]</br> 
