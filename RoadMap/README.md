@@ -109,12 +109,12 @@
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 ## Day13: (Binary Search Tree) 
-80. Floor and Ceil in a BST</br>
-81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) </br>
-82. Find a pair with a given sum in BST
-83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)</br>
-84. Size of the largest BST in a Binary Tree
-85. Serialize and deserialize Binary Tree
+80. Floor and Ceil in a BST </br>
+81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) 
+82. Find a pair with a given sum in BST </br>
+83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)
+84. Size of the largest BST in a Binary Tree </br>
+85. Serialize and deserialize Binary Tree </br>
 
 ## Day14: (Mixed Questions) 
 86. Binary Tree to Doubly Linked List </br>
@@ -132,7 +132,7 @@
 96. [Merge k sorted lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) - v.v good ques
 97. [LRU Cache](https://leetcode.com/problems/lru-cache)
 98.
-99
+99.
 
 
 ## Day16: (Stack and Queue) - Studied
