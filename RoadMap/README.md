@@ -196,12 +196,12 @@
 144. Even Reverse
 145. Reverse Linked list 2
 
-## Day21: (2-pointer) 
-142. Find the starting point of the loop. </br>
-143. 3 sum </br>
-144. Trapping rainwater </br>
-145. Remove Duplicate from Sorted array </br>
-146. Max continuous number of 1’s  </br>
+## Day21: (2-pointer) - Done
+142. [Find the starting point of the loop](https://leetcode.com/problems/linked-list-cycle-ii/)
+143. [3 sum](https://leetcode.com/problems/3sum/)
+144. [Rain Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
+145. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+146. [Max continuous number of 1’s](https://leetcode.com/problems/max-consecutive-ones/)
 
 ## Day22: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
