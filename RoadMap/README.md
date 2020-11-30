@@ -135,20 +135,20 @@
 99.
 
 
-## Day16: (Stack and Queue) - Studied
-100. 
+## Day16: (Stacks and Queues) - Done
+100. [Reverse a stack using recursion] - Pending
 101. [Implement Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/) - By making pop operation costly
 102. [Implement Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/) - By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-## Day14: (Stacks) - Studied
+## Day14: (Stacks and Queues) - Studied
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
-106. [Stock span problem]
+106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
 107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
-108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good one
-109. [Implement Min Stack with O(n) space complexity and with O(1) Space complexity](https://www.interviewbit.com/problems/min-stack/)</br>
-110. [Rain Water Trapped] - Solved in 2 ptrs
+108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good que on queues
+109. [Implement Min Stack with and without extra Space](https://www.interviewbit.com/problems/min-stack/)
+110. [Alternate elements of stack]
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
