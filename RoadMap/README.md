@@ -187,14 +187,14 @@
 137. [Detect a cycle ](https://leetcode.com/problems/linked-list-cycle-ii/)[and removing loop(two different questions and same concept)]- Keep track of prev node
 138. [Flattening of k sorted LinkedLists - Similar to merge k sorted linked lists]</br>
 139. [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
-140. []
 
-## Day21: (LinkedList)
+## Day21: (LinkedList) - Pending
+140. [Sort a Linked List](https://leetcode.com/problems/sort-list/)
 141. [Sort binary linked list](https://www.interviewbit.com/problems/sort-binary-linked-list/)
-142. [Merge k sorted LinkedLists](https://leetcode.com/problems/merge-k-sorted-lists/)
-143. Reverse alternate k nodes
-144. Even Reverse
-145. Reverse Linked list 2
+142. [Merge k sorted LinkedLists](https://leetcode.com/problems/merge-k-sorted-lists/) - Leetcode Hard
+143. [Reverse alternate k nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)
+144. [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)
+145. [Reverse Linked list 2](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 ## Day21: (2-pointer) - Done
 142. [Find the starting point of the loop](https://leetcode.com/problems/linked-list-cycle-ii/)
