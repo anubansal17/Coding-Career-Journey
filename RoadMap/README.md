@@ -180,12 +180,12 @@
 132. [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
 133. [Delete a given Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
 
-## Day20: (LinkedList)
+## Day20: (LinkedList) - Done
 134. [Find intersection point of 2 LinkedLists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 135. [Check if a LinkedList is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/)
 136. [Reverse a LinkedList in groups](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Leetcode Hard
 137. [Detect a cycle ](https://leetcode.com/problems/linked-list-cycle-ii/)[and removing loop(two different questions and same concept)]- Keep track of prev node
-138. [Flattening of k sorted LinkedLists - Similar to merge k sorted linked lists](https://leetcode.com/problems/merge-k-sorted-lists/) - Start from here
+138. [Flattening of k sorted LinkedLists - Similar to merge k sorted linked lists]</br>
 139. [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
 140. []
 
