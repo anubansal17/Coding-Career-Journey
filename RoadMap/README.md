@@ -54,7 +54,7 @@
 37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
 
-## Day7: (Hashing) - Done
+## Day7: (Hashing) - Studied
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
