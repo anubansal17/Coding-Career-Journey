@@ -29,7 +29,7 @@
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que
 
-## Day4: (Binary Tree) - Done 
+## Day4: (Binary Tree) - Done, Revised
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
@@ -142,7 +142,7 @@
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-## Day14: (Stacks and Queues) - Studied
+## Day17: (Stacks and Queues) - Studied
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
 106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
 107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
@@ -152,7 +152,7 @@
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
-## Day17: (String) - Studied
+## Day18: (String) - Studied
 113. [Reverse Words in a String](http://www.geeksforgeeks.org/reverse-words-in-a-given-string/)
 114. [Longest Palindrome in a string] - Done using LCS</br>
 115. [Roman Number to Integer and vice versa](https://www.geeksforgeeks.org/converting-roman-numerals-decimal-lying-1-3999/)
@@ -163,7 +163,7 @@
 120. [Minimum Insertion Steps at any index to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) - LCS based
 
 
-## Day18: (String) - Studied
+## Day19: (String) - Studied
 121. [Prefix Function/Z-Function]</br>
 122. [KMP algo] - Studied and implemented in strstr </br>
 123. 
@@ -172,7 +172,7 @@
 126. [Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/) - Studied</br> 
 127. [Implement atoi](https://www.geeksforgeeks.org/write-your-own-atoi/) - Studied
 
-## Day19: (LinkedList) - Done
+## Day20: (LinkedList) - Done
 128. [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
 129. [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 130. [Find middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -180,7 +180,7 @@
 132. [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
 133. [Delete a given Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
 
-## Day20: (LinkedList) - Done
+## Day21: (LinkedList) - Done
 134. [Find intersection point of 2 LinkedLists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 135. [Check if a LinkedList is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/)
 136. [Reverse a LinkedList in groups](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Leetcode Hard
@@ -188,7 +188,7 @@
 138. [Flattening of k sorted LinkedLists - Similar to merge k sorted linked lists]</br>
 139. [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
 
-## Day21: (LinkedList) - Pending
+## Day22: (LinkedList) - Pending
 140. [Sort a Linked List](https://leetcode.com/problems/sort-list/)
 141. [Sort binary linked list](https://www.interviewbit.com/problems/sort-binary-linked-list/)
 142. [Merge k sorted LinkedLists](https://leetcode.com/problems/merge-k-sorted-lists/) - Leetcode Hard
@@ -196,13 +196,13 @@
 144. [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)
 145. [Reverse Linked list 2](https://leetcode.com/problems/reverse-linked-list-ii/)
 
-## Day21: (2-pointer) - Done
+## Day23: (2-pointer) - Done
 146. [3 sum](https://leetcode.com/problems/3sum/)
 147. [Rain Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
 148. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 149. [Max continuous number of 1’s](https://leetcode.com/problems/max-consecutive-ones/)
 
-## Day22: (Graphs) - Done
+## Day24: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
@@ -217,7 +217,7 @@
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good que
 
-## Day22 - Partially done
+## Day25 - Partially done
 163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
 164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
 165. Strongly Connected Components(using KosaRaju’s algo) </br>
@@ -232,7 +232,7 @@
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/)</br>
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
 
-## Day23: (Greedy) - Studied
+## Day26: (Greedy) - Studied
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
 176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/)
 177. Greedy algorithm to find minimum number of coins - Coin Change 2 </br>
@@ -243,7 +243,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 181. [Gas Station](https://leetcode.com/problems/gas-station/)
 182. [Candy Distribution](https://leetcode.com/problems/candy/) - Leetcode Hard
 
-# Day24: (Divide and Conquer) 
+## Day27: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
 63. Matrix Median </br>
 64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
@@ -251,7 +251,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 66. K-th element of two sorted arrays </br>
 67. Median of an array </br>
  
-# Day12: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
+## Day28: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
 68. Check if a number if a power of 2 or not in O(1) </br>
 69. Count total set bits </br>
 70. Divide Integers without / operator </br> 
