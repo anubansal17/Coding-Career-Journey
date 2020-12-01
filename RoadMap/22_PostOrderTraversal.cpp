@@ -14,12 +14,11 @@ public:
     // reverse pre order traversal with a bit modification - Root Right Left => Left Right Root
     vector<int> postorderTraversal(TreeNode* root) {
         vector <int> traversal;
-        stack <int> reverseTraversal;
         stack <TreeNode*> treeStack;
         TreeNode* cur = root;
         while(cur || !treeStack.empty()) {
             while(cur) {
-                reverseTraversal.push(cur->val);
+                traversal.push_back(cur->val);
                 // Pushing left child into stack
                 if(cur->left) {
                     treeStack.push(cur->left);
@@ -32,10 +31,7 @@ public:
             cur = top;
             }
         }
-       while(!reverseTraversal.empty()) {
-           traversal.push_back(reverseTraversal.top());
-           reverseTraversal.pop();
-       }
+       reverse(traversal.begin(), traversal.end());
         return traversal;
     }
 };
