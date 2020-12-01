@@ -241,6 +241,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 180. [Job sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
 [Solve this on leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 181. [Gas Station](https://leetcode.com/problems/gas-station/)
+182. [Candy Distribution](https://leetcode.com/problems/candy/) - Leetcode Hard
 
 # Day24: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
