@@ -100,7 +100,7 @@
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/) </br>
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard </br>
 
-## Day 12: (Binary Search Tree)
+## Day 12: (Binary Search Tree) - Studied
 74. [Populate Next Right pointers of Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys and BST from preorder traversal - 2 different ques]</br> 
@@ -135,14 +135,14 @@
 99.
 
 
-## Day16: (Stacks and Queues) - Done
+## Day16: (Stacks and Queues) - Done, Revised
 100. [Reverse a stack using recursion] - Pending
 101. [Implement Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/) - By making pop operation costly
 102. [Implement Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/) - By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-## Day17: (Stacks and Queues) - Studied
+## Day17: (Stacks and Queues) - Studied, Revised
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
 106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
 107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
@@ -172,7 +172,7 @@
 126. [Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/) - Studied</br> 
 127. [Implement atoi](https://www.geeksforgeeks.org/write-your-own-atoi/) - Studied
 
-## Day20: (LinkedList) - Done
+## Day20: (LinkedList) - Done, Revised
 128. [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
 129. [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 130. [Find middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -180,7 +180,7 @@
 132. [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)
 133. [Delete a given Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
 
-## Day21: (LinkedList) - Done
+## Day21: (LinkedList) - Done, Revised
 134. [Find intersection point of 2 LinkedLists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 135. [Check if a LinkedList is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/)
 136. [Reverse a LinkedList in groups](https://leetcode.com/problems/reverse-nodes-in-k-group/) - Leetcode Hard
@@ -196,7 +196,7 @@
 144. [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)
 145. [Reverse Linked list 2](https://leetcode.com/problems/reverse-linked-list-ii/)
 
-## Day23: (2-pointer) - Done
+## Day23: (2-pointer) - Done, Revised
 146. [3 sum](https://leetcode.com/problems/3sum/)
 147. [Rain Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
 148. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
