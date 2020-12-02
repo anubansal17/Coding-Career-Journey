@@ -109,15 +109,15 @@
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 ## Day13: (Binary Search Tree) 
-80. Floor and Ceil in a BST </br>
+80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp)and [Ceil in a BST](https://www.geeksforgeeks.org/ceil-from-a-bst/)
 81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) 
-82. Find a pair with a given sum in BST </br>
+82. [Find a pair with a given sum in BST](https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/)
 83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)
-84. Size of the largest BST in a Binary Tree </br>
-85. Serialize and deserialize Binary Tree </br>
+84. Size of the largest BST in a Binary Tree - Doubt
+85. [Serialize and deserialize Binary Tree](https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) - Lil Bit doubt
 
 ## Day14: (Mixed Questions) 
-86. Binary Tree to Doubly Linked List </br>
+86. [Binary Tree to Doubly Linked List](https://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/) - Level order traversal can also be used: try solving using that approach
 87. Find median in a stream of running integers. </br>
 88. K-th largest element in a stream. </br>
 89. Distinct numbers in Window. </br>
