@@ -251,7 +251,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 66. K-th element of two sorted arrays </br>
 67. Median of an array </br>
  
-## Day28: (Bits) (Optional, very rare topic in interviews, but if you have time left, someone might ask)
+## Day28: (Bits) (Optional)
 68. Check if a number if a power of 2 or not in O(1) </br>
 69. Count total set bits </br>
 70. Divide Integers without / operator </br> 
