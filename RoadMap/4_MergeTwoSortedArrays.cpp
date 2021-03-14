@@ -8,12 +8,11 @@ Approach 2: Insertion sort: Use the fact that both the arrays are already sorted
 - After doing this till last, we can easily append both the arrays as they can be considered as one sorted array
 - T.C - O(n1*n2) and S.C- O(1)
 
-Approach 3: Using Gap Algo, T.C- O(n(logn)) and S>C - O(1)
-- Gap = ceil(n1+n2)/2;
-- with a gap, keep comparing the elements starting from array 1
-- As soon as we reach out of second array, make the gap as gap/2 and then start from the first step
-- If the gap becomes 1, this would be the last iteration
+Approach 3: T.C - O(n1+n2) and S.C - O(1)
+- Start comparing from the end of both the arrays,m whichever is greater put that in the end of first array
+- Cover the edge cases correctly
 */
+// Approach 2: Implementation
 void swap(vector<int>& nums1, vector<int>& nums2, int i, int j) {
     int temp = nums1[i];
     nums1[i] = nums2[j];
@@ -39,6 +38,32 @@ public:
         }
         for(int i=0; i<n; i++) {
             nums1[m+i] = nums2[i];
+        }
+    }
+};
+
+// Approach 3 Code
+class Solution {
+public:
+    void merge(vector<int>& arr1, int m, vector<int>& arr2, int n) {
+        int index = arr1.size()-1;
+        int i = m-1;
+        int j = n-1;
+        while(i>=0 && j >= 0){
+            if(arr1[i] >= arr2[j]){
+                arr1[index] = arr1[i--];
+            }
+            else{
+                arr1[index] = arr2[j--];
+            }
+            index--;
+        }
+        
+        while(i>=0){
+            arr1[index--] = arr1[i--];
+        }
+        while(j>=0){
+            arr1[index--] = arr2[j--];
         }
     }
 };
