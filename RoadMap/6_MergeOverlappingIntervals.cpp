@@ -57,7 +57,7 @@ public:
         sort(intervals.begin(), intervals.end());
         vector <int> pair = intervals[0];
         for (int i=0; i<n; i++) {
-            // If end of any interval is greater than or equal to start of next                      interval, it can be merged
+            // If end of any interval is greater than or equal to start of next interval, it can be merged
             if(pair[1] >= intervals[i][0]) {
                 pair[1] = max(pair[1], intervals[i][1]);
                 }
