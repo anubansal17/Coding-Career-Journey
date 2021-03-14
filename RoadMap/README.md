@@ -1,6 +1,6 @@
 # DSA Roadmap for reference
 
-## Day1: (Arrays) - Done
+## Day1: (Arrays) - Done^2
 
 1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)</br> 
 2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)</br>
