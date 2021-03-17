@@ -28,7 +28,7 @@
 . [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)</br>
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que </br>
-. [Divide a by b without using *,/] - Gooooooogle
+. Divide a by b without using *,/ - Gooooooogle
 
 ## Day4: (Binary Tree) - Done, Revised
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
