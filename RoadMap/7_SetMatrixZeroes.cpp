@@ -4,7 +4,7 @@ Approach 1: Brute Force, T.C- O(n*m)(n+m), S.C- O(1)
 - Iterate over the matrix if any zero is found, make it's row and column as -1 inplace of 1s, not 0s
 - At last, make all -1s as 0's
 
-Approach 2: Using 2 dummy arrays, T.C - O(n*m), S.C- O(max(n+m))
+Approach 2: Using 2 dummy arrays, T.C - O(n*m), S.C- O(n+m)
 - Take 2 dummy arrays, one of size as number of rows and other of size as number of columns
 - Traverse the matrix, and if any zero is found make the element at corresponding row and column in dummy arrays as 0
 - After traversing the complete matrix this way, you would be having zeroes at some of the places at these dummy arrays
