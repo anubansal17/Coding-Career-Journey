@@ -6,11 +6,11 @@ Type 2: There can be some other type of problem too where you would need to tell
 - T.C - O(n)
 Type 3: Where you would be required to print the complete row of pascal triangle
 - To calculate nCr, you can use:
-- res *= (n-1)
+- res *= (n-i)
 - res /= i+1
 - Pseudo code: initialise res = 1;
 - for(int i=0; i<n; i++) {
-    res *= n-1
+    res *= n-i
     res /= i+1
     }
 Eg- 4C1 = 4/1, 4C2 = 4*(3/2)
