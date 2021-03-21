@@ -9,7 +9,7 @@ Type 3: Where you would be required to print the complete row of pascal triangle
 - res *= (n-i)
 - res /= i+1
 - Pseudo code: initialise res = 1;
-- for(int i=0; i<n; i++) {
+- for(int i=0; i<r; i++) {
     res *= n-i
     res /= i+1
     }
