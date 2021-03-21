@@ -9,6 +9,9 @@ Approach 2: Optimized one, T.C - O(n)
 - Reverse this increasing sequence to have the lowest combination of numbers according to dictionary
 */
 void swap(vector <int> &nums, int i, int j) {
+    if(nums[i] = nums[j]) {
+    return;
+    }
     int temp = nums[i];
     nums[i] = nums[j];
     nums[j] = temp;
