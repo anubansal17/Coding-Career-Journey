@@ -12,9 +12,11 @@ Approach 2: Similar to Dutch National Flag Algo - O(n) and 1 pass - T.C
 }
 */
 void swap(vector <int> &nums, int i, int j) {
-    int temp = nums[i];
-    nums[i] = nums[j];
-    nums[j] = temp;
+    if(i != j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
 }
 class Solution {
 public:
