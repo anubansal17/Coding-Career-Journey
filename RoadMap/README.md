@@ -210,13 +210,13 @@
 153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp)
 154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) - Done using DFS
 155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp)
-156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/)
-157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/)
+156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/) - BFS
+157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS
 158. [Clone a graph](https://leetcode.com/problems/clone-graph/)
-159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - Solved again till this pt
-160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)
-161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem
-162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - Good que
+159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - BFS
+160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)- DFS
+161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem (DFS)
+162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
 ## Day25
 163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
@@ -230,7 +230,7 @@
 171. [Disjoint Set Union Optimized Implementation](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/171_DSUOptimizedImpl.cpp)
 172. [DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
-174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/)</br>
+174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
 
 ## Day26: (Greedy)
