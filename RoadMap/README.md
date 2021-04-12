@@ -205,7 +205,7 @@
 
 ## Day24: (Graphs)
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
-151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem
+151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem (BFS)
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
 153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp)
 154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) - Done using DFS
@@ -232,6 +232,7 @@
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
+. [Detect Backedge in graph] - Goooogle
 
 ## Day26: (Greedy)
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
@@ -271,3 +272,24 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 8. [Unique subsets in Array](https://leetcode.com/problems/subsets-ii/)
 9. [Permutation with spaces](https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0)
 10. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+
+
+## Graphs
+### 1. BFS
+1. [Number of Islands](https://leetcode.com/problems/number-of-islands/) - Done
+2. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - Done
+3. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/)
+4. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/)
+5. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/)
+6. [Snake and Ladder](https://leetcode.com/problems/snakes-and-ladders/)
+7. [0-1 Matrix](https://leetcode.com/problems/01-matrix/)
+8. [As far from Land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+9. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
+10.[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
+### 2. Graph Coloring
+1. (https://leetcode.com/problems/possible-bipartition/) - Done
+2. https://leetcode.com/problems/is-graph-bipartite/ - Done
+
+### 2. Union Find Algo
+1. [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) - Leetcode Premium Hard - Pending
