@@ -231,7 +231,7 @@
 172. [DSU based que](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
-Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)
+Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
 . [Detect Backedge in graph] - Goooogle
 
 ## Day26: (Greedy)
