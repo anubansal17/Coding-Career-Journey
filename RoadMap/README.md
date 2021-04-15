@@ -2,12 +2,12 @@
 
 ## Day1: (Arrays)
 
-1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)</br> 
-2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)</br>
-3. [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)</br>
-4. [Merge two sorted Arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)</br>
-5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)</br>
-6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)</br> 
+1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)
+2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)
+3. [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
+4. [Merge two sorted Arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)
+5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
+6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)
 
 ## Day2: (Arrays)
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
@@ -24,10 +24,10 @@
 16. [Majority Element(>N/3)](https://leetcode.com/problems/majority-element-ii/)
 17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/) - Good one
 18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Leetcode hard - Pending
-19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)</br>
-. [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)</br>
-. [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
-. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que </br>
+19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+. [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)
+. [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
+. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que 
 . Divide a by b without using *,/ - Gooooooogle
 
 ## Day4: (Binary Tree)
@@ -49,8 +49,8 @@
 
 ## Day 6: (Binary Tree)
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Leetcode Hard based on DP on trees
-34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)</br>
-35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)</br>
+34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)
 37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
@@ -82,7 +82,7 @@
 57. Matrix Chain Multiplication]</br>
 58. Rod Cutting </br>
 59. [Egg Dropping] - Studied
-60. [Word Break](https://leetcode.com/problems/word-break/submissions/)</br>
+60. [Word Break](https://leetcode.com/problems/word-break/submissions/)
 61. Palindrome Partitioning (MCM Variation) </br>
 
 ## Day10: (Backtracking) 
@@ -94,12 +94,12 @@
 67. Word Break (print all ways)  </br>
 
 ## Day11: 
-68. [Combination sum-1](https://www.interviewbit.com/problems/combination-sum/)</br>
-69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)</br>
+68. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
+69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)
 70. [Palindrome Partioning] - Do it with DP </br>
-71. [Subset-1](https://www.interviewbit.com/problems/subset/) </br>
-72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/) </br>
-73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard </br>
+71. [Subset-1](https://www.interviewbit.com/problems/subset/)
+72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)
+73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard
 
 ## Day 12: (Binary Search Tree)
 74. [Populate Next Right pointers of Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)
