@@ -285,7 +285,7 @@ Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/
 7. [0-1 Matrix](https://leetcode.com/problems/01-matrix/)
 8. [As far from Land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 9. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
-10.[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+10. [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
 ### 2. Graph Coloring
 1. (https://leetcode.com/problems/possible-bipartition/) - Done
