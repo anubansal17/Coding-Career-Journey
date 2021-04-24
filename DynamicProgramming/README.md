@@ -5,7 +5,7 @@
 5. [Unbounded Knapsack](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0) - Done
 6. [Rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0/) - Done
 7. [Coin change I - Max number of ways](https://leetcode.com/problems/coin-change-2/) - Done
-8. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/submissions/) - Done
+8. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/) - Done
 9. [Longest Common Subsequence Length](https://leetcode.com/problems/longest-common-subsequence/submissions/) - Done
 10. [Longest Common Substring Length](https://practice.geeksforgeeks.org/problems/longest-common-substring/0) - Done
 11. Print Longest Common subsequence - Code implemented for practice - Done
