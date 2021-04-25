@@ -1,3 +1,4 @@
+// Approach 1 - 2D dp
 class Solution {
     int knapsack(vector <int>wt, int sum, int n) {
         int tp[n+1][sum+1];
@@ -45,5 +46,38 @@ public:
             return -1;
         }
         return ans;
+    }
+};
+
+// Approach 2: Coin Change - 1D dp
+class Solution {
+public:
+    int dp[10001];
+    int minCoins(vector<int> &coins, int amt, int n) {
+        if(amt == 0) {
+            return 0;
+        }
+        int ans = INT_MAX;
+        if(dp[amt] != -1)
+            return dp[amt];
+        for(int i=0; i<n; i++) {
+            if(coins[i] <= amt){
+                int temp;
+                if(dp[amt - coins[i]] != -1)
+                    temp = dp[amt - coins[i]];
+                else
+                    temp = minCoins(coins, amt - coins[i], n);
+                if(temp != INT_MAX and temp + 1 < ans) {
+                    ans = temp + 1;
+                }
+            }
+        }
+        return dp[amt] = ans;
+    }
+    int coinChange(vector<int>& coins, int amount) {
+        int size = coins.size();
+        memset(dp, -1, sizeof(dp));
+        int ans = minCoins(coins, amount, size);
+        return ans != INT_MAX ? ans : -1;
     }
 };
