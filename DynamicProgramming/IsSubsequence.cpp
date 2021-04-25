@@ -1,3 +1,25 @@
+// Approach 1: Simple one
+class Solution {
+public:
+bool isSubsequence(string s, string t) {
+        
+        int i,j,n,m;
+        n = s.size();
+        m = t.size();
+        i=j=0;
+        
+        while(i<n and j<m)
+        {
+            if(s[i]==t[j])       // increment i pointer as we have found a match
+                i++;
+            j++;
+        }
+        
+        return i==n;    // return whether we have found all the matches or not
+    }
+};
+
+// Approach 2: LCS based
 class Solution {
     int LCS(string s1, string s2, int n, int m) {
         int tp[n+1][m+1];
