@@ -24,3 +24,5 @@
 25. *[Print Longest Increasing Subsequence]/<br>
 26. *[Count Longest Increasing Subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/solution/)
 27. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) - Leetcode hard
+28. [2D DP Max Block Sum](https://leetcode.com/problems/matrix-block-sum/) - Done
+29. [Matrix Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
