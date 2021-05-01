@@ -208,7 +208,7 @@
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem (BFS)
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp)
 153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp)
-154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) - Done using DFS
+154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) - DFS
 155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp)
 156. [Number of islands(Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/) - BFS
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS
