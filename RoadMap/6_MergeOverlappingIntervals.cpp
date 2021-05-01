@@ -49,25 +49,22 @@ public:
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
+   
+        
         int n = intervals.size();
-        vector<vector<int>> ans;
-        if(n == 0) {
-            return intervals;
-        }
         sort(intervals.begin(), intervals.end());
-        vector <int> pair = intervals[0];
-        for (int i=0; i<n; i++) {
-            // If end of any interval is greater than or equal to start of next interval, it can be merged
-            if(pair[1] >= intervals[i][0]) {
-                pair[1] = max(pair[1], intervals[i][1]);
-                }
-            else {
-             ans.push_back({pair});
-             pair = intervals[i];
+        vector<int> cur = intervals[0];
+        vector<vector<int>> ans;
+        for (int i=1; i<n; i++) {
+            if(intervals[i][0] <= cur[1]){
+                cur[0] = min(cur[0], intervals[i][0]);
+                cur[1] = max(cur[1], intervals[i][1]);
+            } else{
+                ans.push_back(cur);
+                cur = intervals[i];
             }
-            
         }
-        ans.push_back({pair});
+        ans.push_back(cur);
         return ans;
     }
 };
