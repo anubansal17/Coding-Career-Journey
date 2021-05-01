@@ -16,7 +16,7 @@ expectedSum - ActualSum = missing - dupl
 Approach 3: Using XOR
 */
 
-// Approach 2 Implementation
+// Approach 1 Implementation
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
    int n = A.size();
    int dupl;
@@ -41,6 +41,35 @@ vector<int> Solution::repeatedNumber(const vector<int> &A) {
    ans.push_back(miss);
    return ans;
 }
+// Approach2 Implementation
+// Using xor
+vector<int> Solution::repeatedNumber(const vector<int> &V) {
+    long long  sum = 0;
+    long long sum2 = 0;
+    int n = V.size();
+    long long int temp;
+    for (int i=0; i<n; i++) {
+        temp = V[i];
+        sum += V[i];
+        sum -= (i+1);
+        sum2 += (long long)(V[i])*(long long)(V[i]);
+        sum2 -= (long long)(i+1)*(long long)(i+1);
+    }
+    // Rep - Miss = sum
+    // Rep^2 - Miss^2 = sum2
+    // Rep + Miss = sum2/sum
+    // Rep - Miss = sum
+    // 2Rep = (sum2/sum) + sum
+    // Rep = ((sum2/sum) + sum)/2
+    sum2 /= sum;
+    int x = (int)((sum2 + sum)/2);
+    int y = x - sum;
+    vector <int> ans;
+    ans.push_back(x);
+    ans.push_back(y);
+    return ans;
+}
+
 
 // Approach 3 Implementation
 // Using xor
