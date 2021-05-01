@@ -42,7 +42,6 @@ vector<int> Solution::repeatedNumber(const vector<int> &A) {
    return ans;
 }
 // Approach2 Implementation
-// Using xor
 vector<int> Solution::repeatedNumber(const vector<int> &V) {
     long long  sum = 0;
     long long sum2 = 0;
