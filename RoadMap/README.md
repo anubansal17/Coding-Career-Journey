@@ -214,7 +214,7 @@
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS
 158. [Clone a graph](https://leetcode.com/problems/clone-graph/)
 159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - BFS
-160. [Detect a cycle in directed graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)- DFS
+160. [Course Schedule](https://leetcode.com/problems/course-schedule/)- Cycle detection in directed graph using DFS
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem (DFS)
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
