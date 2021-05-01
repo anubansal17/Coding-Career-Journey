@@ -233,6 +233,7 @@
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
 . [Detect Backedge in graph] - Goooogle
+.[Number of Provinces(https://leetcode.com/problems/number-of-provinces/) - DSU Variation
 
 ## Day26: (Greedy)
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
