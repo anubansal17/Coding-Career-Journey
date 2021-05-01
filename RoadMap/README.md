@@ -214,7 +214,7 @@
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS
 158. [Clone a graph](https://leetcode.com/problems/clone-graph/)
 159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - BFS
-160. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation 
+160. [Detect Cycle In Directed Graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/) - DFS
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem (DFS)
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
@@ -231,8 +231,9 @@
 172. [Min no. of vertices](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - Indegree/Outdegree
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Cycle detection in directed graph using DFS
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
-Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
+. Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
 . [Detect Backedge in graph] - Goooogle</br>
+.[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation </br>
 
 ## Day26: (Greedy)
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
