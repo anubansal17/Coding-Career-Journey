@@ -214,7 +214,7 @@
 157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS
 158. [Clone a graph](https://leetcode.com/problems/clone-graph/)
 159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - BFS
-160. [Course Schedule](https://leetcode.com/problems/course-schedule/)- Cycle detection in directed graph using DFS
+160. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation 
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem (DFS)
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
@@ -227,13 +227,12 @@
 168. MST using Prim’s Algo </br>
 169. MST using Kruskal’s Algo  </br>
 170. Flood-fill Algorithm </br>
-171. [Disjoint Set Union Optimized Implementation](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/171_DSUOptimizedImpl.cpp)
+171. [Disjoint Set Union Optimized Implementation](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#)
 172. [Min no. of vertices](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - Indegree/Outdegree
-173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
+173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Cycle detection in directed graph using DFS
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
 . [Detect Backedge in graph] - Goooogle</br>
-.[Number of Provinces(https://leetcode.com/problems/number-of-provinces/) - DSU Variation
 
 ## Day26: (Greedy)
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
