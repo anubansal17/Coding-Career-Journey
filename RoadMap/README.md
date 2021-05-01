@@ -232,7 +232,7 @@
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Detect cycle in DAG
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
 Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
-. [Detect Backedge in graph] - Goooogle
+. [Detect Backedge in graph] - Goooogle</br>
 .[Number of Provinces(https://leetcode.com/problems/number-of-provinces/) - DSU Variation
 
 ## Day26: (Greedy)
