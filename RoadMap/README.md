@@ -9,7 +9,7 @@
 5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)
 
-## Day2: (Arrays)
+## Day2: (Arrays) - Done
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
@@ -28,7 +28,7 @@
 . [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que 
-. Divide a by b without using *,/ - Gooooooogle
+. Divide a by b without using *,/ - Gooooooogle Phone Screen
 
 ## Day4: (Binary Tree)
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
