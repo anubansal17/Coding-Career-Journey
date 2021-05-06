@@ -30,6 +30,8 @@
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que </br> 
 . Divide a by b without using *,/ - Gooooooogle Phone Screen
 
+# (Binary Search)
+1.
 ## Day4: (Binary Tree)
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
