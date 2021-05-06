@@ -4,9 +4,9 @@ Approach 1: Recursive solution T.C- exponential, S,C - exponential(Stack calls)
 - Base conditions - If staring indices exceeds ending indices or we reach till the ending index
 - Call the same fxn for right path and downward path
 - i,j = current indices and m,n- ending indices
-- If(i>=m || j>=n) return 0;
-- if( i== m-1 and j = n-1) return 1;
-- return countPaths(i+1,j)+countPaths(i,j+1)
+- If(i>m || j>n) return 0;
+- if( i== m-1 and j == n-1) return 1;
+- return countPaths(i+1,j) + countPaths(i,j+1)
 Approach 2: DP T.C - O(n*m), S.C- O(n*m)
 - Initialise the matrix with -1
 - Store the answer in tp[i][j] for current index
