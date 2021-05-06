@@ -30,7 +30,7 @@
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que </br> 
 . Divide a by b without using *,/ - Gooooooogle Phone Screen
 
-# (Binary Search)
+## (Binary Search)
 1.*[Search in 2D array(sorted) using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
 2.*
 
