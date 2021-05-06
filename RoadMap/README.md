@@ -31,7 +31,9 @@
 . Divide a by b without using *,/ - Gooooooogle Phone Screen
 
 # (Binary Search)
-1.
+1.[Search in 2D array using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
+
+
 ## Day4: (Binary Tree)
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
