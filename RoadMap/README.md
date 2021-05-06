@@ -31,7 +31,8 @@
 . Divide a by b without using *,/ - Gooooooogle Phone Screen
 
 # (Binary Search)
-1.[Search in 2D array using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
+1.*[Search in 2D array using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
+2.*
 
 
 ## Day4: (Binary Tree)
