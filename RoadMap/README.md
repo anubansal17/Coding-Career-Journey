@@ -17,7 +17,7 @@
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
-## Day3: (Maths) - Kinda done
+## Day3: (Maths) - Done
 13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 14. [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
@@ -27,12 +27,13 @@
 19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/) </br>
 . [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)</br>
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
-. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que </br> 
-. Divide a by b without using *,/ - Gooooooogle Phone Screen
+. [GCD based que](https://leetcode.com/problems/2-keys-keyboard/solution/) - Amazon que </br>  - Pending
+. [Divide a by b without using *,/](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/) - Gooooooogle Phone Screen
 
 ## (Binary Search)
-1.*[Search in 2D array(sorted) using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
-2.*
+1.[Search in 2D array(sorted) using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
+2.[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+3.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 
 ## Day4: (Binary Tree)
