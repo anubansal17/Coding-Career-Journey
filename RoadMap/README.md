@@ -61,7 +61,7 @@
 37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
 
-## Day7: (Hashing)
+## Day7: (Hashing) - Done
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
@@ -70,7 +70,7 @@
 45. [Clone LinkedList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 46. [Anagrams](https://leetcode.com/problems/group-anagrams/)
 47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - pending
-48. [fraction](https://www.interviewbit.com/problems/fraction/)
+48. [fraction](https://www.interviewbit.com/problems/fraction/) - pending as of now
 49. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)- pending
 
 ## Day8: (Dynamic Programming)
