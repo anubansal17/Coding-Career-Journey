@@ -282,4 +282,6 @@
 10. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 
 ## Sorting Algos
+## Tries
+## Segment Trees
 
