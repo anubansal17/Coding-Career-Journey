@@ -283,6 +283,6 @@
 
 ## Sorting Algos
 ## Tries
-1. - Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/ </br>
+1. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 ## Segment Trees
 
