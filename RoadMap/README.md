@@ -69,7 +69,7 @@
 43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one - Implementation Pending
 45. [Clone LinkedList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 46. [Anagrams](https://leetcode.com/problems/group-anagrams/)
-47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - pending
+47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 48. [fraction](https://leetcode.com/problems/fraction-to-recurring-decimal/) - pending as of now
 49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)- pending
 
