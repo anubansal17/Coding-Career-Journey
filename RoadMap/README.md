@@ -44,7 +44,7 @@
 24. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 25. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
-## Day5: (Binary Tree)
+## Day5: (Binary Tree) - Done
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 27. [Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
