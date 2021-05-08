@@ -137,7 +137,7 @@
 94. [K largest elements in unsorted array](https://www.interviewbit.com/problems/k-largest-elements/)
 95. [Sort a nearly sorted array] - studied
 96. [Merge k sorted lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) - v.v good ques
-97. [LRU Cache](https://leetcode.com/problems/lru-cache)
+97. [LRU Cache](https://leetcode.com/problems/lru-cache) - Amazon fav :p
 98.
 99.
 
