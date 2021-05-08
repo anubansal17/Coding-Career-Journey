@@ -51,7 +51,7 @@
 29. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 30. [Check if Binary tree is height balanced or not](https://leetcode.com/problems/balanced-binary-tree/)
 31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-32. [Check if two trees are identical or not](https://www.interviewbit.com/problems/identical-binary-trees/)
+32. [Check if two trees are identical or not](https://leetcode.com/problems/same-tree/)
 
 ## Day 6: (Binary Tree)
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Leetcode Hard based on DP on trees
