@@ -36,13 +36,13 @@
 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)</br>
 
 
-## Day4: (Binary Tree)
+## Day4: (Binary Tree) - Done
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
 23. [LeftView Of Binary Tree/Right View](https://leetcode.com/problems/binary-tree-right-side-view/)
 24. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
-25. [Top View of Binary Tree](https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/)
+25. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
 ## Day5: (Binary Tree)
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
