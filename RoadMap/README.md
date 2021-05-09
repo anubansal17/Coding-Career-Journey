@@ -198,7 +198,7 @@
 ## Day22: (LinkedList)
 140. [Sort a Linked List](https://leetcode.com/problems/sort-list/)
 141. [Sort binary linked list](https://www.interviewbit.com/problems/sort-binary-linked-list/)
-142. [Merge k sorted LinkedLists](https://leetcode.com/problems/merge-k-sorted-lists/) - Leetcode Hard
+142. 
 143. [Reverse alternate k nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)
 144. [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)
 145. [Reverse Linked list 2](https://leetcode.com/problems/reverse-linked-list-ii/)
