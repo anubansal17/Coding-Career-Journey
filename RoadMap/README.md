@@ -57,9 +57,9 @@
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Leetcode Hard based on DP on trees
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-36. [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)
+36. [Symmetric Binary Tree](https://leetcode.com/problems/symmetric-tree/)
 37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-38. [Check if Binary Tree is mirror of itself or not](https://www.interviewbit.com/problems/symmetric-binary-tree/)- Same concept used in symmetric binary tree  
+38. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 
 ## Day7: (Hashing) - Done
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
