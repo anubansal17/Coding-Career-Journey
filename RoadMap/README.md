@@ -112,7 +112,7 @@
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys and BST from preorder traversal - 2 different ques]</br> 
 77. [Check if a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)
-78. [Find LCA of two nodes in BST](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
+78. [Find LCA of two nodes in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
 ## Day13: (Binary Search Tree) 
