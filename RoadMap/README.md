@@ -128,7 +128,7 @@
 87. Find median in a stream of running integers. </br>
 88. 
 89. Distinct numbers in Window. </br>
-90. [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
+90. [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) - LC Hard Pending
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 ## Day15: Heaps and Maps
