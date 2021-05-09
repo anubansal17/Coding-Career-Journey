@@ -126,9 +126,9 @@
 ## Day14: (Mixed Questions) 
 86. [Binary Tree to Doubly Linked List](https://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/) - Level order traversal can also be used: try solving using that approach
 87. Find median in a stream of running integers. </br>
-88. K-th largest element in a stream. </br>
+88. 
 89. Distinct numbers in Window. </br>
-90. [K-th largest element in an unsorted array] - Done using heaps</br> 
+90. 
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 ## Day15: Heaps and Maps
