@@ -128,7 +128,7 @@
 87. Find median in a stream of running integers. </br>
 88. 
 89. Distinct numbers in Window. </br>
-90. [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) - LC Hard Pending
+90. 
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 ## Day15: Heaps and Maps
@@ -136,8 +136,8 @@
 93. [Kth Largest element in stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 94. [K largest elements in unsorted array](https://www.interviewbit.com/problems/k-largest-elements/)
 95. [Sort a nearly sorted array] - Refer notes
-96. [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) - v.v good ques
-97. [LRU Cache](https://leetcode.com/problems/lru-cache) - Amazon fav :p
+96. [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) - LC Hard - Pending
+97. [LRU Cache](https://leetcode.com/problems/lru-cache) - Amazon fav :p - Pending
 98. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 99. [K closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
@@ -198,7 +198,7 @@
 ## Day22: (LinkedList)
 140. [Sort a Linked List](https://leetcode.com/problems/sort-list/)
 141. [Sort binary linked list](https://www.interviewbit.com/problems/sort-binary-linked-list/)
-142. 
+142. [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) - v.v good ques
 143. [Reverse alternate k nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)
 144. [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)
 145. [Reverse Linked list 2](https://leetcode.com/problems/reverse-linked-list-ii/)
