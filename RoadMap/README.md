@@ -108,7 +108,7 @@
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard
 
 ## Day 12: (Binary Search Tree)
-74. [Populate Next Right pointers of Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)
+74. 
 75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 76. [Construct BST from given keys and BST from preorder traversal - 2 different ques]</br> 
 77. [Check if a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)
@@ -126,7 +126,7 @@
 ## Day14: (Mixed Questions) 
 86. [Binary Tree to Doubly Linked List](https://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/) - Level order traversal can also be used: try solving using that approach
 87. Find median in a stream of running integers. </br>
-88. 
+88. [Populate Next Right pointers of Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 89. Distinct numbers in Window. </br>
 90. 
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
