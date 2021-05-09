@@ -108,10 +108,10 @@
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard
 
 ## Day 12: (Binary Search Tree)
-74. 
-75. [Search given Key in BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
-76. [Construct BST from given keys and BST from preorder traversal - 2 different ques]</br> 
-77. [Check if a BT is BST or not](https://www.interviewbit.com/problems/valid-binary-search-tree/)
+74. [Construct BST from given keys](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+75. [Search given Key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) 
+76. [Construct BST from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) 
+77. [Check if a BT is BST or not](https://leetcode.com/problems/validate-binary-search-tree/)
 78. [Find LCA of two nodes in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 79. [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 
