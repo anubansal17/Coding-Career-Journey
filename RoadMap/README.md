@@ -286,3 +286,6 @@
 1. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 ## Segment Trees
 
+## Google List
+1. https://leetcode.com/problems/moving-average-from-data-stream/
+2. 
