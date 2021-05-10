@@ -288,4 +288,5 @@
 
 ## Google List
 1. https://leetcode.com/problems/moving-average-from-data-stream/
-2. 
+2. https://leetcode.com/problems/employee-importance/
+3. 
