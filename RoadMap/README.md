@@ -116,10 +116,10 @@
 79. [Find the inorder successor of a given Key in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 
 ## Day13: (Binary Search Tree) 
-80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and Ceil in a BST
+80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and Ceil in a BST - Similar to succesor in BST
 81. [Find K-th smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) and [K-th largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) 
-82. [Find a pair with a given sum in BST](https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/)
-83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)
+82. [Check if a pair with given sum exists in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+83. [BST iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 84. Size of the largest BST in a Binary Tree - Doubt
 85. [Serialize and deserialize Binary Tree](https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) - Lil Bit doubt
 
@@ -289,4 +289,7 @@
 ## Google List
 1. https://leetcode.com/problems/moving-average-from-data-stream/
 2. https://leetcode.com/problems/employee-importance/
-3. 
+3. https://leetcode.com/problems/logger-rate-limiter/ - Pending
+4. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+5. https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+6. 
