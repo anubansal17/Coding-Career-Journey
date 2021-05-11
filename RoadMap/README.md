@@ -116,8 +116,8 @@
 79. [Find the inorder successor of a given Key in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 
 ## Day13: (Binary Search Tree) 
-80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and [Ceil in a BST](https://www.geeksforgeeks.org/ceil-from-a-bst/)
-81. [Find K-th smallest](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (2 different Questions) 
+80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and Ceil in a BST
+81. [Find K-th smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) and [K-th largest element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) 
 82. [Find a pair with a given sum in BST](https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/)
 83. [BST iterator](https://www.interviewbit.com/problems/bst-iterator/)
 84. Size of the largest BST in a Binary Tree - Doubt
