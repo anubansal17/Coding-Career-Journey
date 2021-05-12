@@ -120,7 +120,7 @@
 81. [Find K-th smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) and [K-th largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) 
 82. [Check if a pair with given sum exists in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 83. [BST iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-84. Size of the largest BST in a Binary Tree - Doubt
+84. Size of the largest BST in a Binary Tree - Implementation pending
 85. [Serialize and deserialize Binary Tree](https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) - Lil Bit doubt
 
 ## Day14: (Mixed Questions) 
@@ -293,4 +293,5 @@
 4. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 5. https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 6. https://leetcode.com/problems/delete-nodes-and-return-forest/
-7. 
+7. https://leetcode.com/problems/path-with-maximum-gold/
+8. 
