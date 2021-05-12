@@ -115,20 +115,19 @@
 78. [Find LCA of two nodes in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 79. [Find the inorder successor of a given Key in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 
-## Day13: (Binary Search Tree) 
+## Day13: (Binary Search Tree) - Done
 80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and Ceil in a BST - Similar to succesor in BST
 81. [Find K-th smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) and [K-th largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) 
 82. [Check if a pair with given sum exists in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 83. [BST iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 84. Size of the largest BST in a Binary Tree - Implementation pending
-85. [Serialize and deserialize Binary Tree](https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) - Lil Bit doubt
 
 ## Day14: (Mixed Questions) 
 86. [Binary Tree to Doubly Linked List](https://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/) - Level order traversal can also be used: try solving using that approach
 87. Find median in a stream of running integers. </br>
 88. [Populate Next Right pointers of Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 89. Distinct numbers in Window. </br>
-90. 
+90. [Serialize and deserialize Binary Tree](https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) - Lil Bit doubt
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 ## Day15: Heaps and Maps - Done
