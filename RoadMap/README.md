@@ -141,9 +141,9 @@
 99. [K closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
 
-## Day16: (Stacks and Queues)
-100. [Reverse a stack using recursion] - Pending
-101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and [1 que](https://leetcode.com/problems/implement-stack-using-queues/discuss/1192046/C%2B%2B-One-Queue-push-O(1)-pop-O(n)-0ms)
+## Day16: (Stacks and Queues) - Done
+100. 
+101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and [1 queue](https://leetcode.com/problems/implement-stack-using-queues/discuss/1192046/C%2B%2B-One-Queue-push-O(1)-pop-O(n)-0ms)
 102. [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)- By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
@@ -151,7 +151,7 @@
 ## Day17: (Stacks and Queues)
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
 106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
-107. [Largest rectangle in histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
+107. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good que on queues
 109. [Implement Min Stack with and without extra Space](https://www.interviewbit.com/problems/min-stack/)
 110. [Alternate elements of stack]
@@ -279,6 +279,7 @@
 8. [Unique subsets in Array](https://leetcode.com/problems/subsets-ii/)
 9. [Permutation with spaces](https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0)
 10. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+11. [Reverse a stack using recursion] - Pending
 
 ## Sorting Algos
 ## Tries
