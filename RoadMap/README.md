@@ -127,7 +127,7 @@
 87. Find median in a stream of running integers. </br>
 88. [Populate Next Right pointers of Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 89. Distinct numbers in Window. </br>
-90. [Serialize and deserialize Binary Tree](https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) - Lil Bit doubt
+90. [Serialize and deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Pending
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 ## Day15: Heaps and Maps - Done
@@ -292,5 +292,4 @@
 4. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 5. https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 6. https://leetcode.com/problems/delete-nodes-and-return-forest/
-7. https://leetcode.com/problems/path-with-maximum-gold/
-8. 
+7. https://leetcode.com/problems/path-with-maximum-gold/ - Kinda Pending 
