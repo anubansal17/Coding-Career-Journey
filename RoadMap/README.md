@@ -292,4 +292,5 @@
 3. https://leetcode.com/problems/logger-rate-limiter/ - Pending
 4. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 5. https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
-6. 
+6. https://leetcode.com/problems/delete-nodes-and-return-forest/
+7. 
