@@ -152,7 +152,7 @@
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
 106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
 107. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-108. [Sliding Window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/) - Good que on queues
+108. [Sliding Window maximum](https://leetcode.com/problems/sliding-window-maximum/) - Good que on queues
 109. [Implement Min Stack with and without extra Space](https://www.interviewbit.com/problems/min-stack/)
 110. [Alternate elements of stack]
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
