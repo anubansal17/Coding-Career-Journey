@@ -144,7 +144,7 @@
 ## Day16: (Stacks and Queues)
 100. [Reverse a stack using recursion] - Pending
 101. [Implement Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/) - By making pop operation costly
-102. [Implement Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/) - By making deque costly
+102. [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)- By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
