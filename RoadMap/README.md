@@ -155,7 +155,7 @@
 108. [Sliding Window maximum](https://leetcode.com/problems/sliding-window-maximum/) - Good que on queues
 109. [Implement Min Stack with and without extra Space](https://leetcode.com/problems/min-stack/) - Intuition behind 2*val - min approach (WA) - Doubt
 110. [Rain Water Trapping](https://leetcode.com/problems/trapping-rain-water/)
-111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
+111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard - Implementation Pending
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
 ## Day18: (Strings)
