@@ -148,7 +148,7 @@
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-## Day17: (Stacks and Queues)
+## Day17: (Stacks and Queues) - Done
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
 106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
 107. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
