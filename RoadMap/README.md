@@ -154,7 +154,7 @@
 107. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 108. [Sliding Window maximum](https://leetcode.com/problems/sliding-window-maximum/) - Good que on queues
 109. [Implement Min Stack with and without extra Space](https://www.interviewbit.com/problems/min-stack/)
-110. [Alternate elements of stack]
+110. [Rain Water Trapping](https://leetcode.com/problems/trapping-rain-water/)
 111. [Maximum 1s rectangle in matrix](https://leetcode.com/problems/maximal-rectangle/) - Leetcode Hard
 112. [Check for redundant braces](https://www.interviewbit.com/problems/redundant-braces/) - Done it using maths logic
 
@@ -280,6 +280,7 @@
 9. [Permutation with spaces](https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0)
 10. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 11. [Reverse a stack using recursion] - Pending
+12. [Alternate elements of stack]
 
 ## Sorting Algos
 ## Tries
