@@ -204,7 +204,7 @@
 
 ## Day23: (2-pointer)
 146. [3 sum](https://leetcode.com/problems/3sum/)
-147. [Rain Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)
+147. 
 148. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 149. [Max continuous number of 1’s](https://leetcode.com/problems/max-consecutive-ones/)
 
