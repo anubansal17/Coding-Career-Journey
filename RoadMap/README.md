@@ -296,4 +296,6 @@
 7. https://leetcode.com/problems/path-with-maximum-gold/ - Kinda Pending 
 8. https://leetcode.com/problems/flip-equivalent-binary-trees/
 9. https://leetcode.com/problems/max-area-of-island/
-10. 
+10. https://leetcode.com/problems/number-of-closed-islands/
+11. https://leetcode.com/problems/surrounded-regions/
+12. 
