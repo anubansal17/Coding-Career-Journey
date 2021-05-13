@@ -299,4 +299,5 @@
 9. https://leetcode.com/problems/max-area-of-island/
 10. https://leetcode.com/problems/number-of-closed-islands/
 11. https://leetcode.com/problems/surrounded-regions/
-12. 
+12. https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+13. 
