@@ -243,7 +243,7 @@
 
 ## Day26: (Greedy)
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
-176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/)
+176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/) - [LC Premium](https://leetcode.com/problems/meeting-rooms-ii/)
 177. Greedy algorithm to find minimum number of coins - Coin Change 2 </br>
 178. [Fractional Knapsack Problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
 179. [Minimum number of platforms required for a railway](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
@@ -303,4 +303,5 @@
 13. https://leetcode.com/problems/longest-string-chain/
 14. https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 15. https://leetcode.com/problems/decode-string
-16. 
+16. https://leetcode.com/problems/meeting-rooms-ii/
+17. 
