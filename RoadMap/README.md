@@ -303,5 +303,17 @@
 13. https://leetcode.com/problems/longest-string-chain/
 14. https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 15. https://leetcode.com/problems/decode-string
-16. https://leetcode.com/problems/meeting-rooms-ii/
-17. 
+16. https://leetcode.com/problems/meeting-rooms-ii/ - Done till here
+17. https://leetcode.com/problems/random-pick-with-weight/
+18. https://leetcode.com/problems/guess-the-word/
+19. https://leetcode.com/problems/accounts-merge/
+20. https://leetcode.com/problems/max-points-on-a-line/
+21. https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+22. https://leetcode.com/problems/maximal-rectangle/
+23. https://leetcode.com/problems/optimal-account-balancing/
+24. https://leetcode.com/problems/logger-rate-limiter/
+25. https://leetcode.com/problems/string-transforms-into-another-string/
+26. https://leetcode.com/problems/robot-room-cleaner/
+27. https://leetcode.com/problems/moving-average-from-data-stream/
+28. https://leetcode.com/problems/russian-doll-envelopes/
+29. 
