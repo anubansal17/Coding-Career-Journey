@@ -305,7 +305,7 @@
 15. https://leetcode.com/problems/decode-string
 16. https://leetcode.com/problems/meeting-rooms-ii/ - Done till here
 17. https://leetcode.com/problems/random-pick-with-weight/ - Probability based Pending
-18. https://leetcode.com/problems/guess-the-word/ - Probability based Pending
+18. https://leetcode.com/problems/guess-the-word/ - Probability based Pending - Solution - https://leetcode.com/problems/guess-the-word/discuss/1195283/Randomization!-O(N)-Faster-than-100-C%2B%2B-solution-LOL
 19. https://leetcode.com/problems/accounts-merge/
 20. https://leetcode.com/problems/max-points-on-a-line/
 21. https://leetcode.com/problems/count-of-smaller-numbers-after-self/
