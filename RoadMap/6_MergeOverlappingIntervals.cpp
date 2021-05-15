@@ -57,7 +57,6 @@ public:
         vector<vector<int>> ans;
         for (int i=1; i<n; i++) {
             if(intervals[i][0] <= cur[1]){
-                cur[0] = min(cur[0], intervals[i][0]);
                 cur[1] = max(cur[1], intervals[i][1]);
             } else{
                 ans.push_back(cur);
