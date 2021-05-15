@@ -99,7 +99,7 @@
 66. Print all Permutations of a string/array</br> 
 67. Word Break (print all ways)  </br>
 
-## Day11: 
+## Day11: (Backtracking)
 68. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
 69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)
 70. [Palindrome Partioning] - Do it with DP </br>
