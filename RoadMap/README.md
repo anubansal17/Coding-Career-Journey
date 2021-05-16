@@ -101,7 +101,7 @@
 
 ## Day11: (Backtracking)
 68. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
-69. [Combination sum-2](https://www.interviewbit.com/problems/combination-sum-ii/)
+69. [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)
 70. [Palindrome Partioning] - Do it with DP </br>
 71. [Subset-1](https://www.interviewbit.com/problems/subset/)
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)
