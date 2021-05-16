@@ -103,7 +103,7 @@
 68. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
 69. [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)
 70. [Palindrome Partioning] - Do it with DP </br>
-71. [Subset-1](https://www.interviewbit.com/problems/subset/)
+71. [Subset-1](https://leetcode.com/problems/subsets/)
 72. [Subset-2](https://www.interviewbit.com/problems/subsets-ii/)
 73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard
 
