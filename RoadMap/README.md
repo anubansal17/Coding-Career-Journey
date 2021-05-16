@@ -105,7 +105,7 @@
 70. [Palindrome Partioning] - Do it with DP </br>
 71. [Subset-1](https://leetcode.com/problems/subsets/)
 72. [Subset-2](https://leetcode.com/problems/subsets-ii/)
-73. [K-th permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/) - leetcode hard - https://leetcode.com/problems/permutation-sequence/
+73. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
 ## Day 12: (Binary Search Tree) - Done
 74. [Construct BST from given keys](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
