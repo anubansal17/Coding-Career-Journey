@@ -99,10 +99,10 @@
 66. Print all Permutations of a string/array</br> 
 67. Word Break (print all ways)  </br>
 
-## Day11: (Backtracking)
+## Day11: (Backtracking) - Done
 68. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
 69. [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)
-70. [Palindrome Partioning] - Do it with DP </br>
+70. 
 71. [Subset-1](https://leetcode.com/problems/subsets/)
 72. [Subset-2](https://leetcode.com/problems/subsets-ii/)
 73. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
