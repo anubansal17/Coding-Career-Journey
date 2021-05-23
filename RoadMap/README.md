@@ -286,37 +286,3 @@
 ## Tries
 1. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 ## Segment Trees
-
-## Google List
-1. https://leetcode.com/problems/moving-average-from-data-stream/
-2. https://leetcode.com/problems/employee-importance/
-3. https://leetcode.com/problems/logger-rate-limiter/ - Pending
-4. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
-5. https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
-6. https://leetcode.com/problems/delete-nodes-and-return-forest/
-7. https://leetcode.com/problems/path-with-maximum-gold/ - Kinda Pending 
-8. https://leetcode.com/problems/flip-equivalent-binary-trees/
-9. https://leetcode.com/problems/max-area-of-island/
-10. https://leetcode.com/problems/number-of-closed-islands/
-11. https://leetcode.com/problems/surrounded-regions/
-12. https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
-13. https://leetcode.com/problems/longest-string-chain/
-14. https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
-15. https://leetcode.com/problems/decode-string
-16. https://leetcode.com/problems/find-duplicate-subtrees/
-17. https://leetcode.com/problems/accounts-merge/ 
-18. https://leetcode.com/problems/maximal-rectangle/
-19. https://leetcode.com/problems/insert-interval/
-20. https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
-21. https://leetcode.com/problems/meeting-rooms-ii/ - Done till here
-22. https://leetcode.com/problems/random-pick-with-weight/ - Probability based Pending
-23. https://leetcode.com/problems/guess-the-word/ - Probability based Pending - [Solution](https://leetcode.com/problems/guess-the-word/discuss/1195283/Randomization!-O(N)-Faster-than-100-C%2B%2B-solution-LOL)
-24. https://leetcode.com/problems/max-points-on-a-line/
-25. https://leetcode.com/problems/count-of-smaller-numbers-after-self/
-26. https://leetcode.com/problems/optimal-account-balancing/
-27. https://leetcode.com/problems/logger-rate-limiter/
-28. https://leetcode.com/problems/string-transforms-into-another-string/
-29. https://leetcode.com/problems/robot-room-cleaner/
-30. https://leetcode.com/problems/russian-doll-envelopes/
-31. 
-32. 
