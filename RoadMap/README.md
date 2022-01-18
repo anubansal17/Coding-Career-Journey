@@ -1,6 +1,6 @@
 # DSA Roadmap for reference
 
-## Day1: (Arrays) - Done
+## Day1: (Arrays)
 
 1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)
 2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)
@@ -73,7 +73,7 @@
 48. [fraction](https://leetcode.com/problems/fraction-to-recurring-decimal/) - pending as of now
 49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)- pending
 
-## Day8: (Dynamic Programming)
+## Day8: (Dynamic Programming) - Done
 50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
