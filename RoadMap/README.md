@@ -9,7 +9,7 @@
 5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)
 
-## Day2: (Arrays) - Done
+## Day2: (Arrays)
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
@@ -17,7 +17,7 @@
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
-## Day3: (Maths) - Done
+## Day3: (Maths)
 13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 14. [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
@@ -36,7 +36,7 @@
 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)</br>
 
 
-## Day4: (Binary Tree) - Done
+## Day4: (Binary Tree)
 20. [Inorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 21. [Preorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 22. [Postorder Traversal (with recursion and without recursion)](https://leetcode.com/problems/binary-tree-postorder-traversal)
@@ -44,7 +44,7 @@
 24. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 25. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
-## Day5: (Binary Tree) - Done
+## Day5: (Binary Tree)
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 27. [Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -53,7 +53,7 @@
 31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 32. [Check if two trees are identical or not](https://leetcode.com/problems/same-tree/)
 
-## Day 6: (Binary Tree) - Done
+## Day 6: (Binary Tree)
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Leetcode Hard based on DP on trees
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
@@ -61,7 +61,7 @@
 37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 
-## Day7: (Hashing) - Done
+## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
@@ -99,7 +99,7 @@
 66. Print all Permutations of a string/array</br> 
 67. Word Break (print all ways)  </br>
 
-## Day11: (Backtracking) - Done
+## Day11: (Backtracking)
 68. [Combination sum-1](https://leetcode.com/problems/combination-sum/)
 69. [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)
 70. 
@@ -107,7 +107,7 @@
 72. [Subset-2](https://leetcode.com/problems/subsets-ii/)
 73. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
-## Day 12: (Binary Search Tree) - Done
+## Day 12: (Binary Search Tree)
 74. [Construct BST from given keys](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 75. [Search given Key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) 
 76. [Construct BST from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) 
@@ -115,7 +115,7 @@
 78. [Find LCA of two nodes in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 79. [Find the inorder successor of a given Key in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 
-## Day13: (Binary Search Tree) - Done
+## Day13: (Binary Search Tree)
 80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and Ceil in a BST - Similar to succesor in BST
 81. [Find K-th smallest](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) and [K-th largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) 
 82. [Check if a pair with given sum exists in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
@@ -130,7 +130,7 @@
 90. [Serialize and deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Pending
 91. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
-## Day15: Heaps and Maps - Done
+## Day15: Heaps and Maps
 92. [Kth largest element in unsorted array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 93. [Kth Largest element in stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 94. [K largest elements in unsorted array](https://www.interviewbit.com/problems/k-largest-elements/)
@@ -141,14 +141,14 @@
 99. [K closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
 
-## Day16: (Stacks and Queues) - Done
+## Day16: (Stacks and Queues)
 100. 
 101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and [1 queue](https://leetcode.com/problems/implement-stack-using-queues/discuss/1192046/C%2B%2B-One-Queue-push-O(1)-pop-O(n)-0ms)
 102. [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)- By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-## Day17: (Stacks and Queues) - Done
+## Day17: (Stacks and Queues)
 105. [Next Smaller Element at left](https://www.interviewbit.com/problems/nearest-smaller-element/)
 106. [Stock span problem](https://leetcode.com/problems/online-stock-span/)
 107. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
@@ -208,7 +208,7 @@
 148. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 149. [Max continuous number of 1’s](https://leetcode.com/problems/max-consecutive-ones/)
 
-## Day24: (Graphs) - Done
+## Day24: (Graphs)
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem (BFS)
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp) - DFS
