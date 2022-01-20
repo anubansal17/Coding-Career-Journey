@@ -85,7 +85,7 @@
 58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)</br>
 59. Coin change </br>
 57. Subset Sum </br>
-57. Matrix Chain Multiplication]</br>
+57. Matrix Chain Multiplication</br>
 58. Rod Cutting </br>
 59. [Egg Dropping] - Studied
 60. [Word Break](https://leetcode.com/problems/word-break/submissions/)
