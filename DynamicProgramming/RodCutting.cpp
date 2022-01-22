@@ -1,3 +1,17 @@
+// 1D DP
+class Solution{
+  public:
+    int cutRod(int arr[], int n) {
+        int dp[n+1] = {0};
+        for (int i=1; i<=n; i++) {
+           for(int j=1; j<=i; j++) {
+                   dp[i] = max(arr[j-1]+dp[i-j], dp[i]);
+        }
+    }
+        return dp[n];
+    }
+};
+// 2D DP
 #include<iostream>
 #include<vector>
 #include<bits/stdc++.h>
@@ -13,7 +27,7 @@ int knapsack(vector <int>wt, vector <int> val, int W,int n)
                 dp[i][j] = 0;
             }
             else if (wt[i-1] < j) {
-                dp[i][j] = max(val[i-1] + dp[i][j-wt[n-1]], dp[i-1][j]);
+                dp[i][j] = max(val[i-1] + dp[i][j-wt[j-1]], dp[i-1][j]);
             } else {
                 dp[i][j] = dp[i-1][j];
             }
