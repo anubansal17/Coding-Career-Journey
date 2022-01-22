@@ -19,7 +19,7 @@
 11. Print Longest Common subsequence - Code implemented for practice
 12. [Print Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
 13. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-14. [Longest Increasing subsequence length](https://leetcode.com/problems/longest-increasing-subsequence/)
+14. [Longest Increasing subsequence length](https://leetcode.com/problems/longest-increasing-subsequence/)(O(nlogn) and O(n^2) soln)
 15. Shortest Common Supersequence Length - Approach: Len(str1)+Len(str2)-Len(LCS)
 16. [Minimum Number of deletions and insertions](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions/0)
 17. [Number of deletions for two strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
