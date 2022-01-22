@@ -5,7 +5,7 @@
 3. [Equal Sum Partion Problem: Check if array can be divided into equal halves - 2 subsets having sum as total/2](https://leetcode.com/problems/partition-equal-subset-sum/) - Count such subsets is a similar problem
 4. [Minimum Sum Partition Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
 
-**Unbounded Knapsack**
+**Unbounded Knapsack** - Done
 
 1. [Unbounded Knapsack](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
 2. [Rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0/)
