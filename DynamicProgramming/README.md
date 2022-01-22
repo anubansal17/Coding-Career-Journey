@@ -1,11 +1,19 @@
+**Bounded Knapsack**
+
 1. [0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0) - Done
 2. [Target Sum](https://leetcode.com/problems/target-sum/) - Done
 3. [Equal Sum Partion Problem: Check if array can be divided into equal halves - 2 subsets having sum as total/2](https://leetcode.com/problems/partition-equal-subset-sum/) - Done
 4. [Minimum Sum Partition Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
+
+**Unbounded Knapsack**
+
 5. [Unbounded Knapsack](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
 6. [Rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0/)
 7. [Coin change I - Max number of ways](https://leetcode.com/problems/coin-change-2/)
 8. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/)
+
+**LCS and LIS**
+
 9. [Longest Common Subsequence Length](https://leetcode.com/problems/longest-common-subsequence/submissions/)
 10. [Longest Common Substring Length](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
 11. Print Longest Common subsequence - Code implemented for practice
@@ -17,6 +25,9 @@
 17. [Number of deletions for two strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 18. [Longest Palindromic Subsequence Length](https://leetcode.com/problems/longest-palindromic-subsequence/)
 19. *[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+**Matrix Multiplication**
+
 20. *[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
 21. *[Palindromic subsequences](https://leetcode.com/problems/palindromic-substrings/)
 22. *[Longest Repeating Substring](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
