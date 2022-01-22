@@ -1,4 +1,21 @@
-// Memorization solution
+// Approach 1: 1D DP - Preferred one
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+        int n = coins.size();
+        int dp[5001] = {0};
+        dp[0] = 1;
+        for(int i=0; i<n; i++) {
+            for(int j=coins[i]; j<=amount;j++) {
+                dp[j] += dp[j-coins[i]];
+            }
+        }
+        return dp[amount];
+    }
+};
+
+
+//Approach2: Memorization solution
 class Solution {
      int dp[501][5001];
     int knapsack(vector<int> val, int n, int sum) {
