@@ -1,16 +1,16 @@
-**Bounded Knapsack**
+**Bounded Knapsack** - Done
 
-1. [0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0) - Done
-2. [Target Sum](https://leetcode.com/problems/target-sum/) - Done
-3. [Equal Sum Partion Problem: Check if array can be divided into equal halves - 2 subsets having sum as total/2](https://leetcode.com/problems/partition-equal-subset-sum/) - Done
+1. [0/1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+2. [Target Sum](https://leetcode.com/problems/target-sum/)
+3. [Equal Sum Partion Problem: Check if array can be divided into equal halves - 2 subsets having sum as total/2](https://leetcode.com/problems/partition-equal-subset-sum/) - Count such subsets is a similar problem
 4. [Minimum Sum Partition Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
 
 **Unbounded Knapsack**
 
-5. [Unbounded Knapsack](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
-6. [Rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0/)
-7. [Coin change I - Max number of ways](https://leetcode.com/problems/coin-change-2/)
-8. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/)
+1. [Unbounded Knapsack](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
+2. [Rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0/)
+3. [Coin change I - Max number of ways](https://leetcode.com/problems/coin-change-2/)
+4. [Coin change II - Min number of coins reqd](https://leetcode.com/problems/coin-change/)
 
 **LCS and LIS**
 
