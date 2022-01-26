@@ -9,7 +9,7 @@
 5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)
 
-## Day2: (Arrays)
+## Day2: (Arrays) - Done
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
