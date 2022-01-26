@@ -4,7 +4,7 @@ Approach 2: Optimized one, T.C - O(n)
 - Base condition: Check if it is the highest permutation possible with these numbers
 - In dictionary, the right part is always an increasing sequence, so we just need to find the point where this increasing sequence is stopping
 - For this, Traverse from right and check for first a[i] < a[i+1] - index1
-- Now, traverse from left and check the smallest number which is grater than nums[index1] - index2
+- Now, traverse from right and check the smallest number which is grater than nums[index1] - index2
 - Swap nums[index1] with nums[index2]
 - Reverse this increasing sequence to have the lowest combination of numbers according to dictionary
 */
