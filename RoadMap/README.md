@@ -13,7 +13,7 @@
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
-10. [Inversion Count in Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) - Studied
+10. [Inversion Count in Array (Using Merge Sort)](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) - Merge sort based - Pending
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
@@ -23,7 +23,7 @@
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
 16. [Majority Element(>N/3)](https://leetcode.com/problems/majority-element-ii/)
 17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/) - Good one
-18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Leetcode hard - Pending
+18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - Leetcode hard merge sort based - Pending
 19. [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/) </br>
 . [Count trailing zeros in factorial of a number](https://leetcode.com/problems/factorial-trailing-zeroes/)</br>
 . [Find GCD in Log N](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)</br>
