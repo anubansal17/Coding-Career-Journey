@@ -13,6 +13,8 @@ GFG Problem: https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-so
 - Apply the binary search for 0 to n*m-1
 - For index mapping, use above formula
 -- 3rd and 4th approach works incase given matrix is row and column wise sorted
+-- 3rd approach will work on both ques
+-- 4th approach will work iff the last element in the (n-1)th row is less than first element of nth row
 */
 // 3rd Approach Implementation
 class Solution {
