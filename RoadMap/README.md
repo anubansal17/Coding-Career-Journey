@@ -32,9 +32,9 @@
 . [Divide a by b without using *,/](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/) - Gooooooogle Phone Screen
 
 ## (Binary Search)
-1. [Search in 2D array(sorted) using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)</br>
-2. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)</br>
-3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)</br>
+1. [Search in 2D array(sorted) using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
+2. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 
 ## Day4: (Binary Tree)
