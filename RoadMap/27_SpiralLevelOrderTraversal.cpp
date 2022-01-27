@@ -1,3 +1,40 @@
+//----------------------------------------
+class Solution {
+public:
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        queue <TreeNode*> que;
+        vector <vector<int>> traversal;
+        // Base case
+        if(root == NULL) {
+            return traversal;
+        }
+        que.push(root);
+        int i=0;
+        // Keep exploring children of nodes present in queue
+        while(!que.empty()) {
+            vector <int> level;
+            int size = que.size();
+            for (int i=0; i< size; i++) {
+                 TreeNode* front = que.front();
+                level.push_back(front->val);
+                que.pop();
+                if(front->left != NULL) {
+                    que.push(front->left);
+                }
+                if(front->right) {
+                    que.push(front->right);
+                }   
+            }
+            if(i%2 == 1)
+                 reverse(level.begin(), level.end());
+            traversal.push_back(level);
+            i++;
+        }
+        
+        return traversal;
+    }
+};
+
 /**
  * Definition for binary tree
  * struct TreeNode {
@@ -59,39 +96,3 @@ vector<vector<int> > Solution::zigzagLevelOrder(TreeNode* A) {
 }
 
 
-//----------------------------------------
-class Solution {
-public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        queue <TreeNode*> que;
-        vector <vector<int>> traversal;
-        // Base case
-        if(root == NULL) {
-            return traversal;
-        }
-        que.push(root);
-        int i=0;
-        // Keep exploring children of nodes present in queue
-        while(!que.empty()) {
-            vector <int> level;
-            int size = que.size();
-            for (int i=0; i< size; i++) {
-                 TreeNode* front = que.front();
-                level.push_back(front->val);
-                que.pop();
-                if(front->left != NULL) {
-                    que.push(front->left);
-                }
-                if(front->right) {
-                    que.push(front->right);
-                }   
-            }
-            if(i%2 == 1)
-                 reverse(level.begin(), level.end());
-            traversal.push_back(level);
-            i++;
-        }
-        
-        return traversal;
-    }
-};
