@@ -31,7 +31,7 @@
 . [GCD based que](https://leetcode.com/problems/2-keys-keyboard/) - Amazon que </br> 
 . [Divide a by b without using *,/](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/) - Gooooooogle Phone Screen
 
-## (Binary Search)
+## (Binary Search) - Done
 1. [Search in 2D array(sorted) using BinarySearch](https://leetcode.com/problems/search-a-2d-matrix/)
 2. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
