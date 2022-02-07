@@ -27,11 +27,7 @@ void djikstra(int source, int n, vector<pair<int, int> > adjList[n], vector <boo
 			// If it is not already visited
 			if(visited[childNode] == 0) {
 				int wt = adjList[current.second][i].second;
-				// if distance[current] + wt < distance[child]
-				if(distance[current.second] + wt < distance[child]) {
-					distance[child] = distance[current.second] + wt;
-					minHeap.push({distance[child], childNode});
-				}
+				minHeap.push({distance[child], childNode});
 			} 
 		}
 	}
