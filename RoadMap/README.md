@@ -240,7 +240,7 @@
 . Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
 . [Detect Backedge in graph] - Goooogle</br>
 .[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation </br>
-.[Topo Sort Ques]</br>
+.[Topo Sort Ques](https://leetcode.com/problems/course-schedule-ii/) </br>
 
 ## Day26: (Greedy)
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
