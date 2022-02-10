@@ -18,5 +18,4 @@ void unionSet(int a[],int x,int z)
         rank[parX] ++;
         a[parZ] = parX;
     }
-    a[parX] = parZ;
 }
