@@ -257,9 +257,9 @@
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
 63. Matrix Median </br>
 64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
-65. Search element in a sorted and rotated array. </br>
-66. K-th element of two sorted arrays </br>
-67. Median of an array </br>
+65. [Search element in a sorted and rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+66. K-th element of two sorted arrays - pending </br>
+67. Median of an array - pending </br>
  
 ## Day28: (Bit Manipulation)
 68. Check if a number if a power of 2 or not in O(1) </br>
