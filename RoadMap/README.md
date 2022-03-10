@@ -256,7 +256,7 @@
 ## Day27: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
 63. Matrix Median </br>
-64. Find the element that appears once in sorted array, and rest element appears twice (Binary search) </br>
+64. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 65. [Search element in a sorted and rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 66. K-th element of two sorted arrays - pending </br>
 67. Median of an array - pending </br>
