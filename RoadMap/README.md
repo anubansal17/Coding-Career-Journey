@@ -242,15 +242,15 @@
 .[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation </br>
 .[Topo Sort Ques](https://leetcode.com/problems/course-schedule-ii/) </br>
 
-## Day26: (Greedy)
+## Day26: (Greedy) - Done
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
 176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/) - [LC Premium](https://leetcode.com/problems/meeting-rooms-ii/)
 178. [Fractional Knapsack Problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
-179. [Minimum number of platforms required for a railway](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/) - Done till here
-180. [Job sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
+179. [Minimum number of platforms required for a railway](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+180. [Job sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/) - Pending
 [Solve this on leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 181. [Gas Station](https://leetcode.com/problems/gas-station/)
-182. [Candy Distribution](https://leetcode.com/problems/candy/) - Leetcode Hard
+182. [Candy Distribution](https://leetcode.com/problems/candy/)
 
 ## Day27: (Divide and Conquer) 
 62. 1/N-th root of an integer (use binary search) (square root, cube root, ..) </br>
