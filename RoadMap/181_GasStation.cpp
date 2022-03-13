@@ -1,13 +1,24 @@
-int Solution::canCompleteCircuit(const vector<int> &gas, const vector<int> &cost) {
-    int total = 0, tank = 0, index = 0;
-        for (int i = 0; i < cost.size(); i++) {
-            int consume = gas[i] - cost[i];			
-            tank += consume;
-            if (tank < 0) {
-                index = i + 1;
-                tank = 0;
+class Solution {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
+        int n = gas.size();
+        vector<int> remCost;
+        for(int i=0; i<n; i++) {
+            remCost.push_back(gas[i]-cost[i]);
+        }
+        for(int i=1; i<n; i++) {
+            remCost[i] += remCost[i-1];
+        }
+        if(remCost[n-1] < 0)
+            return -1;
+        int minm = remCost[0];
+        int index = 0;
+        for(int i=1; i<n; i++) {
+            if(remCost[i] < minm) {
+                minm = remCost[i];
+                index = i;
             }
-            total += consume;			
-        }		
-        return total < 0 ? -1 : index; // check if total -ve which means we can't complete the trip.
+        }
+        return (index+1)%n;
     }
+};
