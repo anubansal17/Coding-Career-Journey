@@ -9,14 +9,12 @@ public:
                 candies[i] = candies[i-1] + 1;
             }
         }
+        int sum = candies[n-1];
         // Considering the right side
         for (int i=n-2; i>=0; i--) {
             if(ratings[i] > ratings[i+1]) {
                 candies[i] = max(candies[i], candies[i+1]+1);
             }
-        }
-        int sum = 0;
-        for (int i=0; i<n; i++) {
             sum += candies[i];
         }
         return sum;
