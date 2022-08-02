@@ -74,7 +74,7 @@
 48. [fraction](https://leetcode.com/problems/fraction-to-recurring-decimal/) - pending as of now
 49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)- pending
 
-## Day8: (Dynamic Programming)
+## Day8: (Dynamic Programming) - Done
 50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
