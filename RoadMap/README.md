@@ -83,13 +83,13 @@
 55. [Maximum sum increasing subsequence](https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/)
 
 ## Day9: (Dynamic Programming)
-58. Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)</br>
-59. Coin change </br>
+58. [Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)](https://www.geeksforgeeks.org/maximum-path-sum-matrix/)
+59. [Coin change 2](https://leetcode.com/problems/coin-change-2/)
 57. Subset Sum </br>
 57. Matrix Chain Multiplication</br>
 58. Rod Cutting </br>
 59. [Egg Dropping] - Studied
-60. [Word Break](https://leetcode.com/problems/word-break/submissions/)
+60. [Word Break](https://leetcode.com/problems/word-break/)
 61. Palindrome Partitioning (MCM Variation) </br>
 
 ## Day10: (Backtracking) 
