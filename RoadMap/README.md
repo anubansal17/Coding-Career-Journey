@@ -85,7 +85,7 @@
 ## Day9: (Dynamic Programming)
 58. [Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)](https://www.geeksforgeeks.org/maximum-path-sum-matrix/)
 59. [Coin change 2](https://leetcode.com/problems/coin-change-2/)
-57. Subset Sum </br>
+57. [Subset Sum](https://leetcode.com/problems/target-sum/)
 57. Matrix Chain Multiplication</br>
 58. Rod Cutting </br>
 59. [Egg Dropping] - Studied
