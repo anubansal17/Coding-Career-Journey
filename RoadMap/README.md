@@ -1,6 +1,6 @@
 # DSA Roadmap for reference
 
-## Day1: (Arrays) - Done
+## Day1: (Arrays)
 
 1. [Find the duplicate in an array of N integers](https://leetcode.com/problems/find-the-duplicate-number/)
 2. [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://leetcode.com/problems/sort-colors/)
@@ -9,7 +9,7 @@
 5. [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
 6. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)
 
-## Day2: (Arrays) - Done
+## Day2: (Arrays) 
 7. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 8. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Next Permutation](https://leetcode.com/problems/next-permutation/)
@@ -17,7 +17,7 @@
 11. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 12. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 
-## Day3: (Maths) - Done
+## Day3: (Maths)
 13. [Search In a 2-D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 14. [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 15. [Majority Element(>N/2)](https://leetcode.com/problems/majority-element/)
