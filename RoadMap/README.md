@@ -242,7 +242,7 @@
 .[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation </br>
 .[Topo Sort Ques](https://leetcode.com/problems/course-schedule-ii/) </br>
 
-## Day26: (Greedy)
+## Day26: (Greedy) - done
 175. [Activity Selection/Max meetings in one room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
 176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/) - [LC Premium](https://leetcode.com/problems/meeting-rooms-ii/)
 178. [Fractional Knapsack Problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
