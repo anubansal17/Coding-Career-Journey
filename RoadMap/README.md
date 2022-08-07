@@ -216,8 +216,8 @@
 153. [BFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/153_BFS.cpp) - BFS
 154. [Detect A cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) - DFS
 155. [Topo Sort](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/155_topologicalSort.cpp) - Pending
-156. [Number of islands](https://leetcode.com/problems/number-of-islands/) - BFS
-157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS
+156. [Number of islands](https://leetcode.com/problems/number-of-islands/) - BFS/DFS
+157. [Bipartite Check](https://leetcode.com/problems/is-graph-bipartite/) - BFS/DFS
 158. [Clone a graph](https://leetcode.com/problems/clone-graph/) - Kinda DFS
 159. [Rotten Orange (Approach: Multi source BFS)](https://leetcode.com/problems/rotting-oranges/) - BFS
 160. [Detect Cycle In Directed Graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/) - DFS
