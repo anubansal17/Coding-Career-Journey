@@ -286,3 +286,5 @@
 ## Tries
 1. Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 ## Segment Trees
+## Randomization
+1. https://leetcode.com/problems/insert-delete-getrandom-o1/
