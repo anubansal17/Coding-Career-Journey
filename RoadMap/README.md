@@ -209,7 +209,7 @@
 148. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 149. [Max continuous number of 1’s](https://leetcode.com/problems/max-consecutive-ones/)
 
-## Day24: (Graphs)
+## Day24: (Graphs) - Done
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem (BFS)
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp) - DFS
