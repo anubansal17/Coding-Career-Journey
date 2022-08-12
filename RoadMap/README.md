@@ -174,7 +174,7 @@
 121. [Prefix Function/Z-Function]</br>
 122. [KMP algo] - Studied and implemented in strstr </br>
 123. 
-124. [Check for Anagrams](https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/) - Studied
+124. [Check for Anagrams](https://leetcode.com/problems/valid-anagram/)
 125. [Count and Say](https://www.geeksforgeeks.org/look-and-say-sequence/)- Studied
 126. [Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/) - Studied</br> 
 127. [Implement atoi](https://www.geeksforgeeks.org/write-your-own-atoi/) - Studied
