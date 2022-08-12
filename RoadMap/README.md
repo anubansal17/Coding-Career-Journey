@@ -176,8 +176,8 @@
 123. 
 124. [Check for Anagrams](https://leetcode.com/problems/valid-anagram/)
 125. [Count and Say](https://leetcode.com/problems/count-and-say/)
-126. [Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/) - Studied
-127. [Implement atoi](https://www.geeksforgeeks.org/write-your-own-atoi/) - Studied
+126. [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/)
+127. [Implement atoi](https://leetcode.com/problems/string-to-integer-atoi/)
 
 ## Day20: (LinkedList)
 128. [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
