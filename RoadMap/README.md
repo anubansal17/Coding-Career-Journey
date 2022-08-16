@@ -61,6 +61,7 @@
 36. [Symmetric Binary Tree](https://leetcode.com/problems/symmetric-tree/)
 37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 38. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
+39. [Maximum path sum bw two leaves in BT](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
 
 ## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
