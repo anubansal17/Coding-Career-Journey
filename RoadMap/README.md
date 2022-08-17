@@ -141,10 +141,10 @@
 97. [LRU Cache](https://leetcode.com/problems/lru-cache) - Amazon fav :p - Pending
 98. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 99. [K closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+100. [Implement hashmaps](https://leetcode.com/problems/design-hashmap/)
 
 
 ## Day16: (Stacks and Queues)
-100. 
 101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and [1 queue](https://leetcode.com/problems/implement-stack-using-queues/discuss/1192046/C%2B%2B-One-Queue-push-O(1)-pop-O(n)-0ms)
 102. [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)- By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
