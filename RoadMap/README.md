@@ -110,7 +110,7 @@
 73. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
 ## Day 12: (Binary Search Tree)
-74. [Construct BST from given keys](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+74. [Construct BST from sorted array](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 75. [Search given Key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) 
 76. [Construct BST from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) 
 77. [Check if a BT is BST or not](https://leetcode.com/problems/validate-binary-search-tree/)
