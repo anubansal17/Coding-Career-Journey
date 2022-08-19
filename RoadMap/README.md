@@ -109,13 +109,13 @@
 72. [Subset-2](https://leetcode.com/problems/subsets-ii/)
 73. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
-## Day 12: (Binary Search Tree)
+## Day 12: (Binary Search Tree) - Done
 74. [Construct BST from sorted array](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 75. [Search given Key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) 
 76. [Construct BST from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) 
 77. [Check if a BT is BST or not](https://leetcode.com/problems/validate-binary-search-tree/)
 78. [Find LCA of two nodes in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-79. [Find the inorder successor of a given Key in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+79. [Find the inorder successor of a given Key in BST](https://leetcode.com/problems/inorder-successor-in-bst/) - LC Premium
 
 ## Day13: (Binary Search Tree)
 80. [Floor in a BST](https://www.geeksforgeeks.org/floor-in-binary-search-tree-bst/?ref=rp) and Ceil in a BST - Similar to succesor in BST
