@@ -68,7 +68,7 @@
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
 42. [Longest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) or [Largest subarray with k sum(https://leetcode.com/problems/subarray-sum-equals-k/)
-43. *[Count number of subarrays with given XOR(this clears a lot of problems)](https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=5) - Tricky one - Implementation Pending
+43. [Count number of subarrays with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/)
 45. [Clone LinkedList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 46. [Anagrams](https://leetcode.com/problems/group-anagrams/)
 47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
