@@ -63,7 +63,7 @@
 38. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 39. [Maximum path sum bw two leaves in BT](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
 
-## Day7: (Hashing)
+## Day7: (Hashing) - done
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
