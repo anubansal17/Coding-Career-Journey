@@ -53,10 +53,9 @@ int main(int argc, char const *argv[])
 	int source = 0;
 	// Initialising the distance array with infinity
 	vector <int> distance(n, INT_MAX);
+	djikstra(source, n, adjList, distance);
 	// Making distance of source from source = 0
 	distance[source] = 0;
-
-	djikstra(source, n, adjList, distance);
 	for (auto num: distance) {
 		cout<<num;
 	}
