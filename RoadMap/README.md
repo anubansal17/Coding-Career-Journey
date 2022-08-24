@@ -226,7 +226,7 @@
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
 ## Day25
-163. [Djisktra’s Algorithm](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/163_Djikstra.cpp) - lil mistake in code, pending
+163. [Djisktra’s Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
 165. Strongly Connected Components(using KosaRaju’s algo) </br>
 166. Bellman Ford Algo </br>
