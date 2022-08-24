@@ -3,7 +3,7 @@
 #include <queue>
 using namespace std;
 
-void djikstra(int source, int n, vector<pair<int, int> > adjList[n], vector <bool> &visited, vector <int> &distance) {
+void djikstra1(int source, int n, vector<vector<int>> adjList[], vector <bool> &visited, vector <int> &distance) {
 	// Min heap would be used to pop min distance element from the queue always
 	priority_queue <pair<int, int>, vector<pair<int, int> >, greater <pair<int, int> > > minHeap;
 	// Push source and it's distance pair into minHeap (Having distance as first element and node as second)
@@ -11,10 +11,10 @@ void djikstra(int source, int n, vector<pair<int, int> > adjList[n], vector <boo
 	// Run algo till que is not empty
 	while(!minHeap.empty()) {
 		// extracting minimum distance having node from heap
-		pair <int, int> current = minHeap.front();
+		pair <int, int> current = minHeap.top();
 		minHeap.pop();
 		// If the popped node is already visited, then discard it
-		if(visited[current] == 1) {
+		if(visited[current.second] == 1) {
 			continue;
 		}
 		// node will be marked as visited at the time of poppping
@@ -23,16 +23,17 @@ void djikstra(int source, int n, vector<pair<int, int> > adjList[n], vector <boo
 		distance[current.second] = current.first; 
 		// exploring children of popped element
 		for (int i=0; i<adjList[current.second].size(); i++) {
-			int childNode = adjList[current.second][i].first;
+			int childNode = adjList[current.second][i][0];
 			// If it is not already visited
 			if(visited[childNode] == 0) {
-				int wt = adjList[current.second][i].second;
-				minHeap.push({distance[child], childNode});
+				int wt = adjList[current.second][i][1];
+				minHeap.push({distance[current.second]+wt, childNode});
 			} 
 		}
 	}
 
 }
+};
 
 int main(int argc, char const *argv[])
 {
@@ -44,7 +45,7 @@ int main(int argc, char const *argv[])
 	int e;
 	cin>>e;
 	// adjacency list
-	vector <pair<int, int> > adjList[n];
+	vector <vector<int> > adjList[n];
 	for (int i=0; i<e; i++) {
 		int x, y, wt;
 		cin>>x;
