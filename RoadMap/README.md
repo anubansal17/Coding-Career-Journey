@@ -73,7 +73,7 @@
 46. [Anagrams](https://leetcode.com/problems/group-anagrams/)
 47. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 48. [fraction](https://leetcode.com/problems/fraction-to-recurring-decimal/) - pending as of now
-49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)- pending
+49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ## Day8: (Dynamic Programming) - Done
 50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
