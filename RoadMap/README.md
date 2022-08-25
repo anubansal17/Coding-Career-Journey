@@ -234,7 +234,7 @@
 168. MST using Prim’s Algo </br>
 169. MST using Kruskal’s Algo  </br>
 170. Flood-fill Algorithm </br>
-171. [Disjoint Set Union Optimized Implementation](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#)
+171. [Disjoint Set Union with path compression Implementation](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#) [Rank based or Size based optimization can also be done in union fxn but not in this que]
 172. [Min no. of vertices](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - Indegree/Outdegree
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Cycle detection in directed graph using DFS
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
