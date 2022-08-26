@@ -231,7 +231,7 @@
 165. Strongly Connected Components(using KosaRaju’s algo) - Pending </br>
 166. Bellman Ford Algo - Pending </br>
 167. Floyd Warshall Algorithm - Pending </br>  
-168. MST using Prim’s Algo </br> - Pending 
+168. MST using Prim’s Algo - Pending </br>
 169. MST using Kruskal’s Algo  - Pending  </br>
 170. Flood-fill Algorithm - Pending </br>
 171. [Disjoint Set Union with path compression Implementation](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#) [Rank based or Size based optimization can also be done in union fxn but not in this que]
