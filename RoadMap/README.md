@@ -247,8 +247,8 @@
 176. [Minimum number of meeting rooms required](https://www.interviewbit.com/problems/meeting-rooms/) - [LC Premium](https://leetcode.com/problems/meeting-rooms-ii/)
 178. [Fractional Knapsack Problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
 179. [Minimum number of platforms required for a railway](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
-180. [Job sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/) - Pending
-[Solve similar que on leetcode(hard)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+180. [Job sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
+[Similar que leetcode(hard)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 181. [Gas Station](https://leetcode.com/problems/gas-station/)
 182. [Candy Distribution](https://leetcode.com/problems/candy/)
 
