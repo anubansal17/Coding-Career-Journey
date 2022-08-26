@@ -225,22 +225,21 @@
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem (DFS)
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
-## Day25
+## Day25 - Done
 163. [Djisktra’s Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
-165. Strongly Connected Components(using KosaRaju’s algo) </br>
-166. Bellman Ford Algo </br>
-167. Floyd Warshall Algorithm </br>  
-168. MST using Prim’s Algo </br>
-169. MST using Kruskal’s Algo  </br>
-170. Flood-fill Algorithm </br>
+165. Strongly Connected Components(using KosaRaju’s algo) - Pending </br>
+166. Bellman Ford Algo - Pending </br>
+167. Floyd Warshall Algorithm - Pending </br>  
+168. MST using Prim’s Algo </br> - Pending 
+169. MST using Kruskal’s Algo  - Pending  </br>
+170. Flood-fill Algorithm - Pending </br>
 171. [Disjoint Set Union with path compression Implementation](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1#) [Rank based or Size based optimization can also be done in union fxn but not in this que]
 172. [Min no. of vertices](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) - Indegree/Outdegree
 173. [Course schedule](https://leetcode.com/problems/course-schedule/) - Cycle detection in directed graph using DFS
 174. [Snake and Ladder](https://www.interviewbit.com/problems/snake-ladder-problem/) - BFS
-. Solve this prob on leetcode - (https://leetcode.com/problems/snakes-and-ladders/)</br>
 . [Detect Backedge in graph] - Goooogle</br>
-.[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU Variation </br>
+.[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - DSU can be used here for just practice thing </br>
 .[Topo Sort Ques](https://leetcode.com/problems/course-schedule-ii/) </br>
 
 ## Day26: (Greedy) - done
