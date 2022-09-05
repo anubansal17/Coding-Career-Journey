@@ -145,7 +145,7 @@
 
 
 ## Day16: (Stacks and Queues)
-101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and [1 queue](https://leetcode.com/problems/implement-stack-using-queues/discuss/1192046/C%2B%2B-One-Queue-push-O(1)-pop-O(n)-0ms)
+101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and 1 queue
 102. [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)- By making deque costly
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
 104. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
