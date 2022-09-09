@@ -9,6 +9,25 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// ----Better approach - can be used for preorder, postorder and inorder
+    void flatten(TreeNode* root) {
+        if(root == NULL)
+            return;
+        flatten(root->left);
+        flatten(root->right);
+        if(root->left) {
+            TreeNode* cur = root->left;
+            while(cur->right) {
+                cur = cur->right;
+            } 
+            cur->right = root->right;
+            root->right = root->left; 
+            root->left = NULL;
+        } 
+    }
+};
+
+////////////////--------------------------------------
 class Solution {
 public:
     void flatten(TreeNode* root) {
