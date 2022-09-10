@@ -59,7 +59,7 @@
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 36. [Symmetric Binary Tree](https://leetcode.com/problems/symmetric-tree/)
-37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+37. [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - Preorder traversal using recursion so that it can be used for post order traversal
 38. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 39. [Maximum path sum bw two leaves in BT](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
 
