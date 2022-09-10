@@ -92,6 +92,7 @@
 60. [Egg Dropping] - Studied
 61. [Word Break](https://leetcode.com/problems/word-break/)
 62. Palindrome Partitioning (MCM Variation) </br>
+63. [Best Time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) - Good que on matrix chain multiplication
 
 ## Day10: (Backtracking) 
 62. N queens Problem </br>
