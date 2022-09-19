@@ -124,6 +124,7 @@
 82. [Check if a pair with given sum exists in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 83. [BST iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 84. Size of the largest BST in a Binary Tree - Implementation pending
+85. [Deletion in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) - Good one
 
 ## Day14: (Mixed Questions) 
 86. [Binary Tree to Doubly Linked List](https://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/) - Level order traversal can also be used: try solving using that approach
