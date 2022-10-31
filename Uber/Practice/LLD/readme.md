@@ -14,3 +14,19 @@
 
     Input 3: [(Mon 9:00 -> Mon 12:00), (Mon 12:00 -> Mon 17:00)]
     Output 3: [(Mon 9:00 -> Mon 17:00)]
+    
+2. **Parking Lot**
+ 
+  Provide code for a parking lot with the following assumptions,
+ 
+• The parking lot has multiple levels. Each level has multiple rows of spots. 
+• The parking lot has motorcycle spots and car spots.
+• Parking lot can have multiple entry and exits
+ 
+Requirements:
+ 
+1. multi level parking 
+2. 2 types of vehicles -> M, C
+3. fixed number -> multiple entry & exits [different]
+4. each level has mulitple rows of spots
+ 
