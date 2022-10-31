@@ -1,3 +1,25 @@
+/*Enum:
+1. SlotType -> twoWheeler, fourWheeler
+2. GateType -> entry, exit
+3. VehicleType -> motorCycle, car
+ 
+Classes:
+ 
+1. Slot -> SlotType, slotId
+2. Vehicle -> VehicleType, vehicleId
+3. Level -> list<Row>
+4. Gate -> GateType, gateId
+5. Row -> list<Slot>, rowId 
+6. ParkingSystem [driverClass] -> methods: getParkingSlot(Vehicle vehicle), getAvailableSlot(string typeOfVehicle), emptySlot(Vehicle vehicle) ;  attributes: level
+ 
+// enum SlotType{
+//   twoWheeler, fourWheeler
+// };
+*/
+
+#include<bits/stdc++.h>
+     
+using namespace std;
 enum VehicleType {
   motorCycle, car
 };
