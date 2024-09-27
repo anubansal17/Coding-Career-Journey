@@ -45,7 +45,7 @@
 24. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 25. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
-## Day5: (Binary Tree) - done
+## Day5: (Binary Tree)
 26. [Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 27. [Level order traversal in spiral form](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) 
 28. [Height of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -54,7 +54,7 @@
 31. [LCA in Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 32. [Check if two trees are identical or not](https://leetcode.com/problems/same-tree/)
 
-## Day 6: (Binary Tree) - done
+## Day 6: (Binary Tree)
 33. [Maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Leetcode Hard based on DP on trees
 34. [Construct Binary Tree from inorder and preorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 35. [Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
@@ -63,7 +63,7 @@
 38. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 
 39. [Maximum path sum bw two leaves in BT](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
 
-## Day7: (Hashing) - done
+## Day7: (Hashing)
 39. [2 Sum problem](https://leetcode.com/problems/two-sum/)
 40. [4 Sum problem](https://leetcode.com/problems/4sum/)
 41. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Good que
@@ -75,7 +75,7 @@
 48. [fraction](https://leetcode.com/problems/fraction-to-recurring-decimal/) - pending as of now
 49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
-## Day8: (Dynamic Programming) - Done
+## Day8: (Dynamic Programming)
 50. [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 51. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 52. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
@@ -110,7 +110,7 @@
 72. [Subset-2](https://leetcode.com/problems/subsets-ii/)
 73. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
-## Day 12: (Binary Search Tree) - Done
+## Day 12: (Binary Search Tree)
 74. [Construct BST from sorted array](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 75. [Search given Key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) 
 76. [Construct BST from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) 
@@ -146,7 +146,7 @@
 100. [Implement hashmaps](https://leetcode.com/problems/design-hashmap/)
 
 
-## Day16: (Stacks and Queues) - Done
+## Day16: (Stacks and Queues)
 101. [Implement Stack using Queue](https://leetcode.com/problems/implement-stack-using-queues/) - Using 2 queues and 1 queue
 102. [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)- Pop mai reverse kro stack ko and push m direct push hoga and will give overall complexity as O(n) as any element is getting reversed only once
 103. [Check for balanced parentheses](https://leetcode.com/problems/valid-parentheses/)
@@ -212,7 +212,7 @@
 148. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 149. [Max continuous number of 1’s](https://leetcode.com/problems/max-consecutive-ones/)
 
-## Day24: (Graphs) - Done
+## Day24: (Graphs)
 150. [Storing graph using adjacency list](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/150_AdjacencyLists.cpp)
 151. [Find number of connected components in a graph](https://www.spoj.com/problems/CAM5/) - Spoj Problem (BFS)
 152. [DFS](https://github.com/anubansal17/Coding-Career-Journey/blob/master/RoadMap/152_DFS.cpp) - DFS
@@ -227,7 +227,7 @@
 161. [Check if undirected graph is a tree or not](https://www.spoj.com/problems/PT07Y/) - Spoj Problem (DFS)
 162. [Knight on Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/) - BFS
 
-## Day25 - Done
+## Day25 
 163. [Djisktra’s Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 164. [Cheapest flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) - Djikstra  based
 165. Strongly Connected Components(using KosaRaju’s algo) - Pending </br>
