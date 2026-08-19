@@ -88,7 +88,7 @@
 57. [Coin change 2](https://leetcode.com/problems/coin-change-2/)
 57. [Subset Sum](https://leetcode.com/problems/target-sum/)
 58. [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1)
-59. Matrix Chain Multiplication</br>
+59. [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
 60. [Egg Dropping] - Studied
 61. [Word Break](https://leetcode.com/problems/word-break/)
 62. Palindrome Partitioning (MCM Variation) </br>
